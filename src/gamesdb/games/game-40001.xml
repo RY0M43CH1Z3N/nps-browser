@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40001</id>
+<GameTitle>Xeodrifter</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/04/2016</ReleaseDate>
+<Overview>Xeodrifter™ Special Edition Now Available! Featuring Renegade Kid's in-depth development diary, and critically acclaimed soundtrack by artists Roth Sothy, Matthew Gambrell, and Brian Altano! 
+
+Xeodrifter™ is the story of an interstellar drifter traveling the stars on a simple mission of exploration. We join our nomad as he embarks on the investigation of a small cluster of four planets in the omega sector, after a collision with a rogue asteroid damaged his warp core. 
+
+A scan of the neighboring planets revealed a number of energy signatures, which may provide the special material needed to replace the damaged warp core and get back to cruising through the cosmos. However, what began as a routine away-mission to fix his engine quickly spirals into a dangerous game of search, shoot, and survive. 
+
+Blast your way through alien landscapes, seek out valuable secrets, and defeat ancient guardians to unlock powers from a legendary supreme culture in this exciting journey of mystery and adventure</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Limited Run Games</Publisher>
+<Developer>Renegade Kid</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>27484</id><PlatformId>1</PlatformId></Game><Game><id>41569</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="540" height="600" thumb="boxart/thumb/original/front/40001-1.png">boxart/original/front/40001-1.png</boxart>
+</Images>
+</Game>
+</Data>

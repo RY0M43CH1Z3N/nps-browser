@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40036</id>
+<GameTitle>PSYCHO-PASS: Mandatory Happiness: Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/13/2016</ReleaseDate>
+<Overview>In the near future, advanced technological developments have allowed one's mental state and disposition to be quantified and profiled. For the public's welfare, all emotions and thoughts are documented and managed by the Sibyl System. This system measures the quality of each person's life by what is known as the Psycho-Pass, a reading of an individual's mind. Broken down into two main components is the Hue, which is a visual representation of the Psycho-Pass that conveys a person's stress level. The other is the Crime Coefficient, which is a numerical value that represents a person's criminal capacity. This number determines whether an individual requires enforcement by the detectives of the Public Safety Bureau. Detectives are divided into two groups: Enforcers, who are tasked with the investigation of crimes and the apprehension of criminals, and Inspectors, who are charged with managing the Enforcers.</Overview>
+<ESRB>M - Mature</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS America</Publisher>
+<Developer>5pb</Developer>
+<Images>
+<boxart side="front" width="212" height="300" thumb="boxart/thumb/original/front/40036-1.jpg">boxart/original/front/40036-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

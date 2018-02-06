@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25074</id>
+<GameTitle>Hyperdimension Neptunia U: Action Unleashed</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/19/2015</ReleaseDate>
+<Overview>Prepare yourself for a whirlwind of fast-paced action! Hyperdimension Neptunia U: Action Unleashed,the first-ever foray into the 3D action hack n' slash genre for the Hyperdimension Neptunia universe, is coming exclusively on the PlayStation®Vita. Featuring new playable characters, as well as customizable equipment and over-the-top skills that haven't been seen in previous Neptunia games, this game has something to offer old series fans and new fans alike. Gamindustri - a world protected by the four CPUs and their CPU Candidates. No world can remain unseen by the eyes of evil, but due to the combined efforts of the CPUs and the CPU Candidates, no strong enemies or monsters are able to cause any chaos. Thus, the CPUs and their people find themselves in a peaceful boredom. Amidst this relaxing time, the CPUs are approached with a fascinating proposition.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=BeoBkfRAZmE</Youtube>
+<Publisher>Idea Factory International</Publisher>
+<Developer>Idea Factory</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>36568</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1157" height="1484" thumb="boxart/thumb/original/front/25074-1.jpg">boxart/original/front/25074-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15802</id>
+<GameTitle>Atelier Meruru Plus: The Apprentice of Arland</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/03/2013</ReleaseDate>
+<Overview>Atelier Meruru Plus: The Apprentice of Arland adds new elements of land development to the RPG and simulation game system, providing additional depth and gameplay in this anime-style adventure. In addition, extra content and features are packed in including new costumes, new endings, and all the DLC from the PS3™ version.
+
+One year after the events of Atelier Totori: The Adventurer of Arland, the story begins in Arls Kingdom, a tiny nation in the far northwest of the Arland Republic. The quaint kingdom lacks the highly developed machinery and alchemy of the larger nation, but is nonetheless poised to join the Republic. However, many obstacles must first be overcome.
+
+To minimize criticism from opposition parties, Arls proposes a development project to increase its influence. To begin, a number of skilled adventurers are dispatched to Arls from Arland, including the alchemist Totori Helmold, the star of Atelier Totori. Meruru, Princess of Arls, maneuvers to become Totori’s apprentice with aspirations of becoming an alchemist in her own right.
+
+Meruru’s quest is to develop her kingdom before Arls becomes part of Arland. Enlisting the help of her friends, Meruru will synthesize, explore, build, and battle her way to making a bigger and better kingdom.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tecmo Koei</Publisher>
+<Developer>Gust</Developer>
+<Images>
+<boxart side="back" width="640" height="825" thumb="boxart/thumb/original/back/15802-1.jpg">boxart/original/back/15802-1.jpg</boxart>
+<boxart side="front" width="386" height="500" thumb="boxart/thumb/original/front/15802-1.jpg">boxart/original/front/15802-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

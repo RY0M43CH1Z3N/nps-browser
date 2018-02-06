@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39999</id>
+<GameTitle>Dragon Fantasy</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/26/2016</ReleaseDate>
+<Overview>Join Ogden and the heroes of Westeria in this classic JRPG epic, Dragon Fantasy: The Black Tome of Ice. Travel through the frozen wastelands of Tundaria and defeat oncoming hordes of demons and huge bosses that threaten the entire world of Dragon Fantasy.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Limited Run Games</Publisher>
+<Developer>MUTEKI</Developer>
+<Images>
+<boxart side="front" width="156" height="198" thumb="boxart/thumb/original/front/39999-1.jpg">boxart/original/front/39999-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

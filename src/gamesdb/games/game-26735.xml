@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26735</id>
+<GameTitle>1001 Spikes</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>1001 Spikes is a platform game developed and published by Nicalis. Originally named Aban Hawkins &amp; the 1001 Spikes, the game's objective is to escape a vast terrain and struggle to reach for victory without getting plummeted by spikes and many other disasters. Throughout the multiple travels, the game gets increasingly challenging, especially having to dodge falling stones and much more.</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=E0OWjhHTz-M</Youtube>
+<Developer>Nicalis</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>26737</id><PlatformId>4920</PlatformId></Game><Game><id>26733</id><PlatformId>4912</PlatformId></Game><Game><id>26734</id><PlatformId>38</PlatformId></Game><Game><id>26738</id><PlatformId>1</PlatformId></Game><Game><id>26736</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="960" height="960" thumb="boxart/thumb/original/front/26735-1.png">boxart/original/front/26735-1.png</boxart>
+<clearlogo width="400" height="150">clearlogo/26735.png</clearlogo></Images>
+</Game>
+</Data>

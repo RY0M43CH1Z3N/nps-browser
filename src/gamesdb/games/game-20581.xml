@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20581</id>
+<GameTitle>Luftrausers</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/18/2014</ReleaseDate>
+<Overview>The skies will be set aflame and the seas will overflow with wreckage in the stylish arcade shooter Luftrausers, a dogfighting action game by Vlambeer! Select from over 125 combinations of weapons, plane bodies and propulsions systems and take to the sky to battle planes, battleships, submarines, and rival aces for total airspace domination. Gain respect and fame by taking on special missions from top military brass and take down rival aces to become the most legendary rauser pilot of all time!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Devolver Digital</Publisher>
+<Developer>Vlambeer</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>20579</id><PlatformId>1</PlatformId></Game><Game><id>20580</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="118" height="160" thumb="boxart/thumb/original/front/20581-1.jpg">boxart/original/front/20581-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

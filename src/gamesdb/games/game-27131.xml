@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>27131</id>
+<GameTitle>Dungeon Travelers 2: The Royal Library &amp; The Monster Seal</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/18/2015</ReleaseDate>
+<Overview>The kingdom of Romulea is in peril. Monsters are leaking out of every nook and cranny in the land and have started an uprising against humanity. Players take on the role of Fried, an adventurer from the Royal Library sent to stop the uprising. Early in his journey, Fried discovers a broken shrine. This sets in motion the story where Fried travels around the kingdom, and through rescuing, defeating, or bumping into any of the 16 unique girls that can join his party, he is on a mission to save the world. Set in a first-person perspective with turn-based combat, players will encounter normal monsters as well as more powerful mutant girls, who must be sealed away to prevent the spread of the evil monster scourge.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Atlus USA</Publisher>
+<Developer>AquaPlus</Developer>
+<Rating>10</Rating><Images>
+<boxart side="front" width="1160" height="1478" thumb="boxart/thumb/original/front/27131-1.jpg">boxart/original/front/27131-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

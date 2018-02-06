@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23872</id>
+<GameTitle>Fez</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Fez (stylized as FEZ) is a 2012 indie puzzle platform game developed by Polytron Corporation and published by Polytron, Trapdoor, and Microsoft Studios. The player-character Gomez receives a fez that reveals his two-dimensional (2D) world to be one of four sides of a three-dimensional (3D) world. The player rotates between these four 2D views to realign platforms and solve the game's puzzles. The object of the game is to collect cubes and cube fragments to restore order to the universe.
+
+The game was called an "underdog darling of the indie game scene"[1] during its high-profile and protracted five-year development cycle. Fez designer and Polytron founder Phil Fish gained celebrity status for his outspoken public persona[2][3] and his prominence in the 2012 documentary Indie Game: The Movie, which detailed Fez '​s final stages of development and Polytron's related legal issues. Fez met critical acclaim upon its April 2012 release for Xbox Live Arcade. The game was ported to other platforms following the expiration of a yearlong exclusivity agreement.
+
+Reviewers commended the game's emphasis on discovery and freedom, but criticized its technical issues, in-game navigation, and endgame backtracking. They likened the game's rotation mechanic to the 2D–3D shifts of Echochrome, Super Paper Mario, and Crush. Fez won awards including the Seumas McNally Grand Prize and Eurogamer '​s 2012 Game of the Year. It had sold one million copies by the end of 2013, and it influenced games such as Monument Valley, Crossy Road, and Secrets of Rætikon. A planned sequel was canceled when Fish abruptly left the industry.</Overview>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>4</SimilarCount><Game><id>14162</id><PlatformId>15</PlatformId></Game><Game><id>16978</id><PlatformId>1</PlatformId></Game><Game><id>23821</id><PlatformId>12</PlatformId></Game><Game><id>23223</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1024" height="1365" thumb="boxart/thumb/original/front/23872-1.png">boxart/original/front/23872-1.png</boxart>
+</Images>
+</Game>
+</Data>

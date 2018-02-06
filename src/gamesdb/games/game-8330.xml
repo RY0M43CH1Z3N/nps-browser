@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8330</id>
+<GameTitle>Gravity Rush</GameTitle>
+<AlternateTitles><title>Gravity Daze</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/12/2012</ReleaseDate>
+<Overview>Gain a new perspective as you take on the role of Kat, a strong-willed girl seeking the means to protect her future in a world that’s crumbling to pieces. Tilt and move the PlayStation®Vita System, taking gravity into your own hands to deliver devastating attacks, uncover the secrets to your past and explore a mysterious world.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=5Q-p-41_V4Y</Youtube>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>SCE Japan Studio</Developer>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/8330-1.jpg</original>
+<thumb>fanart/thumb/8330-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/8330-2.jpg</original>
+<thumb>fanart/thumb/8330-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="1171" height="1500" thumb="boxart/thumb/original/front/8330-1.jpg">boxart/original/front/8330-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/8330-1.jpg</original>
+<thumb>screenshots/thumb/8330-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/8330-2.jpg</original>
+<thumb>screenshots/thumb/8330-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/8330-3.jpg</original>
+<thumb>screenshots/thumb/8330-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/8330-4.jpg</original>
+<thumb>screenshots/thumb/8330-4.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

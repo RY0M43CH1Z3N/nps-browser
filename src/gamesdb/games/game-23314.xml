@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23314</id>
+<GameTitle>Minecraft: Playstation Vita Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/31/2014</ReleaseDate>
+<Overview>Minecraft is a sandbox building video game which allows players to build constructions out of textured cubes in a 3D world. The gameplay is inspired by Dwarf Fortress, Roller Coaster Tycoon, Dungeon Keeper, and Infiniminer.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Construction and Management Simulation</genre><genre>Sandbox</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=m_yqOoUMHPg</Youtube>
+<Publisher>Mojang</Publisher>
+<Developer>Mojang</Developer>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/23314-1.jpg</original>
+<thumb>fanart/thumb/23314-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/23314-2.jpg</original>
+<thumb>fanart/thumb/23314-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/23314-3.jpg</original>
+<thumb>fanart/thumb/23314-3.jpg</thumb>
+</fanart>
+<boxart side="front" width="1174" height="1500" thumb="boxart/thumb/original/front/23314-1.jpg">boxart/original/front/23314-1.jpg</boxart>
+<banner width="760" height="140">graphical/23314-g.jpg</banner><clearlogo width="400" height="155">clearlogo/23314.png</clearlogo></Images>
+</Game>
+</Data>

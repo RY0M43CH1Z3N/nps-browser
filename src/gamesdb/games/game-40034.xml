@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40034</id>
+<GameTitle>Psycho-Pass Mandatory Happiness</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="800" height="1021" thumb="boxart/thumb/original/front/40034-1.jpg">boxart/original/front/40034-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

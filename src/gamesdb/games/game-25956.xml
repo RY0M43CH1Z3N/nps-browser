@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25956</id>
+<GameTitle>Duke Nukem 3D: Megaton Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Publisher>Devolver Digital</Publisher>
+<Developer>General Arcade</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>16528</id><PlatformId>1</PlatformId></Game><Game><id>25955</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="616" height="353" thumb="boxart/thumb/original/front/25956-1.png">boxart/original/front/25956-1.png</boxart>
+</Images>
+</Game>
+</Data>

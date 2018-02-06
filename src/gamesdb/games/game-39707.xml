@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39707</id>
+<GameTitle>MouseCraft</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>1</SimilarCount><Game><id>23456</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="960" height="1320" thumb="boxart/thumb/original/front/39707-1.jpg">boxart/original/front/39707-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

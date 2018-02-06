@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20881</id>
+<GameTitle>Injustice: Gods Among Us - Ultimate Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/12/2013</ReleaseDate>
+<Overview>Injustice: Gods Among Us is a fighting video game based upon the fictional universe of DC Comics. The game was developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, and Wii U. It was released in April 2013 in North America, Europe, and Australia, and June 2013 in Japan. An expanded version of the game, titled Injustice: Gods Among Us Ultimate Edition, was released in November 2013 for the PlayStation 3, PlayStation 4, PlayStation Vita, Xbox 360, and Microsoft Windows. A free-to-play mobile app based on Injustice was also released for Android and iOS devices.
+
+Players select one of several characters from the DC Universe to engage in combat, aiming to knock out their opponent. The game is set in a 2.5D environment; while character models and backgrounds are rendered in three-dimensional graphics, the characters are restricted to fight within a two-dimensional space. Injustice builds upon several aspects from NetherRealm Studios' previous title, Mortal Kombat, including its controls, game mechanics, narrative-driven campaign, and online functionality.
+
+The storyline is set within an alternate version of the Justice League's universe. Superman establishes a new world order after the Joker tricks him into killing Lois Lane and destroying Metropolis. In an effort to stop Superman, Batman summons members of the Justice League from the mainstream continuity to join his insurgency and end the totalitarian regime. The game received positive reviews from critics, who praised its story, gameplay mechanics, and use of the DC Comics license. Injustice became the highest selling game in the United States and United Kingdom during the month of its release. The game also won several awards for "Best Fighting Game" in 2013.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Warner Bros. Interactive Entertainment</Publisher>
+<Developer>Armature Studio</Developer>
+<Images>
+<boxart side="front" width="640" height="811" thumb="boxart/thumb/original/front/20881-1.jpg">boxart/original/front/20881-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

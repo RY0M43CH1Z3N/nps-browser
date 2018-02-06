@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35053</id>
+<GameTitle>Zero Escape: Zero Time Dilemma</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Zero Escape: Zero Time Dilemma is the upcoming third and final installment of the Zero Escape trilogy and sequel to Zero Escape: Virtue's Last Reward. It will be developed by Spike Chunsoft and published by Aksys Games. It will be released for the Nintendo 3DS and PlayStation Vita. The game will be digital download only for Europeans, and the time of its planned release there is unknown.
+
+The game will feature English and Japanese dual audio.</Overview>
+<Genres><genre>Horror</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Spike Chunsoft</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/35053-1.jpg">boxart/original/front/35053-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

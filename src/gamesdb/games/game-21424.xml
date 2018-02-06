@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21424</id>
+<GameTitle>Genkai Totsuki Moero Chronicle</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/15/2014</ReleaseDate>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Compile Heart</Publisher>
+<Developer>Silicon Studio</Developer>
+<Images>
+<boxart side="front" width="640" height="818" thumb="boxart/thumb/original/front/21424-1.jpg">boxart/original/front/21424-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

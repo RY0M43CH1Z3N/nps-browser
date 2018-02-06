@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23804</id>
+<GameTitle>SteamWorld Dig</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/18/2014</ReleaseDate>
+<Overview>SteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Image &amp; Form International AB</Publisher>
+<Developer>Image &amp; Form International AB</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>34424</id><PlatformId>4920</PlatformId></Game><Game><id>21225</id><PlatformId>4912</PlatformId></Game><Game><id>34425</id><PlatformId>38</PlatformId></Game><Game><id>19164</id><PlatformId>1</PlatformId></Game><Game><id>23805</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="160" height="160" thumb="boxart/thumb/original/front/23804-1.jpg">boxart/original/front/23804-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

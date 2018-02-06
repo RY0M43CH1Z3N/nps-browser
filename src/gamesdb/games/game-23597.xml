@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23597</id>
+<GameTitle>Super Stardust Delta</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>Blast through an addictive shooter where one wrong move could be your last.
+
+Create incredible black holes using the touchscreen, blast asteroids to pieces using the dual analog sticks and deploy devastating shock waves with motion sensitive gameplay.
+Enjoy classic gameplay modes from Super Stardust HD and Super Stardust Portable, as well as new modes exclusive to PS Vita.
+Shoot your way to the top of the intergalactic leaderboards via PlayStation Network.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SCEE</Publisher>
+<Developer>XDEV</Developer>
+<Images>
+<boxart side="front" width="240" height="240" thumb="boxart/thumb/original/front/23597-1.png">boxart/original/front/23597-1.png</boxart>
+</Images>
+</Game>
+</Data>

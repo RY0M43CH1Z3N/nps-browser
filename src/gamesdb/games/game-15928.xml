@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15928</id>
+<GameTitle>MUD: FIM Motocross World Championship</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/26/2013</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>3</SimilarCount><Game><id>15573</id><PlatformId>15</PlatformId></Game><Game><id>11124</id><PlatformId>1</PlatformId></Game><Game><id>15927</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="604" height="768" thumb="boxart/thumb/original/front/15928-1.jpg">boxart/original/front/15928-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

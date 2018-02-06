@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13281</id>
+<GameTitle>FIFA Soccer 13</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/25/2012</ReleaseDate>
+<Overview>FIFA 13 (also known as FIFA Soccer 13 in North America) is the 2012 edition of Electronic Arts' association football FIFA video game series. It was developed by EA Canada. A demo of the game was released on 11 September 2012; the demo teams included Borussia Dortmund, Manchester City, Juventus, A.C. Milan and Arsenal.[1] The demo was downloaded a record 1.99 million times within three days.[2][3][4] The game was released in late September 2012 in most regions, and in Japan in October.[a] The Wii U version was released alongside the console on its launch day in all regions. FIFA 13 included new features to the FIFA franchise such as the First Touch Control.[2][5][6][7] As of December 2014, the game remains the only FIFA title released for the Wii U, despite other Nintendo consoles receiving later games. New celebrations were also added as a new feature.[8] The game received overwhelmingly positive reviews as one of the best FIFA's yet, praised for its fast-paced, fun feel.[9]</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Ia43OgdBHaE</Youtube>
+<Publisher>Electronic Arts</Publisher>
+<Developer>Electronic Arts</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>12596</id><PlatformId>15</PlatformId></Game><Game><id>42704</id><PlatformId>4912</PlatformId></Game><Game><id>15180</id><PlatformId>38</PlatformId></Game><Game><id>12595</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="317" height="410" thumb="boxart/thumb/original/front/13281-1.jpg">boxart/original/front/13281-1.jpg</boxart>
+<clearlogo width="400" height="200">clearlogo/13281.png</clearlogo></Images>
+</Game>
+</Data>

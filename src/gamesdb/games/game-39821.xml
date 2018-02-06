@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39821</id>
+<GameTitle>MeiQ: Labyrinth of Death</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/13/2016</ReleaseDate>
+<Overview>First, the winds stopped. Then, birds vanished from the skies. Finally, the sun set...And an eternal night fell upon the world. The reason was quickly identified. It was a story told of in legends. The world had ceased hundreds of years ago as well. But there was a legendary mage who had managed to restart it</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Hn_v6nEnHuM</Youtube>
+<Publisher>!FIDEA FACTORY</Publisher>
+<Developer>COMPILE HEART</Developer>
+<Images>
+<boxart side="front" width="1157" height="1482" thumb="boxart/thumb/original/front/39821-1.jpg">boxart/original/front/39821-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

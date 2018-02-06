@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>41431</id>
+<GameTitle>World of Final Fantasy</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/25/2016</ReleaseDate>
+<Overview>In the enchanting RPG World of Final Fantasy, players follow the journey of siblings, Reynn and Lann, as they enter the world of Grymoire and encounter a multitude of familiar Final Fantasy characters and monsters. World of Final Fantasy combines classic RPG gameplay mechanics with fresh and imaginative toy-like visuals. Capture and raise familiar Final Fantasy beasts (such as cactuar, chocobo, and behemoth) to discover alternate forms and learn new abilities. With an inviting approach to gameplay, this game can be enjoyed by both fans and newcomers to the series.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Square Enix</Publisher>
+<Developer>Square Enix</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>40128</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1185" height="1500" thumb="boxart/thumb/original/front/41431-1.jpg">boxart/original/front/41431-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40000</id>
+<GameTitle>Octodad: Dadliest Catch</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/19/2016</ReleaseDate>
+<Overview>Octodad: Dadliest Catch is a game about destruction, deception, and fatherhood. The player controls Octodad, a dapper octopus masquerading as a human, as he goes about his life. Octodad's existence is a constant struggle, as he must master mundane tasks with his unwieldy boneless tentacles.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Limited Run Games</Publisher>
+<Developer>Young Horses</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>42775</id><PlatformId>4916</PlatformId></Game><Game><id>35015</id><PlatformId>38</PlatformId></Game><Game><id>19483</id><PlatformId>1</PlatformId></Game><Game><id>22689</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="334" height="400" thumb="boxart/thumb/original/front/40000-1.jpg">boxart/original/front/40000-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

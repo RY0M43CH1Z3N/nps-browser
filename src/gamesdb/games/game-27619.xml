@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>27619</id>
+<GameTitle>Rollers of the Realm</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=b9uZsy-1tgE</Youtube>
+<Publisher>ATLUS</Publisher>
+<Developer>Phantom Compass</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>27620</id><PlatformId>1</PlatformId></Game><Game><id>27618</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="960" height="1320" thumb="boxart/thumb/original/front/27619-1.jpg">boxart/original/front/27619-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

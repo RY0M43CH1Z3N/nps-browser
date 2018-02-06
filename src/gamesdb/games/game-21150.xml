@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21150</id>
+<GameTitle>Danganronpa 2: Goodbye Despair</GameTitle>
+<AlternateTitles><title>Super Danganronpa 2: Sayonara Zetsubō Gakuen</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/02/2014</ReleaseDate>
+<Overview>Danganronpa 2: Goodbye Despair, the sequel to the highly popular mystery adventure game Danganronpa: Trigger Happy Havoc, will be making its way to the PlayStation Vita in North America and Europe this fall in both retail and digital form. As in the first game, players will take on the role of a high school student as they are thrust into a life-or-death situation, and must use their wits and teamwork to survive. Each student was chosen for a special ability they possess, making them the "ultimate" example of something. Characters in this title are also designed by Rui Komatsuzaki for a unique and darker take on the anime style.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS America</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Images>
+<boxart side="front" width="1158" height="1473" thumb="boxart/thumb/original/front/21150-1.jpg">boxart/original/front/21150-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

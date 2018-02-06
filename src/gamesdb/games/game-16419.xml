@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16419</id>
+<GameTitle>San Goku Shi 12</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/07/2013</ReleaseDate>
+<Overview>Japan</Overview>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>16418</id><PlatformId>38</PlatformId></Game><Game><id>16417</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="393" height="500" thumb="boxart/thumb/original/front/16419-1.jpg">boxart/original/front/16419-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

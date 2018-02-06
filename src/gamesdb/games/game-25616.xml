@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25616</id>
+<GameTitle>Hatsune Miku: Project DIVA F 2nd</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/18/2014</ReleaseDate>
+<Overview>Hatsune Miku, the world's most famous digital singer, returns in an all-new rhythm video game featuring the best new music and classic tracks reborn. Tap, hold, and flick to the beat as you play through 40 addicting songs and four expansive difficulty settings that will keep you coming back for more.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sega of America</Publisher>
+<Developer>Sega of America</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>34229</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1160" height="1470" thumb="boxart/thumb/original/front/25616-1.jpg">boxart/original/front/25616-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19295</id>
+<GameTitle>Blast Off</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/24/2009</ReleaseDate>
+<Overview>Blast Off is an interstellar arcade game featuring gravity fields, lost astronauts and bizarre planetary systems. Use your rocket ship to rescue astronauts and carry them through the warpgate to safety. But be careful! The ever-present force of gravity can help you on your journey, but can also bring you crashing down. 
+
+
+- 45 missions across four difficulty settings
+- Planets and Asteroids gravity attract the ship, allowing players to float around the level
+- Black Holes attract the ship with even more ferocity
+- White Holes have a reverse gravity field, pushing the ship away
+- Mission success is ranked on remaining fuel and air, astronauts collected
+- Awarded Silver, Gold or Brick medals based on final mission outcome 
+
+Good luck, and Blast Off!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Developer>Halfbrick Studios Pty Ltd.</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>38837</id><PlatformId>23</PlatformId></Game><Game><id>19294</id><PlatformId>12</PlatformId></Game><Game><id>19293</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="225" height="225" thumb="boxart/thumb/original/front/19295-1.jpg">boxart/original/front/19295-1.jpg</boxart>
+<screenshot>
+<original width="620" height="349">screenshots/19295-1.jpg</original>
+<thumb>screenshots/thumb/19295-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

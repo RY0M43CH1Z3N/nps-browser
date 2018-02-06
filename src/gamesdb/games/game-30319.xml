@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30319</id>
+<GameTitle>OlliOlli2: Welcome to Olliwood</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Devolver Digital</Publisher>
+<Developer>roll7</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>30317</id><PlatformId>1</PlatformId></Game><Game><id>30318</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="422" height="336" thumb="boxart/thumb/original/front/30319-1.jpg">boxart/original/front/30319-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

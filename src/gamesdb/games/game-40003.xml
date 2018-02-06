@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40003</id>
+<GameTitle>Oddworld: Abe's Oddysee, New 'n' Tasty!</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Images>
+<boxart side="front" width="450" height="500" thumb="boxart/thumb/original/front/40003-1.jpg">boxart/original/front/40003-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

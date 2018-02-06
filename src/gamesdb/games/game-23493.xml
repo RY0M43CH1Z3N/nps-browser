@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23493</id>
+<GameTitle>Epic Mickey 2: The Power Of Two</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/18/2013</ReleaseDate>
+<Overview>Disney Epic Mickey 2: The Power of Two returns Mickey Mouse and Oswald the Lucky Rabbit to Wasteland, an alternate world filled with 80 years of forgotten Disney characters and theme park attractions. But for the first time, Mickey and Oswald will join forces as true partners - Mickey with his magical paint brush that wields paint and thinner, and Oswald with his powerful remote control that allows him to command electricity. This new co-op play combined with enhanced in-game physics will further enhance the idea that "PlayStyle Matters" - a unique approach to gameplay pioneered by Warren Spector where players dynamically tackle different challenges in order to explore all possibilities and storylines, but with consequences for their chosen actions.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Platform</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Disney</Publisher>
+<Developer>Disney</Developer>
+<Images>
+<boxart side="back" width="640" height="811" thumb="boxart/thumb/original/back/23493-1.jpg">boxart/original/back/23493-1.jpg</boxart>
+<boxart side="front" width="640" height="841" thumb="boxart/thumb/original/front/23493-1.jpg">boxart/original/front/23493-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

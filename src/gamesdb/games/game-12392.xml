@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12392</id>
+<GameTitle>Assassin's Creed III: Liberation</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Overview>The year is 1765. While the seeds of the American Revolution are being sewn in Boston and New York, Spanish forces in the South plot to seize control of Louisiana for the Templars, threatening to forever shift the balance of power in the New World. As Templars secretly take hold of the slave trade in New Orleans, Aveline de Grandpré, an assassin of mixed French and African heritage, stands ready to defend her people. She soon finds herself on an unforgettable journey that will take her from the crowded streets of New Orleans to voodoo-haunted swamps and ancient Mayan ruins. Whether eliminating her enemies with new assassination skills or luring them into cunning traps, Aveline strikes mortal fear into the hearts of those who would stand against freedom.
+
+Taking full advantage of its new hardware, Liberation HD introduces a complete graphical overhaul, re-mastered music and sound effects, a revamped gameplay experience, and new missions that dive deeper</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Stealth</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Sofia</Developer>
+<Rating>6</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12392-1.jpg</original>
+<thumb>fanart/thumb/12392-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="640" height="816" thumb="boxart/thumb/original/back/12392-1.jpg">boxart/original/back/12392-1.jpg</boxart>
+<boxart side="front" width="640" height="819" thumb="boxart/thumb/original/front/12392-1.jpg">boxart/original/front/12392-1.jpg</boxart>
+<banner width="760" height="140">graphical/12392-g.png</banner><screenshot>
+<original width="960" height="544">screenshots/12392-1.jpg</original>
+<thumb>screenshots/thumb/12392-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/12392-2.jpg</original>
+<thumb>screenshots/thumb/12392-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="232">clearlogo/12392.png</clearlogo></Images>
+</Game>
+</Data>

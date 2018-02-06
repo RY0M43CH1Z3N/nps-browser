@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23798</id>
+<GameTitle>Spelunky</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/27/2013</ReleaseDate>
+<Overview>Spelunky is a cave exploration / treasure-hunting game inspired by classic platform games and roguelikes, where the goal is to grab as much treasure from the cave as possible. Every time you play the cave's layout will be different. Use your wits, your reflexes, and the items available to you to survive and go ever deeper! Perhaps at the end you may find what you're looking for...</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Publisher>Mossmouth</Publisher>
+<Developer>Mossmouth</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>20189</id><PlatformId>15</PlatformId></Game><Game><id>9680</id><PlatformId>1</PlatformId></Game><Game><id>23797</id><PlatformId>12</PlatformId></Game><Game><id>23796</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="584" height="700" thumb="boxart/thumb/original/front/23798-1.jpg">boxart/original/front/23798-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

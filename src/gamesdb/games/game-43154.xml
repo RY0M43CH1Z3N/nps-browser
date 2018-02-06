@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>43154</id>
+<GameTitle>A Virus Named TOM</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/01/2016</ReleaseDate>
+<Overview>A Virus Named TOM comes to the PS Vita, with all new levels mayhem. Hack your way through brain scrambling puzzles while maneuvering through a thumb cramping maze of enemies.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=oJV6vgHDK2o</Youtube>
+<Publisher>Misfits Attic</Publisher>
+<Developer>Misfits Attic</Developer>
+<Rating>1</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>17820</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1280" height="720" thumb="boxart/thumb/original/front/43154-1.jpg">boxart/original/front/43154-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19974</id>
+<GameTitle>Ragnarok Odyssey ACE</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/01/2014</ReleaseDate>
+<Overview>Ragnarok Odyssey ACE is a completely evolved version of the popular giant-hunting game released on PlayStation Vita, adding a wealth of new content and features and introducing a PlayStation 3 version. New job-specific ACE skills change the battle dynamic significantly, while the addition of hirable in-game mercenaries ensures that players can have a battle party to take on the toughest foes even when they can't get online. The new Yggdrasil Tower, with its randomly generated levels, along with a consistent supply of new online quests, ensures that there will always be unique content each time the game is played.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Fighting</genre><genre>Puzzle</genre><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=zDJ2idjzi7o</Youtube>
+<Publisher>XSEED</Publisher>
+<Developer>Game Arts</Developer>
+<Rating>9</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>19972</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="818" thumb="boxart/thumb/original/front/19974-1.jpg">boxart/original/front/19974-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

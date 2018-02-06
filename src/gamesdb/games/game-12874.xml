@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12874</id>
+<GameTitle>Sonic &amp; All-Stars Racing Transformed</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/11/2012</ReleaseDate>
+<Overview>Sonic &amp; All-Stars Racing Transformed™ is a thrilling new racing experience featuring Sonic the Hedgehog and a fantastic cast of SEGA All-Stars competing across land, air and water in vehicles that fully transform from cars, to planes to boats.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Racing</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>SEGA</Publisher>
+<Developer>Sumo Digital</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>12843</id><PlatformId>15</PlatformId></Game><Game><id>12876</id><PlatformId>4912</PlatformId></Game><Game><id>12102</id><PlatformId>38</PlatformId></Game><Game><id>15012</id><PlatformId>1</PlatformId></Game><Game><id>12873</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12874-1.jpg</original>
+<thumb>fanart/thumb/12874-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="819" thumb="boxart/thumb/original/front/12874-1.jpg">boxart/original/front/12874-1.jpg</boxart>
+<clearlogo width="400" height="200">clearlogo/12874.png</clearlogo></Images>
+</Game>
+</Data>

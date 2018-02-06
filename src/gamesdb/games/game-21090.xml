@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21090</id>
+<GameTitle>Senran Kagura: Shinovi Versus</GameTitle>
+<AlternateTitles><title>Senran Kagura Shinovi Versus: Shoujotachi no Shoumei</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/30/2014</ReleaseDate>
+<Overview>Senran Kagura Shinovi Versus (閃乱カグラ SHINOVI VERSUS -少女達の証明- Senran Kagura Shinovi Versus: Shōjo-tachi no Shōmei?) is the third video game in the Senran Kagura series, and is the sequel to Senran Kagura Burst.[3] The game revolves around three female ninja groups from dueling shinobi schools. The game was released in Japan for the PlayStation Vita on February 28, 2013, in North America on October 14, 2014, and in Europe on October 15, 2014. A version for Microsoft Windows has also been announced.[4]</Overview>
+<Genres><genre>Action</genre><genre>Fighting</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>Xseed Games</Publisher>
+<Developer>Marvelous AQL</Developer>
+<Images>
+<boxart side="front" width="632" height="807" thumb="boxart/thumb/original/front/21090-1.jpg">boxart/original/front/21090-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

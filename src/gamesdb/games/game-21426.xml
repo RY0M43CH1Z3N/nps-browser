@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21426</id>
+<GameTitle>One Piece: Unlimited World Red</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/14/2014</ReleaseDate>
+<Overview>One Piece: Unlimited World Red (ワンピース アンリミテッドワールドレッド Wan Pīsu: Anrimiteddo Wārudo Reddo?) is an Action/Adventure video game based on the famous One Piece manga and anime. This is the thirty-sixth video game based on the series, and the fifth title in the Unlimited sub-series. It was released for the Nintendo 3DS in Japan on November 21, 2013 and released for additional platforms and in more regions the following year.[5] On March 12, 2014 the game is confirmed to be releasing in North America, Europe, and Japan in 2014 on Wii U, PlayStation 3 and PlayStation Vita.[6] The Wii U version does not have a physical retail release in North America and Australia. Whilst other versions were released by July 8, 2014 in North America, the PlayStation Vita version was released in the region on July 14, 2014, and its limited retail release was sold exclusively via GameStop stores.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Publisher>Namco Bandai Games</Publisher>
+<Developer>Ganbarion</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>21427</id><PlatformId>4912</PlatformId></Game><Game><id>21458</id><PlatformId>38</PlatformId></Game><Game><id>29699</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="814" thumb="boxart/thumb/original/front/21426-1.jpg">boxart/original/front/21426-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

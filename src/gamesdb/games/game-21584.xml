@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21584</id>
+<GameTitle>Metrico</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/05/2014</ReleaseDate>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=3v4IFX5hkrk</Youtube>
+<Publisher>SCEA</Publisher>
+<Developer>Digital Dream</Developer>
+<Images>
+<boxart side="front" width="1200" height="555" thumb="boxart/thumb/original/front/21584-1.png">boxart/original/front/21584-1.png</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/21584-1.jpg</original>
+<thumb>screenshots/thumb/21584-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/21584-2.jpg</original>
+<thumb>screenshots/thumb/21584-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

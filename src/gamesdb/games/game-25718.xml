@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25718</id>
+<GameTitle>Danganronpa Another Episode: Ultra Despair Girls</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/01/2015</ReleaseDate>
+<Overview>After the horrors have ended at Hope's Peak Academy, society is on the verge of collapse and violent anarchy has engulfed the whole world in despair! Danganronpa Another Episode: Ultra Despair Girls is the pre-sequel to the highly popular mystery adventure game Danganronpa 2: Goodbye Despair. Unlike the first two games, players will take on the role of two heroines, Komaru Naegi and Toko Fukawa, as they are thrust into a despair-ridden Towa City with one goal-escape. Komaru Naegi, little sister to Makoto Naegi, has been imprisoned inside a mysterious apartment for over a year. One day, she is rescued by Byakuya Togami of Future Foundation, but the rescue is derailed by a sudden attack of hundreds of Monokumas. Komaru soon discovers that the city has been taken over by a group of children calling themselves the Warriors of Hope. Their leader, Monaca, declares that the city will be the site of a Children's Paradise, and to accomplish this, all the adults will be exterminated. Komaru teams up with Toko Fukawa to try to survive the rampaging Monokumas, escape the crafty Monokuma Kids, and uncover the secrets of the city.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS America</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Images>
+<boxart side="front" width="1161" height="1481" thumb="boxart/thumb/original/front/25718-1.jpg">boxart/original/front/25718-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

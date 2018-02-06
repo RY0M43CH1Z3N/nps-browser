@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35287</id>
+<GameTitle>Assassin's Creed Chronicles</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Overview>Follow three legendary Assassins on journeys of Revenge, Retribution and Redemption.
+
+ A thrilling new saga in the Assassins Creed Universe, Assassins Creed Chronicles take players to three distinct civilizations and time periods throughout history: the start of the Ming Dynasty crumble, the Sikh Empire going at war in India and the aftermath of Red October revolution.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Climax Studios</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>35285</id><PlatformId>4920</PlatformId></Game><Game><id>35286</id><PlatformId>1</PlatformId></Game><Game><id>35160</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="472" height="600" thumb="boxart/thumb/original/front/35287-1.png">boxart/original/front/35287-1.png</boxart>
+</Images>
+</Game>
+</Data>

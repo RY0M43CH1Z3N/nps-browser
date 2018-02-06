@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12549</id>
+<GameTitle>LittleBigPlanet</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/19/2012</ReleaseDate>
+<Overview>The core mechanics of the series revolve around its tagline "Play, Create, Share".
+The Play component involves players taking control of Sackboy and navigating him through various levels. In the first two instalments of the series, gameplay consisted primarily of traditional platforming like jumping and avoiding obstacles to successfully navigate to the end of a level to win. Since LittleBigPlanet 2, gameplay has expanded to being a "platform for games" with the introduction of numerous mini-games and other genres into the game diversifying the game from being strictly a traditional platforming game. Most LittleBigPlanet games involve a player playing solo or co-operatively with friends to navigate through a level whilst collecting various "prize bubbles" along the way. These prize bubbles come in two types, small ones which constitute points and larger ones that contain new costumes, stickers or other type of collectibles that can be used to customise Sackboy or in level creation. There are also numerous co-operative parts of levels whereby certain prize bubbles can only be collected with the help of at least one player or more depending on the number of players stated in the level.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=bRs7LqswtvY</Youtube>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Double Eleven Limited</Developer>
+<Rating>9</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>809</id><PlatformId>12</PlatformId></Game><Game><id>7093</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12549-1.jpg</original>
+<thumb>fanart/thumb/12549-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="1159" height="1477" thumb="boxart/thumb/original/front/12549-1.jpg">boxart/original/front/12549-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/12549-1.jpg</original>
+<thumb>screenshots/thumb/12549-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/12549-2.jpg</original>
+<thumb>screenshots/thumb/12549-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/12549-3.jpg</original>
+<thumb>screenshots/thumb/12549-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/12549-4.jpg</original>
+<thumb>screenshots/thumb/12549-4.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="300">clearlogo/12549.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12578</id>
+<GameTitle>LEGO Harry Potter: Years 5-7</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/06/2012</ReleaseDate>
+<Overview>Based on the last three Harry Potter books and final four films, LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds. From Privet Drive in Little Whinging to Diagon Alley, Hogsmeade and Hogwarts - plus new locations including Grimmauld Place, the Ministry of Magic, and Godric's Hollow - players will encounter new faces, new challenges and new magic, preparing them for the ultimate face-off against Lord Voldemort.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>WB Games</Publisher>
+<Developer>Traveller's Tales Ltd.</Developer>
+<Similar><SimilarCount>6</SimilarCount><Game><id>12746</id><PlatformId>15</PlatformId></Game><Game><id>13002</id><PlatformId>4912</PlatformId></Game><Game><id>8250</id><PlatformId>8</PlatformId></Game><Game><id>7995</id><PlatformId>9</PlatformId></Game><Game><id>8281</id><PlatformId>1</PlatformId></Game><Game><id>12766</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12578-1.jpg</original>
+<thumb>fanart/thumb/12578-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12578-2.jpg</original>
+<thumb>fanart/thumb/12578-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="811" thumb="boxart/thumb/original/front/12578-1.jpg">boxart/original/front/12578-1.jpg</boxart>
+<clearlogo width="400" height="200">clearlogo/12578.png</clearlogo></Images>
+</Game>
+</Data>

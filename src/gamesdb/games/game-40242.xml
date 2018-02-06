@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40242</id>
+<GameTitle>機動戦士ガンダムExtreme VS-Force</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/25/2016</ReleaseDate>
+<Overview>The game plays similarly to the Extreme VS series, but with a greater focus on squad-based gameplay. While the classic 2vs2 format is retained, players will be able to assemble their own team of mobile suits and mobile armors along with a flagship for a 6vs6 battle. The game features an Extreme Force mode which recounts the events of Universal Century from 0079 up to Unicorn.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Bandai Namco</Publisher>
+<Developer>Bandai Namco</Developer>
+<Images>
+<boxart side="front" width="439" height="562" thumb="boxart/thumb/original/front/40242-1.jpg">boxart/original/front/40242-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

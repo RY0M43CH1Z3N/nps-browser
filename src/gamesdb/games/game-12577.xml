@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12577</id>
+<GameTitle>Hot Shots Golf: World Invitational</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/14/2012</ReleaseDate>
+<Overview>The over-the-top golf franchise is back with a bag full of PlayStation Vita features. Never leave the golf course with non-stop challenges from friends or bitter rivals. Add to that new PlayStation Vita specific functions that enable you to better prepare each shot from tee to green.</Overview>
+<Genres><genre>Sports</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>SCEA</Publisher>
+<Developer>Clap Hanz</Developer>
+<Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/12577-1.jpg">boxart/original/front/12577-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

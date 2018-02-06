@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>32690</id>
+<GameTitle>Amnesia: Memories</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/25/2015</ReleaseDate>
+<Overview>In this visual novel, you'll play as the Heroine whose life depends on hiding your recent loss of memory while you navigate complex relationships with five men. Choose your romantic path from the start to piece together that which was forgotten. Will you write the lasting love story you deserve, or will your love – and life – come to an end?
+
+Key Features
+ 
+1. Select one of five guys as your love interest, each with multiple branching story paths. Each choice creates a distinct world where characters assume different roles, allowing for 20+ endings!
+2. Parameters affect your relationship with your future love. Keep track of your relationship here and make sure you’re not headed to a bad ending!
+3. Use touch controls to play mini-games like Rock, Paper, Scissors and Air Hockey against other characters.
+4. Unlock voiced images in the Gallery. Touching certain areas of the image will play dialogue of feelings that couldn’t be previously expressed.
+Some functions and features may not be available on PlayStation TV.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Idea Factory International</Publisher>
+<Developer>Idea Factory</Developer>
+<Images>
+<boxart side="front" width="1164" height="1500" thumb="boxart/thumb/original/front/32690-1.jpg">boxart/original/front/32690-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

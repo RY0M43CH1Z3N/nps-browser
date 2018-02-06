@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13279</id>
+<GameTitle>Dynasty Warriors Next</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>The epic action franchise makes its way to the PlayStation Vita.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=uVqD_Az_DD4</Youtube>
+<Publisher>Tecmo KOEI</Publisher>
+<Developer>Omega Force</Developer>
+<Images>
+<boxart side="front" width="447" height="599" thumb="boxart/thumb/original/front/13279-1.jpg">boxart/original/front/13279-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

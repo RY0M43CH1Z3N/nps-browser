@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17230</id>
+<GameTitle>Jak and Daxter Collection</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/18/2013</ReleaseDate>
+<Overview>The Jak and Daxter Collection™ features all three best-selling PlayStation®2 classic hits: Jak and Daxter: The Precursor Legacy™, Jak II™ and Jak 3™. This collection follows fan-favorite Jak and his sidekick Daxter through a series of action-packed adventures. The Jak and Daxter Collection™ blends action, shooting, driving, and platforming into one complete package.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Mass Media</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>11973</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/17230-1.jpg">boxart/original/front/17230-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

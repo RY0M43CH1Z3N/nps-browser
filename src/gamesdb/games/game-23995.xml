@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23995</id>
+<GameTitle>The Walking Dead - Season 2</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/04/2014</ReleaseDate>
+<Overview>The sequel to 2012's Game of the Year continues several months after the events seen in Season One of The Walking Dead, and Clementine is searching for safety. But what can an ordinary child do to stay alive when the living can be just as bad – and sometimes worse – than the dead?
+
+As Clementine, you will encounter tragedy, struggle with survival and discover the harsh reality of things to come in a game series where every decision matters.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=a9tPZwR1ADw</Youtube>
+<Publisher>Telltale Games</Publisher>
+<Developer>Telltale Games</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>22657</id><PlatformId>15</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1174" height="1500" thumb="boxart/thumb/original/front/23995-1.png">boxart/original/front/23995-1.png</boxart>
+</Images>
+</Game>
+</Data>

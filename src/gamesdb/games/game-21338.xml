@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21338</id>
+<GameTitle>PhotoKano Kiss</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/25/2013</ReleaseDate>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Kadokawa Shoten</Publisher>
+<Developer>Dingo Inc.</Developer>
+<Images>
+<boxart side="front" width="393" height="500" thumb="boxart/thumb/original/front/21338-1.jpg">boxart/original/front/21338-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

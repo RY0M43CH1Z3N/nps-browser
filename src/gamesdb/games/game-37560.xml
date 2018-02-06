@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>37560</id>
+<GameTitle>Grand Kingdom</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/28/2016</ReleaseDate>
+<Overview>After the fall of the once-prosperous Uldein Empire over one hundred years ago, the Four Great Nations now wage war to claim dominion over the Resonail continent. Battles are no longer fought by honorable knights loyal to a nation, but by mercenaries who sell their services to the highest bidder.
+
+As the leader of a mercenary squad, the player will lead their troops across a battle-scarred continent, overcoming obstacles and adversaries as they complete quests doled out by each nation. In doing so, they will unravel the mystery behind the downfall of a mighty empire.
+
+With an impressive battle system that combines fast-paced action with strategic planning, and featuring robust character creation and customization options, Grand Kingdom is a Tactical RPG the likes of which has never been seen before. Assemble a squad of mercenaries, form an exclusive contract with one of the Four Great Nations, and participate in war with other players online for the future of Resonail.
+
+But remember- in this new age of war, there is only room for one Grand Kingdom.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=ikf2kcLiiUs</Youtube>
+<Publisher>NIS America</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>37559</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="814" thumb="boxart/thumb/original/front/37560-1.jpg">boxart/original/front/37560-1.jpg</boxart>
+<screenshot>
+<original width="610" height="343">screenshots/37560-1.jpg</original>
+<thumb>screenshots/thumb/37560-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

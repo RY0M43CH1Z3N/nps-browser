@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12557</id>
+<GameTitle>Touch My Katamari</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/21/2012</ReleaseDate>
+<Overview>In Touch My Katamari, the ever-growing ball of bits and bobs is controlled by touching the screen to roll it in any direction. A completely new Katamari gameplay feature allows players to use the rear touch pad of the PlayStation®Vita System to stretch the ball either horizontally or vertically to pick up more objects at once or squeeze through a narrow gap.
+Players will once again step into the shoes of the tireless Prince, tasked by the King of All Cosmos with rolling up ever more enormous balls of weird and wonderful junk. As the Prince travels through the varied levels of gentle lunacy, he will find himself amassing all manner of items large and small, inanimate and very much alive, from humble little ants to the volcanic grandeur of Mount Fuji.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Namco Bandai</Publisher>
+<Developer>Namco Bandai</Developer>
+<Images>
+<boxart side="front" width="475" height="604" thumb="boxart/thumb/original/front/12557-1.jpg">boxart/original/front/12557-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

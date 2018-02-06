@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39822</id>
+<GameTitle>Uncharted Golden Abyss</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/17/2011</ReleaseDate>
+<Overview>Uncover the dark secret behind the 400-year-old massacre of a Spanish expedition as Nathan Drake tracks the murderous trail of an ancient and secret Spanish sect. Caught in the middle of a rivalry between Jason Dante - his old friend - and Marisa Chase - the granddaughter of an archeologist who has mysteriously vanished without a trace - Nathan Drake delves into the treacherous river basins, undiscovered temple ruins and karst caverns of Central America in search of a legendary lost city, only to find himself pushed to the edge of the Golden Abyss</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=YHDezyb6vhk</Youtube>
+<Publisher>Sony</Publisher>
+<Developer>Naughty dog</Developer>
+<Images>
+<boxart side="front" width="250" height="320" thumb="boxart/thumb/original/front/39822-1.png">boxart/original/front/39822-1.png</boxart>
+</Images>
+</Game>
+</Data>

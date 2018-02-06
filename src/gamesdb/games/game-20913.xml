@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20913</id>
+<GameTitle>The Swapper</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/25/2014</ReleaseDate>
+<Overview>Holder of numerous awards and accolades, the Swapper is an atmospheric puzzle platformer set in the furthest reaches of space. Players wield an experimental device able to clone the user and swap control between them. Dropped into a character and world as mysterious as the workings of the device itself, The Swapper is a game of exploration of a very personal nature. 
+
+All of the art in The Swapper is constructed using clay models and other everyday materials. 
+
+The Swapper is supported by Indie Fund.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Facepalm Games</Publisher>
+<Developer>Facepalm Games</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>17442</id><PlatformId>1</PlatformId></Game><Game><id>20912</id><PlatformId>12</PlatformId></Game><Game><id>20914</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="300" height="450" thumb="boxart/thumb/original/front/20913-1.jpg">boxart/original/front/20913-1.jpg</boxart>
+<screenshot>
+<original width="1920" height="1080">screenshots/20913-1.jpg</original>
+<thumb>screenshots/thumb/20913-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/20913-2.jpg</original>
+<thumb>screenshots/thumb/20913-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/20913-3.jpg</original>
+<thumb>screenshots/thumb/20913-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

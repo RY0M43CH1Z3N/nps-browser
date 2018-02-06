@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17273</id>
+<GameTitle>Muramasa Rebirth</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/25/2013</ReleaseDate>
+<Overview>From master video game developer Vanillaware comes Muramasa Rebirth, an action RPG that blends the vibrant and beautiful world of Japanese mythology and high flying, fast-paced action! Enter a world where demon, samurai and other deadly enemies vie to destroy you as you search for the fabled Demon Blades. Become the possessed princess Momohime, as you travel West, or the fugitive ninja Kisuke, as you travel East, through mythical Japan battling anyone who stands in your way. Forge and collect 108 blades, each with its own devastating secret art, but beware these Demon Blades are hungry for the souls of the vanquished and legend foretells that tragedy befalls those who dare to use them. With stunning high-res graphics, two beautifully told storylines, multi-modes of play and much more, Muramasa Rebirth brings the very best entertainment to the PlayStation®Vita handheld entertainment system!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Vanillaware</Developer>
+<Images>
+<boxart side="front" width="342" height="444" thumb="boxart/thumb/original/front/17273-1.jpg">boxart/original/front/17273-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

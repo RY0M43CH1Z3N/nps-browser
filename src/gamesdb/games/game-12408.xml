@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12408</id>
+<GameTitle>Disgaea 3: Absence of Detention</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/20/2012</ReleaseDate>
+<Overview>Disgaea 3 is a sequel to Disgaea, a hardcore, turn-based strategy RPG. The game follows the exploits of Mao, the most honored student at Evil Academy, a school where the tardiest, laziest, and rudest demons receive the highest marks. The son of the school chairman, Mao has never once attended class nor opened a textbook. He longs to overthrow his father and assume the title of Overlord, which he decides he must become a hero to achieve. Join him on his zany adventure filled with witty dialogue, exciting events, and thrilling strategy battles.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS</Publisher>
+<Developer>NIS</Developer>
+<Images>
+<boxart side="front" width="640" height="823" thumb="boxart/thumb/original/front/12408-1.jpg">boxart/original/front/12408-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20566</id>
+<GameTitle>Borderlands 2</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/13/2014</ReleaseDate>
+<Overview>Borderlands 2 is the sequel to the critically acclaimed four-player cooperative shooter-looter that combined intense first-person mayhem with role-playing gameplay. The second game in the series, Borderlands 2 raises the action of the original game with an even larger and more detailed world to explore, an updated gun system, a new cast of characters and character classes, and integration of storyline with action.</Overview>
+<Genres><genre>Role-Playing</genre><genre>Sandbox</genre><genre>Shooter</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=dm-O7D0JNnM</Youtube>
+<Publisher>2K</Publisher>
+<Developer>Gearbox</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>42487</id><PlatformId>4916</PlatformId></Game><Game><id>9959</id><PlatformId>15</PlatformId></Game><Game><id>5647</id><PlatformId>1</PlatformId></Game><Game><id>11484</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/20566-1.jpg</original>
+<thumb>fanart/thumb/20566-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/20566-2.jpg</original>
+<thumb>fanart/thumb/20566-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/20566-3.jpg</original>
+<thumb>fanart/thumb/20566-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/20566-4.jpg</original>
+<thumb>fanart/thumb/20566-4.jpg</thumb>
+</fanart>
+<boxart side="front" width="1432" height="1875" thumb="boxart/thumb/original/front/20566-1.png">boxart/original/front/20566-1.png</boxart>
+<clearlogo width="400" height="226">clearlogo/20566.png</clearlogo></Images>
+</Game>
+</Data>

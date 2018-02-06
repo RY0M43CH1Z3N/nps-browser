@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23783</id>
+<GameTitle>Everybody's Golf</GameTitle>
+<AlternateTitles><title>Everybody's Golf 6</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>The game was unveiled along with its console, the PlayStation Vita, at the 2011 "PlayStation Meeting". Everybody's Golf features all-new courses, and downloadable content will be available through both retail and the PlayStation Store. Players will be able to leave each other comments through the "Live Area" system. Players will be able to view the golf course using PlayStation Vita's augmented reality feature.</Overview>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Clap Hanz</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>21540</id><PlatformId>10</PlatformId></Game><Game><id>31778</id><PlatformId>11</PlatformId></Game><Game><id>31296</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/23783-1.jpg">boxart/original/front/23783-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

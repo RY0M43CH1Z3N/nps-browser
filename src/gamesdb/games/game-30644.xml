@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30644</id>
+<GameTitle>The Legend of Heroes: Trails of Cold Steel</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/15/2015</ReleaseDate>
+<Overview>Taking place on the same continent as the fan favorite Trails in the Sky offshoot of Nihon Falcom's storied The Legend of Heroes franchise, Trails of Cold Steel (Sen no Kiseki in Japanese) is the first in the series to tread Erebonian soil and explore the inner political conflicts of this oft-mentioned powerhouse nation in detail. With a standalone story that also delves into the expansive lore that has become synonymous with the series, players can enjoy school life and bond with fellow students to earn new abilities in battle, take advantage of speedy, tactical turn-based combat with the newly-developed "ARCUS" system, and uncover dramatic events that stand to change everything these two opposing social classes stand for.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>XSEED Games</Publisher>
+<Developer>XSEED</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>35303</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/30644-1.jpg">boxart/original/front/30644-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

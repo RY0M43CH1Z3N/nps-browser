@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25552</id>
+<GameTitle>LEGO Ninjago: Shadow of Ronin</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/24/2015</ReleaseDate>
+<Overview>There is a new threat in Ninjago, and he goes by the name of Ronin. With help from his army of dark samurai, Ronin steals the Ninjas' memories using an ancient weapon called the Obsidian Glaive. In LEGO Ninjago: Shadow of Ronin, it is up to players to help the Ninjas regain their memories and reclaim their powers before Ronin completes his plan and releases an even greater evil on Ninjago.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Warner,wb</Publisher>
+<Developer>Warner,wb</Developer>
+<Images>
+<boxart side="front" width="990" height="1242" thumb="boxart/thumb/original/front/25552-1.jpg">boxart/original/front/25552-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

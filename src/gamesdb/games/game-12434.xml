@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12434</id>
+<GameTitle>Rainbow Moon</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/03/2013</ReleaseDate>
+<Overview>Rainbow Moon is a Strategy-RPG from the makers of the hit Soldner-X franchise. Cursed by his long-time enemy, Baldren founds himself warped to Rainbow Moon. And to make things worse, Baldren isn't only stranded in an unknown place – he has also opened a dimensional gate, out of which troops of monsters are crawling, turning this once peaceful planet into a real hell.
+
+The residents of Rainbow Moon who have found themselves in this sudden and unpleasant situation react suspiciously and even nastily, which certainly doesn't make things any easier for our brave hero. There's only one thing for Baldren to do: he has to seal the gate and warp himself back to his home planet. This is easier said than done, since the gate can only be sealed by a dimensional gate staff and no such object is available anywhere on Rainbow Moon. However Baldren knows that he can create one if he finds the right materials. He needs seven magical artifacts, said to be hidden deep inside Rainbow Moon's dungeons.
+
+And this is where our quest begins ...</Overview>
+<Genres><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>EastAsiaSoft</Publisher>
+<Developer>SideQuest Studios</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>16284</id><PlatformId>12</PlatformId></Game><Game><id>36428</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="444" height="500" thumb="boxart/thumb/original/front/12434-1.jpg">boxart/original/front/12434-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

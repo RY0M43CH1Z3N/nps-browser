@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24293</id>
+<GameTitle>Final Fantasy VII</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/02/2009</ReleaseDate>
+<Overview>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation with Shinra worsens until Cloud and allies discover Sephiroth's plan, the game's main antagonist.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Square</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>26466</id><PlatformId>7</PlatformId></Game><Game><id>5496</id><PlatformId>1</PlatformId></Game><Game><id>525</id><PlatformId>10</PlatformId></Game><Game><id>24292</id><PlatformId>12</PlatformId></Game><Game><id>31303</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="650" height="650" thumb="boxart/thumb/original/front/24293-1.jpg">boxart/original/front/24293-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23735</id>
+<GameTitle>Natural Doctrine</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/30/2014</ReleaseDate>
+<Overview>Strategy role-playing gamers be ready, as this game will truly test your ability to conquer the evils that lurk in the sprawling networks of mines and ruins in the areas surrounding the fortress city of Feste. Seasoned explorers and novices alike venture underground into dangerous caves to collect the coveted material known as Pluton. During your first trip down into the depths of one of these mines, you and your new explorer friends quickly realize that things may be more dire than you had imagined as you encounter a brand-new type of evil lurking below the surface. You and your newfound friends must strategically defeat these new difficult foes and warn the kingdom of their presence before it's too late.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=fttzT48-Uro</Youtube>
+<Publisher>NIS America</Publisher>
+<Developer>Kadokawa Games</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>42945</id><PlatformId>12</PlatformId></Game><Game><id>21410</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="225" height="225" thumb="boxart/thumb/original/front/23735-1.jpg">boxart/original/front/23735-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

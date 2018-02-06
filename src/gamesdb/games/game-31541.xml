@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>31541</id>
+<GameTitle>MLB 15: The Show</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>MLB 15: The Show is a Major League Baseball video game developed by Sony San Diego and published by Sony Computer Entertainment. It is the tenth entry of the MLB: The Show franchise, and was released on March 31, 2015, for the PlayStation 3, PlayStation 4, and PlayStation Vita.[1]
+
+Matt Vasgersian, Eric Karros, and Steve Lyons return as commentators. Mike Carlucci returns as public address announcer. Legends can be used as free agents in the Franchise and Season modes in the game.</Overview>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>31539</id><PlatformId>12</PlatformId></Game><Game><id>31540</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="500" height="500" thumb="boxart/thumb/original/front/31541-1.jpg">boxart/original/front/31541-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

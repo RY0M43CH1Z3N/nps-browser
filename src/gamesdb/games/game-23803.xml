@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23803</id>
+<GameTitle>The Unfinished Swan</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Overview>An independently-produced title, Unfinished Swan is a surreal maze game set in an entirely blank world. You find yourself chasing after a swan who has wandered off into a surreal, unfinished kingdom. The game begins in a completely white space, and you can throw paint to splatter the surroundings and reveal the world around you. Discover the land through further innovative new game mechanics to uncover your surroundings. Each level will bring new twists, challenges, and puzzles until you eventually come face-to-face with the eccentric King that built this realm.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Giant Sparrow</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>23806</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="135" height="160" thumb="boxart/thumb/original/front/23803-1.jpg">boxart/original/front/23803-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

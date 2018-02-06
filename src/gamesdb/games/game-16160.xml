@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16160</id>
+<GameTitle>Jet Set Radio</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/20/2012</ReleaseDate>
+<Overview>Tag, grind, and trick to the beat in SEGA’s hit game Jet Set Radio!
+
+Fight for control of Tokyo-to, mark your turf with graffiti, tag walls, billboards, and even rival gang members! Perform tricks and flips on magnetically driven in-line skates, but watch out for the local police force!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SEGA</Publisher>
+<Developer>Blit Software</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>16161</id><PlatformId>4915</PlatformId></Game><Game><id>16159</id><PlatformId>1</PlatformId></Game><Game><id>17806</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="718" height="405" thumb="boxart/thumb/original/front/16160-1.jpg">boxart/original/front/16160-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

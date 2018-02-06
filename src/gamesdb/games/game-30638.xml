@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30638</id>
+<GameTitle>Corpse Party Ever After Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/13/2015</ReleaseDate>
+<Overview>Corpse Party: Blood Drive is the final installment of the story that began with Corpse Party and continued in Corpse Party: Book of Shadows. Players take direct control of a character or party of characters and explore the ruins of Heavenly Host Elementary and other locations from a top-down 3D perspective. Along the way, they'll be dodging or disarming traps, running from malicious entities, solving puzzles and directly interacting with the environment to trigger visual novel-style cutscenes that advance the story and lead to one of many endings, with very few of them being happy...</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Action</genre><genre>Horror</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>XSEED Games</Publisher>
+<Developer>XSEED Games</Developer>
+<Images>
+<boxart side="front" width="1118" height="1427" thumb="boxart/thumb/original/front/30638-1.jpg">boxart/original/front/30638-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

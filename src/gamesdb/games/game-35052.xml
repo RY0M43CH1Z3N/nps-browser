@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35052</id>
+<GameTitle>Digimon Story: Cyber Sleuth</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/02/2016</ReleaseDate>
+<Overview>LOG-IN TO SOLVE A DIGITAL MYSTERY INFECTING THE REAL &amp; DIGITAL WORLDS! Set in the near future, the line between the real and digital worlds is blurred. Logging into cyberspace is part of everyday life. For one teenager, a harmless on-line chat spawns a chance encounter with a mysterious hacker. Little did this teen know, this brief meeting would lead to a digi-monumental adventure. In Digimon Story Cyber Sleuth, scan, raise, and train your faithful Digimon companions to battle by your side against a group of hackers. Do you have what it takes to crack this digi-case?</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Bandai Namco Games America Inc.</Publisher>
+<Developer>Media.Vision</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>32692</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1027" height="1280" thumb="boxart/thumb/original/front/35052-1.jpg">boxart/original/front/35052-1.jpg</boxart>
+<screenshot>
+<original width="1280" height="720">screenshots/35052-1.jpg</original>
+<thumb>screenshots/thumb/35052-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1400" height="793">screenshots/35052-2.jpg</original>
+<thumb>screenshots/thumb/35052-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/35052-3.jpg</original>
+<thumb>screenshots/thumb/35052-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/35052-4.jpg</original>
+<thumb>screenshots/thumb/35052-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/35052-5.jpg</original>
+<thumb>screenshots/thumb/35052-5.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

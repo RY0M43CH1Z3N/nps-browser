@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34180</id>
+<GameTitle>Super Meat Boy</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Super Meat Boy is an independent video game designed by Edmund McMillen and Tommy Refenes and developed by Team Meat. It is the successor to McMillen and Jonathan McEntee's 2008 Flash game Meat Boy. Super Meat Boy was released on the Xbox 360 through Xbox Live Arcade in October 2010, on Microsoft Windows in November 2010, on OS X a year later in November 2011, on Linux in December 2011 as a part of the Humble Indie Bundle #4, in May 2012 as a part of the Humble Indie Bundle V, and on PlayStation 4 and PlayStation Vita in October 2015. In the game the player controls Meat Boy, a red, cube-shaped character, as he attempts to rescue his girlfriend, Bandage Girl, from the game's antagonist Dr. Fetus. The gameplay is characterized by fine control and split-second timing as the player runs and jumps through over 300 hazardous levels while avoiding obstacles. Additional player-created levels are available for free download.
+
+Development of the game began in January 2009. McMillen worked on level design and artwork, while Refenes coded the game; it was tested primarily by the pair and their families. Initially intended for release in early 2010 for personal computers and the WiiWare download service, the release date was pushed back as the design was changed to include more levels and exclude multiplayer modes. The WiiWare version was canceled due to the service's technical limitations. The music for the game was created by Danny Baranowsky, who had also composed the music for Meat Boy. The soundtrack was released as an album, and music from it was released as downloadable content for Rock Band 3.
+
+The game was critically acclaimed. In 2010, it received awards for Most Challenging Game from IGN, and for Best Downloadable Game from GameSpot and GameTrailers. Critics lauded the game's precise control, retro artwork, and soundtrack. Reviewers generally praised the game's challenge, although some warned that not all players would appreciate the level of difficulty. The game was a commercial success, and sold more than one million copies as of January 2012. A sequel, Super Meat Boy Forever, is currently in development.[1]</Overview>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Developer>Team Meat</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>10903</id><PlatformId>15</PlatformId></Game><Game><id>2260</id><PlatformId>1</PlatformId></Game><Game><id>34181</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="877" thumb="boxart/thumb/original/front/34180-1.jpg">boxart/original/front/34180-1.jpg</boxart>
+<clearlogo width="400" height="155">clearlogo/34180.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21425</id>
+<GameTitle>DJ Max Technika Tune</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/07/2012</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Neowiz Corporation</Publisher>
+<Developer>Pentavision Entertainment</Developer>
+<Images>
+<boxart side="front" width="475" height="615" thumb="boxart/thumb/original/front/21425-1.jpg">boxart/original/front/21425-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

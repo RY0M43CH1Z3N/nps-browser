@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>41918</id>
+<GameTitle>Toukiden: Kiwami</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/31/2015</ReleaseDate>
+<Overview>Toukiden: Kiwami is the sequel to 'TOUKIDEN,' consisting of all the content from the original title plus the addition of various elements and stories.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Publisher>Koei Tecmo Games</Publisher>
+<Developer>Omega Force</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>33023</id><PlatformId>1</PlatformId></Game><Game><id>27135</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="817" thumb="boxart/thumb/original/front/41918-1.jpg">boxart/original/front/41918-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13451</id>
+<GameTitle>New Little King's Story</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/02/2012</ReleaseDate>
+<Overview>A sprawling role-playing epic set in a beautifully-realised game world, New Little King's Story follows the player as they assume the role of a King tasked with reclaiming his kingdom from an invader known only as 'The Nightmare.' King Corobo, a plucky 14-year-old royal, presides over a stricken land. The evil Nightmare is running havoc and the populace lives in fear as it preys on them. Thus, as Corobo, the user must unite their subjects in order to fight back and reclaim the kingdom.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=6Ce9c0wH3UE</Youtube>
+<Publisher>Konami</Publisher>
+<Developer>Marvelous Entertainment</Developer>
+<Images>
+<boxart side="front" width="234" height="300" thumb="boxart/thumb/original/front/13451-1.jpg">boxart/original/front/13451-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

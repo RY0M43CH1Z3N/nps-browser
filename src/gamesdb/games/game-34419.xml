@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34419</id>
+<GameTitle>Kung Fu Rabbit</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>Cosen</Publisher>
+<Developer>Bulkypix</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>34420</id><PlatformId>4912</PlatformId></Game><Game><id>34418</id><PlatformId>38</PlatformId></Game><Game><id>34421</id><PlatformId>1</PlatformId></Game><Game><id>34422</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="456" height="409" thumb="boxart/thumb/original/front/34419-1.png">boxart/original/front/34419-1.png</boxart>
+</Images>
+</Game>
+</Data>

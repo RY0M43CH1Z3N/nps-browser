@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16254</id>
+<GameTitle>Dead or Alive 5 Plus</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/19/2013</ReleaseDate>
+<Overview>Dead or Alive 5 Plus (stylized as Dead or Alive 5+ and abbreviated to DOA5+) is a fighting game in the Dead or Alive series, developed by Team Ninja in partnership with Sega AM2 and released by Tecmo Koei for the PlayStation Vita in March 2013. An expanded handheld port of the 2012 game Dead or Alive 5, DOA5+ was met with positive critical reception, gaining better scores than the original.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Tecmo</Publisher>
+<Developer>Team Ninja</Developer>
+<Rating>7.4</Rating><Images>
+<boxart side="front" width="640" height="817" thumb="boxart/thumb/original/front/16254-1.jpg">boxart/original/front/16254-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

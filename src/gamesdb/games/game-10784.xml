@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>10784</id>
+<GameTitle>Mortal Kombat</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/01/2012</ReleaseDate>
+<Overview>Fatality Lives! The deadliest tournament is back with all the kombatants and their unique fatalities.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Warner Bros. Interactive</Publisher>
+<Developer>NetherRealm Studios</Developer>
+<Rating>9.5</Rating><Similar><SimilarCount>14</SimilarCount><Game><id>9538</id><PlatformId>4911</PlatformId></Game><Game><id>7193</id><PlatformId>23</PlatformId></Game><Game><id>6095</id><PlatformId>14</PlatformId></Game><Game><id>17828</id><PlatformId>15</PlatformId></Game><Game><id>13103</id><PlatformId>4</PlatformId></Game><Game><id>14255</id><PlatformId>1</PlatformId></Game><Game><id>5065</id><PlatformId>21</PlatformId></Game><Game><id>13768</id><PlatformId>20</PlatformId></Game><Game><id>653</id><PlatformId>18</PlatformId></Game><Game><id>2926</id><PlatformId>35</PlatformId></Game><Game><id>7194</id><PlatformId>36</PlatformId></Game><Game><id>7378</id><PlatformId>11</PlatformId></Game><Game><id>6768</id><PlatformId>12</PlatformId></Game><Game><id>2826</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1178" height="1500" thumb="boxart/thumb/original/front/10784-1.jpg">boxart/original/front/10784-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/10784-1.jpg</original>
+<thumb>screenshots/thumb/10784-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/10784-2.jpg</original>
+<thumb>screenshots/thumb/10784-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/10784-3.jpg</original>
+<thumb>screenshots/thumb/10784-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/10784-4.jpg</original>
+<thumb>screenshots/thumb/10784-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/10784-5.jpg</original>
+<thumb>screenshots/thumb/10784-5.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="88">clearlogo/10784.png</clearlogo></Images>
+</Game>
+</Data>

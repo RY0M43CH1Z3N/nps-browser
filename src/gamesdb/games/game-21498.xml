@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21498</id>
+<GameTitle>The Ratchet &amp; Clank Trilogy HD</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/02/2014</ReleaseDate>
+<Overview>Ratchet &amp; Clank Collection (known as The Ratchet &amp; Clank Trilogy in Europe and Ratchet &amp; Clank 1+2+3 in Japan) is a high-definition remastered collection. The collection includes the original three PlayStation 2 games, Ratchet &amp; Clank, Ratchet &amp; Clank: Going Commando, and Ratchet &amp; Clank: Up Your Arsenal in native 720p @ 60fps and includes 720p stereoscopic 3D support @ 30fps. It also includes the multiplayer of Ratchet &amp; Clank: Up Your Arsenal over the PlayStation Network. It includes a Trophy set for each game. All of the games in this collection have been re-rated E10+ by the ESRB; they were originally rated T since the E10+ rating didn't exist at the time these games were released on the PlayStation 2.
+
+Originally leaked by Amazon France on March 2, 2012, it was announced by Insomniac Games and Sony Computer Entertainment on March 15, 2012. It was developed by Insomniac Games in conjunction with Idol Minds. In North America, the game, along with the God of War Saga and the inFamous Collection, are the first in Sony's new line of PlayStation Collections released on August 28, 2012.[3][4]
+
+A PlayStation Vita port of the Collection was officially announced on May 29, 2014, and released on July 2 in Europe. The Vita version is ported by Insomniac Games in conjunction with Mass Media Inc.. It was released in North America on July 29, 2014.
+
+The original release of the Ratchet &amp; Clank Collection received mostly positive reviews. The majority of praise for the PS3 version came from the fun, original gameplay, and the upscaled graphics. It did draw some criticism for its apparent lack of innovation. The Vita version received mixed reviews. While the port's smooth framerate was complimented, the technical issues were heavily criticized.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=nWdjhfSbLZQ</Youtube>
+<Publisher>Sony</Publisher>
+<Developer>Mass Media</Developer>
+<Images>
+<boxart side="front" width="1183" height="1500" thumb="boxart/thumb/original/front/21498-1.jpg">boxart/original/front/21498-1.jpg</boxart>
+<screenshot>
+<original width="1280" height="720">screenshots/21498-1.jpg</original>
+<thumb>screenshots/thumb/21498-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/21498-2.jpg</original>
+<thumb>screenshots/thumb/21498-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/21498-3.jpg</original>
+<thumb>screenshots/thumb/21498-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23789</id>
+<GameTitle>The Hungry Horde</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/05/2014</ReleaseDate>
+<Overview>In The Hungry Horde. you control mass of a wayward zombies. Every time your zombies bites a human, these newly-undead people will join your ever increasing horde, until you’re controlling whole streets full of the undead. Unfortunately, rampaging through the streets eating brains is always going to grab someone’s attention, and sensing the danger to the population the government have decided to do the only sensible thing they can. Quarantine the area and nuke you. So it’s a race against the clock to gather a big enough horde to smash down any human defenses and take on armed guards, tanks and any other opposition that gets between you and those tasty brains.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Nosebleed Interactive</Developer>
+<Images>
+<boxart side="front" width="692" height="484" thumb="boxart/thumb/original/front/23789-1.jpg">boxart/original/front/23789-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15719</id>
+<GameTitle>Jikkyou Powerful Pro Yakyuu 2012 Ketteiban</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/13/2012</ReleaseDate>
+<Overview>Released in Japan in 2012.</Overview>
+<Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Y80SLt9kqfE</Youtube>
+<Similar><SimilarCount>2</SimilarCount><Game><id>15717</id><PlatformId>12</PlatformId></Game><Game><id>15718</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="815" thumb="boxart/thumb/original/front/15719-1.jpg">boxart/original/front/15719-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

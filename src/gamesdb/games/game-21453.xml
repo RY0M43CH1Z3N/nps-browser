@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21453</id>
+<GameTitle>Fifa 14</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>FIFA 14 is a 2013 sports association football simulation video game developed by EA Canada and published by Electronic Arts. It was released in late September 2013 for the PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation Vita, Xbox 360, Wii, Nintendo 3DS and Microsoft Windows.[3] It was released as freemium, under the title FIFA 14 Mobile, for iOS and Android on September 23, 2013[6] and for Windows Phone 8 on February 28, 2014,[9] although much of the game is inaccessible without an in-app payment. It was a launch title for the PlayStation 4 and Xbox One in November 2013[7][8] and is the last FIFA game to be released for the PlayStation 2 and PlayStation Portable.
+
+The game received primarily positive reviews across all systems.</Overview>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=ZVx7vqtzACE</Youtube>
+<Similar><SimilarCount>8</SimilarCount><Game><id>17834</id><PlatformId>15</PlatformId></Game><Game><id>18238</id><PlatformId>4920</PlatformId></Game><Game><id>33382</id><PlatformId>9</PlatformId></Game><Game><id>18041</id><PlatformId>1</PlatformId></Game><Game><id>32109</id><PlatformId>11</PlatformId></Game><Game><id>18817</id><PlatformId>12</PlatformId></Game><Game><id>18865</id><PlatformId>4919</PlatformId></Game><Game><id>19360</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1157" height="1476" thumb="boxart/thumb/original/front/21453-1.jpg">boxart/original/front/21453-1.jpg</boxart>
+<clearlogo width="400" height="120">clearlogo/21453.png</clearlogo></Images>
+</Game>
+</Data>

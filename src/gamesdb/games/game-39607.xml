@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39607</id>
+<GameTitle>Stranger of Sword City: Black Palace</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/26/2016</ReleaseDate>
+<Overview>Stranger of Sword City is a dungeon crawler style role-playing video game. Players progress through the game by navigating through dungeons laden with hazardous booby traps.</Overview>
+<ESRB>T - Teen</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=NClBl-hVoss</Youtube>
+<Publisher>NIS America</Publisher>
+<Developer>Experience</Developer>
+<Images>
+<boxart side="front" width="471" height="600" thumb="boxart/thumb/original/front/39607-1.jpg">boxart/original/front/39607-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

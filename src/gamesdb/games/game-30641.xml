@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30641</id>
+<GameTitle>Steins;Gate</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/31/2015</ReleaseDate>
+<Overview>Steins Gate is the award-winning time travel science-fiction interactive visual novel developed by 5pb. and Nitro plus. A group of teenage scientists discover the ability to alter the past by sending text messages through a modified microwave. Their experiments inevitably spiral out of control as they become entangled in a conspiracy surrounding SERN, the organization behind supposed failed time travel events, and John Titor, a mysterious internet forum poster claiming to come from a dystopian future. With memorable characters, outstanding art design and a gripping narrative, Steins Gate is a critically-acclaimed visual that can be experienced time and time again.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>PQube</Publisher>
+<Developer>Nitroplus</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>20763</id><PlatformId>1</PlatformId></Game><Game><id>34231</id><PlatformId>12</PlatformId></Game><Game><id>33267</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/30641-1.jpg">boxart/original/front/30641-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

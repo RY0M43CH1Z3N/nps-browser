@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39997</id>
+<GameTitle>MeiQ: Labyrinth of Death: Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/13/2016</ReleaseDate>
+<Overview>Suit up! A worldwide blackout means it's time to put your dungeon-crawling skills to the test. The rotation of the celestial bodies has ceased, and it's up to you to make your way through the four tower mazes and set things in motion again in this challenging dungeon-crawling RPG. Your heroines will be joined in battle by giant mechanical Guardians, whose individual parts can be customized in multiple ways to suit your battle style against a multitude of elemental enemies! First, the winds stopped. Then, birds vanished from the skies. Finally, the sun set... And an eternal night fell upon the world. The reason was quickly identified. It was a story told of in legends. The world had ceased hundreds of years ago as well. But there was a legendary mage who had managed to restart it. Thus, elders gathered capable young Machina Mages from around the world. They sent them to the legendary city: Machina City, Southern Cross. You must restart the world, and bring an end to this eternal night. That is your mission, and your destiny. Now, go forth on your journey. Go, Estra!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>!FIDEA FACTORY</Publisher>
+<Developer>Compile Heart</Developer>
+<Images>
+<boxart side="front" width="353" height="385" thumb="boxart/thumb/original/front/39997-1.jpg">boxart/original/front/39997-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

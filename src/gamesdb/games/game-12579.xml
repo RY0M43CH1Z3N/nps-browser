@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12579</id>
+<GameTitle>MLB 12: The Show</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/06/2012</ReleaseDate>
+<Overview>MLB 12 The Show is the latest release in a franchise has been the highest rated sports video game for the past 4 years. The Show enables consumers to immerse themselves in exhilarating baseball moments by delivering true-to-life gameplay, authentic franchise and season modes, and incredible detail not found in any other sports game. MLB 12 The Show builds on what has been delivered in previous franchise releases adding compelling features that bring unparalleled innovation and polish to the sports genre.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Sports</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>SCEA</Publisher>
+<Developer>SCEA San Diego Studios</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>13132</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="811" thumb="boxart/thumb/original/front/12579-1.jpg">boxart/original/front/12579-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

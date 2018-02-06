@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12576</id>
+<GameTitle>F1 2011</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>F1 2011 is the sequel to the BAFTA-winning F1 2010 video game from Codemasters. F1 2011 will feature all the official drivers, teams, and circuits in the 2011 FIA Formula One World Championship. Multiplayer has been revamped from the options available in F1 2010. You can race split-screen for the first time in a high-definition Formula One title. Two new additional circuits have been added to the race calendar to extend the number of circuits to 19. Become the driver and live life in this all-new experience of Formula One racing. Renowned drivers from the 2011 FIA Formula One World Championship include Sebastian Vettel, Lewis Hamilton, Michael Schumacher, Fernando Alonso, and Jenson Button. You can race all day, with full day to night transitions that re-create the special atmosphere of the unique track Ethiad Airways Abu Dhabi Grand Prix.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Codemasters</Publisher>
+<Developer>Codemasters</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>8953</id><PlatformId>15</PlatformId></Game><Game><id>42695</id><PlatformId>4912</PlatformId></Game><Game><id>7710</id><PlatformId>1</PlatformId></Game><Game><id>13084</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="815" thumb="boxart/thumb/original/front/12576-1.jpg">boxart/original/front/12576-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19151</id>
+<GameTitle>Danganronpa: Trigger Happy Havoc</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/11/2014</ReleaseDate>
+<Overview>DanganRonpa: Trigger Happy Havoc is a revised and revamped edition of a title originally released on the PlayStation®Portable in Japan in 2010. You'll take on the role of Makoto Naegi, a desperately average teenager who somehow finds himself accepted into Hope's Peak Academy, a prestigious high school normally reserved for the nation's "ultimate" students. But when he arrives, he and the other students soon find themselves trapped in a battle for survival against a twisted mastermind who has taken them all prisoner. You'll have to unmask the villain and uncover the secret of the school...or die trying!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS America</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Images>
+<boxart side="front" width="400" height="514" thumb="boxart/thumb/original/front/19151-1.jpg">boxart/original/front/19151-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

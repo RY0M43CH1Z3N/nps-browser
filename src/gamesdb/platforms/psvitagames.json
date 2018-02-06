@@ -1,0 +1,3992 @@
+[
+   {
+      "ID":"38555",
+      "SID":"PCSE00724",
+      "Name":"Saturday Morning RPG",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"38556",
+      "SID":"PCSG00443",
+      "Name":"Soldner-X 2: Final Prototype",
+      "Region":"JP",
+      "Release Date":"07\/29\/2016"
+   },
+   {
+      "ID":"38556",
+      "SID":"PCSB00596",
+      "Name":"Soldner-X 2: Final Prototype",
+      "Region":"EU",
+      "Release Date":"07\/29\/2016"
+   },
+   {
+      "ID":"20566",
+      "SID":"PCSE00383",
+      "Name":"Borderlands 2",
+      "Region":"US",
+      "Release Date":"05\/13\/2014"
+   },
+   {
+      "ID":"20566",
+      "SID":"PCSG00400",
+      "Name":"Borderlands 2",
+      "Region":"JP",
+      "Release Date":"05\/13\/2014"
+   },
+   {
+      "ID":"20566",
+      "SID":"PCSF00570",
+      "Name":"Borderlands 2",
+      "Region":"EU",
+      "Release Date":"05\/13\/2014"
+   },
+   {
+      "ID":"36022",
+      "SID":"PCSE00333",
+      "Name":"The Amazing Spider-Man",
+      "Region":"US",
+      "Release Date":"11\/19\/2013"
+   },
+   {
+      "ID":"36022",
+      "SID":"PCSB00428",
+      "Name":"The Amazing Spider-Man",
+      "Region":"EU",
+      "Release Date":"11\/19\/2013"
+   },
+   {
+      "ID":"3924",
+      "SID":"PCSF00007",
+      "Name":"Wipeout 2048",
+      "Region":"EU",
+      "Release Date":"02\/13\/2012"
+   },
+   {
+      "ID":"8330",
+      "SID":"PCSA00011",
+      "Name":"Gravity Rush",
+      "Region":"US",
+      "Release Date":"06\/12\/2012"
+   },
+   {
+      "ID":"8330",
+      "SID":"PCSF00024",
+      "Name":"Gravity Rush",
+      "Region":"EU",
+      "Release Date":"06\/12\/2012"
+   },
+   {
+      "ID":"25552",
+      "SID":"PCSE00534",
+      "Name":"LEGO Ninjago: Shadow of Ronin",
+      "Region":"US",
+      "Release Date":"03\/24\/2015"
+   },
+   {
+      "ID":"25552",
+      "SID":"PCSB00706",
+      "Name":"LEGO Ninjago: Shadow of Ronin",
+      "Region":"EU",
+      "Release Date":"03\/24\/2015"
+   },
+   {
+      "ID":"9238",
+      "SID":"PCSA00010",
+      "Name":"Little Deviants",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"9238",
+      "SID":"PCSF00017",
+      "Name":"Little Deviants",
+      "Region":"EU",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"9240",
+      "SID":"PCSE00052",
+      "Name":"Rayman Origins",
+      "Region":"US",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"9240",
+      "SID":"PCSG00015",
+      "Name":"Rayman Origins",
+      "Region":"JP",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"9240",
+      "SID":"PCSB00079",
+      "Name":"Rayman Origins",
+      "Region":"EU",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"9241",
+      "SID":"PCSA00029",
+      "Name":"Uncharted: Golden Abyss",
+      "Region":"US",
+      "Release Date":"02\/13\/2012"
+   },
+   {
+      "ID":"10784",
+      "SID":"PCSE00023",
+      "Name":"Mortal Kombat",
+      "Region":"US",
+      "Release Date":"05\/01\/2012"
+   },
+   {
+      "ID":"10784",
+      "SID":"PCSB00106",
+      "Name":"Mortal Kombat",
+      "Region":"EU",
+      "Release Date":"05\/01\/2012"
+   },
+   {
+      "ID":"13283",
+      "SID":"PCSE00005",
+      "Name":"Street Fighter X Tekken",
+      "Region":"US",
+      "Release Date":"10\/23\/2012"
+   },
+   {
+      "ID":"11741",
+      "SID":"PCSA00004",
+      "Name":"Escape Plan",
+      "Region":"US",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"11741",
+      "SID":"PCSC00012",
+      "Name":"Escape Plan",
+      "Region":"JP",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"11741",
+      "SID":"PCSF00023",
+      "Name":"Escape Plan",
+      "Region":"EU",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"11741",
+      "SID":"PCSD00016",
+      "Name":"Escape Plan",
+      "Region":"ASIA",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"11746",
+      "SID":"PCSE00119",
+      "Name":"Ragnarok Odyssey",
+      "Region":"US",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"11746",
+      "SID":"PCSG00025",
+      "Name":"Ragnarok Odyssey",
+      "Region":"JP",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"11746",
+      "SID":"PCSH00020",
+      "Name":"Ragnarok Odyssey",
+      "Region":"ASIA",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"11974",
+      "SID":"PCSE00020",
+      "Name":"Metal Gear Solid HD Collection",
+      "Region":"US",
+      "Release Date":"06\/12\/2012"
+   },
+   {
+      "ID":"11974",
+      "SID":"PCSB00118",
+      "Name":"Metal Gear Solid HD Collection",
+      "Region":"EU",
+      "Release Date":"06\/12\/2012"
+   },
+   {
+      "ID":"12027",
+      "SID":"PCSA00008",
+      "Name":"Resistance: Burning Skies",
+      "Region":"US",
+      "Release Date":"05\/29\/2012"
+   },
+   {
+      "ID":"12027",
+      "SID":"PCSF00003",
+      "Name":"Resistance: Burning Skies",
+      "Region":"EU",
+      "Release Date":"05\/29\/2012"
+   },
+   {
+      "ID":"12027",
+      "SID":"PCSF00141",
+      "Name":"Resistance: Burning Skies",
+      "Region":"EU",
+      "Release Date":"05\/29\/2012"
+   },
+   {
+      "ID":"12027",
+      "SID":"PCSF00142",
+      "Name":"Resistance: Burning Skies",
+      "Region":"EU",
+      "Release Date":"05\/29\/2012"
+   },
+   {
+      "ID":"12243",
+      "SID":"PCSC00032",
+      "Name":"PlayStation All-Stars Battle Royale",
+      "Region":"JP",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"12243",
+      "SID":"PCSD00040",
+      "Name":"PlayStation All-Stars Battle Royale",
+      "Region":"ASIA",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"12392",
+      "SID":"PCSE00053",
+      "Name":"Assassin's Creed III: Liberation",
+      "Region":"US",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"12392",
+      "SID":"PCSG00116",
+      "Name":"Assassin's Creed III: Liberation",
+      "Region":"JP",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"12392",
+      "SID":"PCSB00074",
+      "Name":"Assassin's Creed III: Liberation",
+      "Region":"EU",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"12425",
+      "SID":"PCSG00014",
+      "Name":"Lumines: Electronic Symphony",
+      "Region":"JP",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12425",
+      "SID":"PCSB00061",
+      "Name":"Lumines: Electronic Symphony",
+      "Region":"EU",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12429",
+      "SID":"PCSE00021",
+      "Name":"Ninja Gaiden Sigma Plus",
+      "Region":"US",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12429",
+      "SID":"PCSB00097",
+      "Name":"Ninja Gaiden Sigma Plus",
+      "Region":"EU",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12434",
+      "SID":"PCSE00908",
+      "Name":"Rainbow Moon",
+      "Region":"US",
+      "Release Date":"12\/03\/2013"
+   },
+   {
+      "ID":"12434",
+      "SID":"PCSG00266",
+      "Name":"Rainbow Moon",
+      "Region":"JP",
+      "Release Date":"12\/03\/2013"
+   },
+   {
+      "ID":"12434",
+      "SID":"PCSB00370",
+      "Name":"Rainbow Moon",
+      "Region":"EU",
+      "Release Date":"12\/03\/2013"
+   },
+   {
+      "ID":"12444",
+      "SID":"PCSE00015",
+      "Name":"Shinobido 2: Revenge of Zen",
+      "Region":"US",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"12444",
+      "SID":"PCSG00019",
+      "Name":"Shinobido 2: Revenge of Zen",
+      "Region":"JP",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"12444",
+      "SID":"PCSB00049",
+      "Name":"Shinobido 2: Revenge of Zen",
+      "Region":"EU",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"12446",
+      "SID":"PCSG00049",
+      "Name":"Silent Hill: Book of Memories",
+      "Region":"JP",
+      "Release Date":"10\/16\/2012"
+   },
+   {
+      "ID":"12451",
+      "SID":"PCSE00068",
+      "Name":"Spy Hunter",
+      "Region":"US",
+      "Release Date":"10\/09\/2012"
+   },
+   {
+      "ID":"12451",
+      "SID":"PCSG00128",
+      "Name":"Spy Hunter",
+      "Region":"JP",
+      "Release Date":"10\/09\/2012"
+   },
+   {
+      "ID":"12549",
+      "SID":"PCSA00017",
+      "Name":"LittleBigPlanet",
+      "Region":"US",
+      "Release Date":"09\/19\/2012"
+   },
+   {
+      "ID":"12549",
+      "SID":"PCSC00013",
+      "Name":"LittleBigPlanet",
+      "Region":"JP",
+      "Release Date":"09\/19\/2012"
+   },
+   {
+      "ID":"12549",
+      "SID":"PCSF00021",
+      "Name":"LittleBigPlanet",
+      "Region":"EU",
+      "Release Date":"09\/19\/2012"
+   },
+   {
+      "ID":"12549",
+      "SID":"PCSD00006",
+      "Name":"LittleBigPlanet",
+      "Region":"ASIA",
+      "Release Date":"09\/19\/2012"
+   },
+   {
+      "ID":"12550",
+      "SID":"PCSE00085",
+      "Name":"Zero Escape: Virtue's Last Reward",
+      "Region":"US",
+      "Release Date":"10\/22\/2012"
+   },
+   {
+      "ID":"12550",
+      "SID":"PCSB00205",
+      "Name":"Zero Escape: Virtue's Last Reward",
+      "Region":"EU",
+      "Release Date":"10\/22\/2012"
+   },
+   {
+      "ID":"12552",
+      "SID":"PCSE00006",
+      "Name":"Army Corps of Hell",
+      "Region":"US",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12552",
+      "SID":"PCSG00023",
+      "Name":"Army Corps of Hell",
+      "Region":"JP",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12552",
+      "SID":"PCSB00050",
+      "Name":"Army Corps of Hell",
+      "Region":"EU",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12554",
+      "SID":"PCSE00120",
+      "Name":"Persona 4 Golden",
+      "Region":"US",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"12554",
+      "SID":"PCSG00004",
+      "Name":"Persona 4 Golden",
+      "Region":"JP",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"12554",
+      "SID":"PCSB00245",
+      "Name":"Persona 4 Golden",
+      "Region":"EU",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"12556",
+      "SID":"PCSG00032",
+      "Name":"Super Monkey Ball: Banana Splitz",
+      "Region":"JP",
+      "Release Date":"10\/23\/2012"
+   },
+   {
+      "ID":"12557",
+      "SID":"PCSG00018",
+      "Name":"Touch My Katamari",
+      "Region":"JP",
+      "Release Date":"02\/21\/2012"
+   },
+   {
+      "ID":"12558",
+      "SID":"PCSA00014",
+      "Name":"Unit 13",
+      "Region":"US",
+      "Release Date":"03\/06\/2012"
+   },
+   {
+      "ID":"12558",
+      "SID":"PCSC00010",
+      "Name":"Unit 13",
+      "Region":"JP",
+      "Release Date":"03\/06\/2012"
+   },
+   {
+      "ID":"12564",
+      "SID":"PCSB00135",
+      "Name":"LEGO Batman 2: DC Super Heroes",
+      "Region":"EU",
+      "Release Date":"06\/19\/2012"
+   },
+   {
+      "ID":"12576",
+      "SID":"PCSE00002",
+      "Name":"F1 2011",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"12576",
+      "SID":"PCSG00021",
+      "Name":"F1 2011",
+      "Region":"JP",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"12576",
+      "SID":"PCSB00027",
+      "Name":"F1 2011",
+      "Region":"EU",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"12577",
+      "SID":"PCSA00009",
+      "Name":"Hot Shots Golf: World Invitational",
+      "Region":"US",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"12578",
+      "SID":"PCSE00057",
+      "Name":"LEGO Harry Potter: Years 5-7",
+      "Region":"US",
+      "Release Date":"03\/06\/2012"
+   },
+   {
+      "ID":"12578",
+      "SID":"PCSB00103",
+      "Name":"LEGO Harry Potter: Years 5-7",
+      "Region":"EU",
+      "Release Date":"03\/06\/2012"
+   },
+   {
+      "ID":"12579",
+      "SID":"PCSA00002",
+      "Name":"MLB 12: The Show",
+      "Region":"US",
+      "Release Date":"03\/06\/2012"
+   },
+   {
+      "ID":"12874",
+      "SID":"PCSB00190",
+      "Name":"Sonic & All-Stars Racing Transformed",
+      "Region":"EU",
+      "Release Date":"12\/11\/2012"
+   },
+   {
+      "ID":"13284",
+      "SID":"PCSE00001",
+      "Name":"Ridge Racer",
+      "Region":"US",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13284",
+      "SID":"PCSG00001",
+      "Name":"Ridge Racer",
+      "Region":"JP",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13284",
+      "SID":"PCSB00048",
+      "Name":"Ridge Racer",
+      "Region":"EU",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13313",
+      "SID":"PCSE00024",
+      "Name":"Ben 10: Galactic Racing",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"13315",
+      "SID":"PCSB00031",
+      "Name":"Virtua Tennis 4: World Tour Edition",
+      "Region":"EU",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"13316",
+      "SID":"PCSA00092",
+      "Name":"Soul Sacrifice",
+      "Region":"US",
+      "Release Date":"03\/30\/2013"
+   },
+   {
+      "ID":"13316",
+      "SID":"PCSC00039",
+      "Name":"Soul Sacrifice",
+      "Region":"JP",
+      "Release Date":"03\/30\/2013"
+   },
+   {
+      "ID":"13316",
+      "SID":"PCSF00178",
+      "Name":"Soul Sacrifice",
+      "Region":"EU",
+      "Release Date":"03\/30\/2013"
+   },
+   {
+      "ID":"13316",
+      "SID":"PCSD00065",
+      "Name":"Soul Sacrifice",
+      "Region":"ASIA",
+      "Release Date":"03\/30\/2013"
+   },
+   {
+      "ID":"13317",
+      "SID":"PCSA00068",
+      "Name":"Sly Cooper: Thieves in Time",
+      "Region":"US",
+      "Release Date":"02\/05\/2013"
+   },
+   {
+      "ID":"13320",
+      "SID":"PCSA00012",
+      "Name":"Reality Fighters",
+      "Region":"US",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13320",
+      "SID":"PCSC00011",
+      "Name":"Reality Fighters",
+      "Region":"JP",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13320",
+      "SID":"PCSF00022",
+      "Name":"Reality Fighters",
+      "Region":"EU",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13320",
+      "SID":"PCSD00017",
+      "Name":"Reality Fighters",
+      "Region":"ASIA",
+      "Release Date":"03\/13\/2012"
+   },
+   {
+      "ID":"13451",
+      "SID":"PCSE00066",
+      "Name":"New Little King's Story",
+      "Region":"US",
+      "Release Date":"10\/02\/2012"
+   },
+   {
+      "ID":"13451",
+      "SID":"PCSB00109",
+      "Name":"New Little King's Story",
+      "Region":"EU",
+      "Release Date":"10\/02\/2012"
+   },
+   {
+      "ID":"14350",
+      "SID":"PCSE00209",
+      "Name":"Earth Defense Force 2017 Portable",
+      "Region":"US",
+      "Release Date":"01\/08\/2013"
+   },
+   {
+      "ID":"14350",
+      "SID":"PCSB00239",
+      "Name":"Earth Defense Force 2017 Portable",
+      "Region":"EU",
+      "Release Date":"01\/08\/2013"
+   },
+   {
+      "ID":"14437",
+      "SID":"PCSG00141",
+      "Name":"Phantasy Star Online 2",
+      "Region":"JP",
+      "Release Date":"12\/31\/2013"
+   },
+   {
+      "ID":"14873",
+      "SID":"PCSA00088",
+      "Name":"Uncharted: Fight for Fortune",
+      "Region":"US",
+      "Release Date":"12\/04\/2012"
+   },
+   {
+      "ID":"14873",
+      "SID":"PCSF00220",
+      "Name":"Uncharted: Fight for Fortune",
+      "Region":"EU",
+      "Release Date":"12\/04\/2012"
+   },
+   {
+      "ID":"15444",
+      "SID":"PCSE00103",
+      "Name":"Doctor Who: The Eternity Clock",
+      "Region":"US",
+      "Release Date":"10\/09\/2012"
+   },
+   {
+      "ID":"15444",
+      "SID":"PCSB00045",
+      "Name":"Doctor Who: The Eternity Clock",
+      "Region":"EU",
+      "Release Date":"10\/09\/2012"
+   },
+   {
+      "ID":"15449",
+      "SID":"PCSE00019",
+      "Name":"Dragon's Crown",
+      "Region":"US",
+      "Release Date":"08\/06\/2013"
+   },
+   {
+      "ID":"15449",
+      "SID":"PCSG00187",
+      "Name":"Dragon's Crown",
+      "Region":"JP",
+      "Release Date":"08\/06\/2013"
+   },
+   {
+      "ID":"15449",
+      "SID":"PCSB00408",
+      "Name":"Dragon's Crown",
+      "Region":"EU",
+      "Release Date":"08\/06\/2013"
+   },
+   {
+      "ID":"15449",
+      "SID":"PCSH00050",
+      "Name":"Dragon's Crown",
+      "Region":"ASIA",
+      "Release Date":"08\/06\/2013"
+   },
+   {
+      "ID":"15514",
+      "SID":"PCSE00233",
+      "Name":"Ninja Gaiden Sigma 2 Plus",
+      "Region":"US",
+      "Release Date":"02\/26\/2013"
+   },
+   {
+      "ID":"15514",
+      "SID":"PCSB00294",
+      "Name":"Ninja Gaiden Sigma 2 Plus",
+      "Region":"EU",
+      "Release Date":"02\/26\/2013"
+   },
+   {
+      "ID":"15642",
+      "SID":"PCSG00126",
+      "Name":"Gundam Breaker",
+      "Region":"JP",
+      "Release Date":"07\/31\/2013"
+   },
+   {
+      "ID":"15659",
+      "SID":"PCSE00326",
+      "Name":"Hatsune Miku: Project DIVA f",
+      "Region":"US",
+      "Release Date":"08\/30\/2012"
+   },
+   {
+      "ID":"15802",
+      "SID":"PCSE00296",
+      "Name":"Atelier Meruru Plus: The Apprentice of Arland",
+      "Region":"US",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"15802",
+      "SID":"PCSB00377",
+      "Name":"Atelier Meruru Plus: The Apprentice of Arland",
+      "Region":"EU",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"15802",
+      "SID":"PCSH00037",
+      "Name":"Atelier Meruru Plus: The Apprentice of Arland",
+      "Region":"ASIA",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"15912",
+      "SID":"PCSG00065",
+      "Name":"Moe Moe Daisensou * Gendaiban++",
+      "Region":"JP",
+      "Release Date":"08\/02\/2012"
+   },
+   {
+      "ID":"16063",
+      "SID":"PCSE00043",
+      "Name":"Oddworld: Stranger's Wrath HD",
+      "Region":"US",
+      "Release Date":"12\/18\/2012"
+   },
+   {
+      "ID":"16063",
+      "SID":"PCSB00180",
+      "Name":"Oddworld: Stranger's Wrath HD",
+      "Region":"EU",
+      "Release Date":"12\/18\/2012"
+   },
+   {
+      "ID":"16114",
+      "SID":"PCSE00369",
+      "Name":"Oddworld: Munch's Oddysee HD",
+      "Region":"US",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"16114",
+      "SID":"PCSB00275",
+      "Name":"Oddworld: Munch's Oddysee HD",
+      "Region":"EU",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"16160",
+      "SID":"PCSE00088",
+      "Name":"Jet Set Radio",
+      "Region":"US",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"16160",
+      "SID":"PCSG00104",
+      "Name":"Jet Set Radio",
+      "Region":"JP",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"16160",
+      "SID":"PCSB00136",
+      "Name":"Jet Set Radio",
+      "Region":"EU",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"16235",
+      "SID":"PCSG00031",
+      "Name":"Pro Yakyuu Spirits 2012",
+      "Region":"JP",
+      "Release Date":"03\/29\/2012"
+   },
+   {
+      "ID":"16254",
+      "SID":"PCSE00235",
+      "Name":"Dead or Alive 5 Plus",
+      "Region":"US",
+      "Release Date":"03\/19\/2013"
+   },
+   {
+      "ID":"16254",
+      "SID":"PCSG00167",
+      "Name":"Dead or Alive 5 Plus",
+      "Region":"JP",
+      "Release Date":"03\/19\/2013"
+   },
+   {
+      "ID":"16254",
+      "SID":"PCSB00296",
+      "Name":"Dead or Alive 5 Plus",
+      "Region":"EU",
+      "Release Date":"03\/19\/2013"
+   },
+   {
+      "ID":"16336",
+      "SID":"PCSE00546",
+      "Name":"Retro City Rampage DX",
+      "Region":"US",
+      "Release Date":"10\/08\/2012"
+   },
+   {
+      "ID":"16336",
+      "SID":"PCSE00630",
+      "Name":"Retro City Rampage DX",
+      "Region":"US",
+      "Release Date":"10\/08\/2012"
+   },
+   {
+      "ID":"16336",
+      "SID":"PCSB00682",
+      "Name":"Retro City Rampage DX",
+      "Region":"EU",
+      "Release Date":"10\/08\/2012"
+   },
+   {
+      "ID":"16374",
+      "SID":"PCSE00112",
+      "Name":"Rocketbirds: Hardboiled Chicken",
+      "Region":"US",
+      "Release Date":"01\/12\/2013"
+   },
+   {
+      "ID":"16374",
+      "SID":"PCSG00185",
+      "Name":"Rocketbirds: Hardboiled Chicken",
+      "Region":"JP",
+      "Release Date":"01\/12\/2013"
+   },
+   {
+      "ID":"16374",
+      "SID":"PCSB00255",
+      "Name":"Rocketbirds: Hardboiled Chicken",
+      "Region":"EU",
+      "Release Date":"01\/12\/2013"
+   },
+   {
+      "ID":"16419",
+      "SID":"PCSG00154",
+      "Name":"San Goku Shi 12",
+      "Region":"JP",
+      "Release Date":"02\/07\/2013"
+   },
+   {
+      "ID":"16502",
+      "SID":"PCSG00132",
+      "Name":"Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage",
+      "Region":"JP",
+      "Release Date":"01\/31\/2013"
+   },
+   {
+      "ID":"16521",
+      "SID":"PCSG00010",
+      "Name":"Shin Kamaitachi no Yoru: 11 Hitome no Suspect",
+      "Region":"JP",
+      "Release Date":"12\/17\/2011"
+   },
+   {
+      "ID":"16553",
+      "SID":"PCSE00090",
+      "Name":"Sine Mora",
+      "Region":"US",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"16553",
+      "SID":"PCSB00161",
+      "Name":"Sine Mora",
+      "Region":"EU",
+      "Release Date":"11\/20\/2012"
+   },
+   {
+      "ID":"16677",
+      "SID":"PCSA00003",
+      "Name":"Sound Shapes",
+      "Region":"US",
+      "Release Date":"08\/07\/2012"
+   },
+   {
+      "ID":"16677",
+      "SID":"PCSC00024",
+      "Name":"Sound Shapes",
+      "Region":"JP",
+      "Release Date":"08\/07\/2012"
+   },
+   {
+      "ID":"16677",
+      "SID":"PCSF00076",
+      "Name":"Sound Shapes",
+      "Region":"EU",
+      "Release Date":"08\/07\/2012"
+   },
+   {
+      "ID":"16677",
+      "SID":"PCSD00027",
+      "Name":"Sound Shapes",
+      "Region":"ASIA",
+      "Release Date":"08\/07\/2012"
+   },
+   {
+      "ID":"16780",
+      "SID":"PCSE00033",
+      "Name":"Guacamelee!",
+      "Region":"US",
+      "Release Date":"04\/09\/2013"
+   },
+   {
+      "ID":"16780",
+      "SID":"PCSB00189",
+      "Name":"Guacamelee!",
+      "Region":"EU",
+      "Release Date":"04\/09\/2013"
+   },
+   {
+      "ID":"17230",
+      "SID":"PCSA00080",
+      "Name":"Jak and Daxter Collection",
+      "Region":"US",
+      "Release Date":"06\/18\/2013"
+   },
+   {
+      "ID":"17273",
+      "SID":"PCSE00240",
+      "Name":"Muramasa Rebirth",
+      "Region":"US",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"17273",
+      "SID":"PCSB00404",
+      "Name":"Muramasa Rebirth",
+      "Region":"EU",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"17274",
+      "SID":"PCSE00277",
+      "Name":"Rayman Legends",
+      "Region":"US",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"17274",
+      "SID":"PCSG00363",
+      "Name":"Rayman Legends",
+      "Region":"JP",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"17274",
+      "SID":"PCSB00360",
+      "Name":"Rayman Legends",
+      "Region":"EU",
+      "Release Date":"09\/03\/2013"
+   },
+   {
+      "ID":"17275",
+      "SID":"PCSE00245",
+      "Name":"Ys: Memories of Celceta",
+      "Region":"US",
+      "Release Date":"11\/26\/2013"
+   },
+   {
+      "ID":"17275",
+      "SID":"PCSB00497",
+      "Name":"Ys: Memories of Celceta",
+      "Region":"EU",
+      "Release Date":"11\/26\/2013"
+   },
+   {
+      "ID":"17275",
+      "SID":"PCSH00181",
+      "Name":"Ys: Memories of Celceta",
+      "Region":"ASIA",
+      "Release Date":"11\/26\/2013"
+   },
+   {
+      "ID":"17659",
+      "SID":"PCSE00281",
+      "Name":"Divekick",
+      "Region":"US",
+      "Release Date":"08\/20\/2013"
+   },
+   {
+      "ID":"17659",
+      "SID":"PCSB00373",
+      "Name":"Divekick",
+      "Region":"EU",
+      "Release Date":"08\/20\/2013"
+   },
+   {
+      "ID":"18228",
+      "SID":"PCSE00249",
+      "Name":"Hotline Miami",
+      "Region":"US",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"18228",
+      "SID":"PCSG00601",
+      "Name":"Hotline Miami",
+      "Region":"JP",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"18228",
+      "SID":"PCSB00318",
+      "Name":"Hotline Miami",
+      "Region":"EU",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"18466",
+      "SID":"PCSG00168",
+      "Name":"Sorcery Saga: The Curse of the Great Curry God",
+      "Region":"JP",
+      "Release Date":"12\/10\/2013"
+   },
+   {
+      "ID":"18521",
+      "SID":"PCSA00099",
+      "Name":"Tearaway",
+      "Region":"US",
+      "Release Date":"11\/22\/2013"
+   },
+   {
+      "ID":"18521",
+      "SID":"PCSC00064",
+      "Name":"Tearaway",
+      "Region":"JP",
+      "Release Date":"11\/22\/2013"
+   },
+   {
+      "ID":"18521",
+      "SID":"PCSF00476",
+      "Name":"Tearaway",
+      "Region":"EU",
+      "Release Date":"11\/22\/2013"
+   },
+   {
+      "ID":"18521",
+      "SID":"PCSD00077",
+      "Name":"Tearaway",
+      "Region":"ASIA",
+      "Release Date":"11\/22\/2013"
+   },
+   {
+      "ID":"19148",
+      "SID":"PCSE00231",
+      "Name":"Atelier Totori Plus: The Adventurer of Arland",
+      "Region":"US",
+      "Release Date":"03\/19\/2013"
+   },
+   {
+      "ID":"19148",
+      "SID":"PCSB00291",
+      "Name":"Atelier Totori Plus: The Adventurer of Arland",
+      "Region":"EU",
+      "Release Date":"03\/19\/2013"
+   },
+   {
+      "ID":"19151",
+      "SID":"PCSE00261",
+      "Name":"Danganronpa: Trigger Happy Havoc",
+      "Region":"US",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"19151",
+      "SID":"PCSB00346",
+      "Name":"Danganronpa: Trigger Happy Havoc",
+      "Region":"EU",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"19152",
+      "SID":"PCSE00381",
+      "Name":"Toukiden: The Age of Demons",
+      "Region":"US",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"19152",
+      "SID":"PCSB00478",
+      "Name":"Toukiden: The Age of Demons",
+      "Region":"EU",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"19154",
+      "SID":"PCSE00358",
+      "Name":"Demon Gaze",
+      "Region":"US",
+      "Release Date":"04\/22\/2014"
+   },
+   {
+      "ID":"19154",
+      "SID":"PCSG00043",
+      "Name":"Demon Gaze",
+      "Region":"JP",
+      "Release Date":"04\/22\/2014"
+   },
+   {
+      "ID":"19154",
+      "SID":"PCSB00460",
+      "Name":"Demon Gaze",
+      "Region":"EU",
+      "Release Date":"04\/22\/2014"
+   },
+   {
+      "ID":"19155",
+      "SID":"PCSE00376",
+      "Name":"Conception II: Children of the Seven Stars",
+      "Region":"US",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"19155",
+      "SID":"PCSG00197",
+      "Name":"Conception II: Children of the Seven Stars",
+      "Region":"JP",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"19155",
+      "SID":"PCSB00539",
+      "Name":"Conception II: Children of the Seven Stars",
+      "Region":"EU",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"19807",
+      "SID":"PCSE00301",
+      "Name":"Lone Survivor: The Director's Cut",
+      "Region":"US",
+      "Release Date":"09\/24\/2013"
+   },
+   {
+      "ID":"19807",
+      "SID":"PCSB00361",
+      "Name":"Lone Survivor: The Director's Cut",
+      "Region":"EU",
+      "Release Date":"09\/24\/2013"
+   },
+   {
+      "ID":"19963",
+      "SID":"PCSE00269",
+      "Name":"Batman: Arkham Origins Blackgate",
+      "Region":"US",
+      "Release Date":"10\/25\/2013"
+   },
+   {
+      "ID":"19963",
+      "SID":"PCSG00261",
+      "Name":"Batman: Arkham Origins Blackgate",
+      "Region":"JP",
+      "Release Date":"10\/25\/2013"
+   },
+   {
+      "ID":"19963",
+      "SID":"PCSB00353",
+      "Name":"Batman: Arkham Origins Blackgate",
+      "Region":"EU",
+      "Release Date":"10\/25\/2013"
+   },
+   {
+      "ID":"19974",
+      "SID":"PCSE00300",
+      "Name":"Ragnarok Odyssey ACE",
+      "Region":"US",
+      "Release Date":"04\/01\/2014"
+   },
+   {
+      "ID":"19974",
+      "SID":"PCSG00140",
+      "Name":"Ragnarok Odyssey ACE",
+      "Region":"JP",
+      "Release Date":"04\/01\/2014"
+   },
+   {
+      "ID":"19974",
+      "SID":"PCSB00471",
+      "Name":"Ragnarok Odyssey ACE",
+      "Region":"EU",
+      "Release Date":"04\/01\/2014"
+   },
+   {
+      "ID":"20163",
+      "SID":"PCSE00390",
+      "Name":"LEGO The Hobbit",
+      "Region":"US",
+      "Release Date":"04\/08\/2014"
+   },
+   {
+      "ID":"20163",
+      "SID":"PCSB00503",
+      "Name":"LEGO The Hobbit",
+      "Region":"EU",
+      "Release Date":"04\/08\/2014"
+   },
+   {
+      "ID":"20620",
+      "SID":"PCSA00126",
+      "Name":"God of War Collection",
+      "Region":"US",
+      "Release Date":"05\/05\/2014"
+   },
+   {
+      "ID":"20620",
+      "SID":"PCSC00059",
+      "Name":"God of War Collection",
+      "Region":"JP",
+      "Release Date":"05\/05\/2014"
+   },
+   {
+      "ID":"20629",
+      "SID":"PCSB00411",
+      "Name":"The Walking Dead: The Complete First Season",
+      "Region":"EU",
+      "Release Date":"08\/20\/2013"
+   },
+   {
+      "ID":"20735",
+      "SID":"PCSB00541",
+      "Name":"Mind Zero",
+      "Region":"EU",
+      "Release Date":"05\/27\/2014"
+   },
+   {
+      "ID":"20770",
+      "SID":"PCSE00268",
+      "Name":"LIMBO",
+      "Region":"US",
+      "Release Date":"06\/21\/2010"
+   },
+   {
+      "ID":"20770",
+      "SID":"PCSB00336",
+      "Name":"LIMBO",
+      "Region":"EU",
+      "Release Date":"06\/21\/2010"
+   },
+   {
+      "ID":"20881",
+      "SID":"PCSG00353",
+      "Name":"Injustice: Gods Among Us - Ultimate Edition",
+      "Region":"JP",
+      "Release Date":"11\/12\/2013"
+   },
+   {
+      "ID":"20913",
+      "SID":"PCSE00387",
+      "Name":"The Swapper",
+      "Region":"US",
+      "Release Date":"06\/25\/2014"
+   },
+   {
+      "ID":"20913",
+      "SID":"PCSB00489",
+      "Name":"The Swapper",
+      "Region":"EU",
+      "Release Date":"06\/25\/2014"
+   },
+   {
+      "ID":"21088",
+      "SID":"PCSE00279",
+      "Name":"BlazBlue: Chrono Phantasma",
+      "Region":"US",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"21088",
+      "SID":"PCSG00180",
+      "Name":"BlazBlue: Chrono Phantasma",
+      "Region":"JP",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"21088",
+      "SID":"PCSH00084",
+      "Name":"BlazBlue: Chrono Phantasma",
+      "Region":"ASIA",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"21090",
+      "SID":"PCSE00398",
+      "Name":"Senran Kagura: Shinovi Versus",
+      "Region":"US",
+      "Release Date":"09\/30\/2014"
+   },
+   {
+      "ID":"21092",
+      "SID":"PCSA00147",
+      "Name":"Freedom Wars",
+      "Region":"US",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"21092",
+      "SID":"PCSC00054",
+      "Name":"Freedom Wars",
+      "Region":"JP",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"21092",
+      "SID":"PCSF00446",
+      "Name":"Freedom Wars",
+      "Region":"EU",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"21092",
+      "SID":"PCSD00087",
+      "Name":"Freedom Wars",
+      "Region":"ASIA",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"21149",
+      "SID":"PCSE00428",
+      "Name":"Akiba's Trip: Undead & Undressed",
+      "Region":"US",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"21149",
+      "SID":"PCSG00159",
+      "Name":"Akiba's Trip: Undead & Undressed",
+      "Region":"JP",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"21149",
+      "SID":"PCSB00640",
+      "Name":"Akiba's Trip: Undead & Undressed",
+      "Region":"EU",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"21149",
+      "SID":"PCSH00057",
+      "Name":"Akiba's Trip: Undead & Undressed",
+      "Region":"ASIA",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"21150",
+      "SID":"PCSE00399",
+      "Name":"Danganronpa 2: Goodbye Despair",
+      "Region":"US",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"21150",
+      "SID":"PCSB00514",
+      "Name":"Danganronpa 2: Goodbye Despair",
+      "Region":"EU",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"21183",
+      "SID":"PCSE00480",
+      "Name":"Child of Light",
+      "Region":"US",
+      "Release Date":"07\/02\/2014"
+   },
+   {
+      "ID":"21183",
+      "SID":"PCSG00408",
+      "Name":"Child of Light",
+      "Region":"JP",
+      "Release Date":"07\/02\/2014"
+   },
+   {
+      "ID":"21183",
+      "SID":"PCSB00598",
+      "Name":"Child of Light",
+      "Region":"EU",
+      "Release Date":"07\/02\/2014"
+   },
+   {
+      "ID":"21338",
+      "SID":"PCSG00139",
+      "Name":"PhotoKano Kiss",
+      "Region":"JP",
+      "Release Date":"04\/25\/2013"
+   },
+   {
+      "ID":"21339",
+      "SID":"PCSE00427",
+      "Name":"Arcana Heart 3: LOVEMAX!!!!!",
+      "Region":"US",
+      "Release Date":"05\/29\/2014"
+   },
+   {
+      "ID":"21339",
+      "SID":"PCSG00328",
+      "Name":"Arcana Heart 3: LOVEMAX!!!!!",
+      "Region":"JP",
+      "Release Date":"05\/29\/2014"
+   },
+   {
+      "ID":"21339",
+      "SID":"PCSB00630",
+      "Name":"Arcana Heart 3: LOVEMAX!!!!!",
+      "Region":"EU",
+      "Release Date":"05\/29\/2014"
+   },
+   {
+      "ID":"21339",
+      "SID":"PCSH00093",
+      "Name":"Arcana Heart 3: LOVEMAX!!!!!",
+      "Region":"ASIA",
+      "Release Date":"05\/29\/2014"
+   },
+   {
+      "ID":"21426",
+      "SID":"PCSG00358",
+      "Name":"One Piece: Unlimited World Red",
+      "Region":"JP",
+      "Release Date":"07\/14\/2014"
+   },
+   {
+      "ID":"21426",
+      "SID":"PCSH00071",
+      "Name":"One Piece: Unlimited World Red",
+      "Region":"ASIA",
+      "Release Date":"07\/14\/2014"
+   },
+   {
+      "ID":"21429",
+      "SID":"PCSE00373",
+      "Name":"Monster Monpiece",
+      "Region":"US",
+      "Release Date":"06\/27\/2014"
+   },
+   {
+      "ID":"21429",
+      "SID":"PCSG00148",
+      "Name":"Monster Monpiece",
+      "Region":"JP",
+      "Release Date":"06\/27\/2014"
+   },
+   {
+      "ID":"21429",
+      "SID":"PCSB00473",
+      "Name":"Monster Monpiece",
+      "Region":"EU",
+      "Release Date":"06\/27\/2014"
+   },
+   {
+      "ID":"21558",
+      "SID":"PCSE00397",
+      "Name":"TxK",
+      "Region":"US",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"21558",
+      "SID":"PCSB00494",
+      "Name":"TxK",
+      "Region":"EU",
+      "Release Date":"02\/11\/2014"
+   },
+   {
+      "ID":"21559",
+      "SID":"PCSE00038",
+      "Name":"Velocity Ultra",
+      "Region":"US",
+      "Release Date":"12\/12\/2013"
+   },
+   {
+      "ID":"21561",
+      "SID":"PCSE00258",
+      "Name":"Thomas Was Alone",
+      "Region":"US",
+      "Release Date":"04\/23\/2013"
+   },
+   {
+      "ID":"21561",
+      "SID":"PCSB00272",
+      "Name":"Thomas Was Alone",
+      "Region":"EU",
+      "Release Date":"04\/23\/2013"
+   },
+   {
+      "ID":"21562",
+      "SID":"PCSE00212",
+      "Name":"Machinarium",
+      "Region":"US",
+      "Release Date":"03\/26\/2013"
+   },
+   {
+      "ID":"21562",
+      "SID":"PCSG00309",
+      "Name":"Machinarium",
+      "Region":"JP",
+      "Release Date":"03\/26\/2013"
+   },
+   {
+      "ID":"21562",
+      "SID":"PCSB00237",
+      "Name":"Machinarium",
+      "Region":"EU",
+      "Release Date":"03\/26\/2013"
+   },
+   {
+      "ID":"21578",
+      "SID":"PCSE00401",
+      "Name":"Deception IV: Blood Ties",
+      "Region":"US",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"21578",
+      "SID":"PCSB00499",
+      "Name":"Deception IV: Blood Ties",
+      "Region":"EU",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"21579",
+      "SID":"PCSE00449",
+      "Name":"Rogue Legacy",
+      "Region":"US",
+      "Release Date":"07\/29\/2014"
+   },
+   {
+      "ID":"21579",
+      "SID":"PCSG00622",
+      "Name":"Rogue Legacy",
+      "Region":"JP",
+      "Release Date":"07\/29\/2014"
+   },
+   {
+      "ID":"21579",
+      "SID":"PCSB00571",
+      "Name":"Rogue Legacy",
+      "Region":"EU",
+      "Release Date":"07\/29\/2014"
+   },
+   {
+      "ID":"21580",
+      "SID":"PCSG00136",
+      "Name":"XBLAZE Code: Embryo",
+      "Region":"JP",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"21582",
+      "SID":"PCSG00218",
+      "Name":"Golden Time: Vivid Memories",
+      "Region":"JP",
+      "Release Date":"03\/27\/2014"
+   },
+   {
+      "ID":"21584",
+      "SID":"PCSE00406",
+      "Name":"Metrico",
+      "Region":"US",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"21584",
+      "SID":"PCSB00616",
+      "Name":"Metrico",
+      "Region":"EU",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"22540",
+      "SID":"PCSG00300",
+      "Name":"J-Stars Victory Vs",
+      "Region":"JP",
+      "Release Date":"03\/19\/2014"
+   },
+   {
+      "ID":"22641",
+      "SID":"PCSE00466",
+      "Name":"Atelier Rorona Plus: The Alchemist of Arland",
+      "Region":"US",
+      "Release Date":"07\/22\/2014"
+   },
+   {
+      "ID":"22641",
+      "SID":"PCSG00245",
+      "Name":"Atelier Rorona Plus: The Alchemist of Arland",
+      "Region":"JP",
+      "Release Date":"07\/22\/2014"
+   },
+   {
+      "ID":"22641",
+      "SID":"PCSB00582",
+      "Name":"Atelier Rorona Plus: The Alchemist of Arland",
+      "Region":"EU",
+      "Release Date":"07\/22\/2014"
+   },
+   {
+      "ID":"22676",
+      "SID":"PCSA00123",
+      "Name":"Hohokum",
+      "Region":"US",
+      "Release Date":"08\/12\/2014"
+   },
+   {
+      "ID":"22676",
+      "SID":"PCSC00077",
+      "Name":"Hohokum",
+      "Region":"JP",
+      "Release Date":"08\/12\/2014"
+   },
+   {
+      "ID":"22676",
+      "SID":"PCSF00430",
+      "Name":"Hohokum",
+      "Region":"EU",
+      "Release Date":"08\/12\/2014"
+   },
+   {
+      "ID":"22790",
+      "SID":"PCSE00482",
+      "Name":"FIFA 15",
+      "Region":"US",
+      "Release Date":"09\/23\/2014"
+   },
+   {
+      "ID":"22790",
+      "SID":"PCSG00404",
+      "Name":"FIFA 15",
+      "Region":"JP",
+      "Release Date":"09\/23\/2014"
+   },
+   {
+      "ID":"22790",
+      "SID":"PCSB00603",
+      "Name":"FIFA 15",
+      "Region":"EU",
+      "Release Date":"09\/23\/2014"
+   },
+   {
+      "ID":"22944",
+      "SID":"PCSA00116",
+      "Name":"CounterSpy",
+      "Region":"US",
+      "Release Date":"08\/20\/2014"
+   },
+   {
+      "ID":"22944",
+      "SID":"PCSC00056",
+      "Name":"CounterSpy",
+      "Region":"JP",
+      "Release Date":"08\/20\/2014"
+   },
+   {
+      "ID":"22944",
+      "SID":"PCSF00378",
+      "Name":"CounterSpy",
+      "Region":"EU",
+      "Release Date":"08\/20\/2014"
+   },
+   {
+      "ID":"22950",
+      "SID":"PCSE00360",
+      "Name":"Disgaea 4: A Promise Revisited",
+      "Region":"US",
+      "Release Date":"08\/12\/2014"
+   },
+   {
+      "ID":"22950",
+      "SID":"PCSB00455",
+      "Name":"Disgaea 4: A Promise Revisited",
+      "Region":"EU",
+      "Release Date":"08\/12\/2014"
+   },
+   {
+      "ID":"23185",
+      "SID":"PCSE00317",
+      "Name":"Terraria",
+      "Region":"US",
+      "Release Date":"12\/17\/2013"
+   },
+   {
+      "ID":"23185",
+      "SID":"PCSG00286",
+      "Name":"Terraria",
+      "Region":"JP",
+      "Release Date":"12\/17\/2013"
+   },
+   {
+      "ID":"23185",
+      "SID":"PCSB00405",
+      "Name":"Terraria",
+      "Region":"EU",
+      "Release Date":"12\/17\/2013"
+   },
+   {
+      "ID":"23192",
+      "SID":"PCSE00374",
+      "Name":"Velocity 2X",
+      "Region":"US",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"23192",
+      "SID":"PCSB00410",
+      "Name":"Velocity 2X",
+      "Region":"EU",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"23505",
+      "SID":"PCSE00284",
+      "Name":"Total Recoil",
+      "Region":"US",
+      "Release Date":"07\/09\/2013"
+   },
+   {
+      "ID":"23505",
+      "SID":"PCSG00268",
+      "Name":"Total Recoil",
+      "Region":"JP",
+      "Release Date":"07\/09\/2013"
+   },
+   {
+      "ID":"23505",
+      "SID":"PCSB00355",
+      "Name":"Total Recoil",
+      "Region":"EU",
+      "Release Date":"07\/09\/2013"
+   },
+   {
+      "ID":"23597",
+      "SID":"PCSA00006",
+      "Name":"Super Stardust Delta",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"23597",
+      "SID":"PCSF00019",
+      "Name":"Super Stardust Delta",
+      "Region":"EU",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"23735",
+      "SID":"PCSB00594",
+      "Name":"Natural Doctrine",
+      "Region":"EU",
+      "Release Date":"09\/30\/2014"
+   },
+   {
+      "ID":"23779",
+      "SID":"PCSE00507",
+      "Name":"The Binding of Isaac: Rebirth",
+      "Region":"US",
+      "Release Date":"11\/04\/2014"
+   },
+   {
+      "ID":"23782",
+      "SID":"PCSA00117",
+      "Name":"Doki-Doki Universe",
+      "Region":"US",
+      "Release Date":"12\/10\/2013"
+   },
+   {
+      "ID":"23782",
+      "SID":"PCSC00058",
+      "Name":"Doki-Doki Universe",
+      "Region":"JP",
+      "Release Date":"12\/10\/2013"
+   },
+   {
+      "ID":"23782",
+      "SID":"PCSF00379",
+      "Name":"Doki-Doki Universe",
+      "Region":"EU",
+      "Release Date":"12\/10\/2013"
+   },
+   {
+      "ID":"23783",
+      "SID":"PCSF00006",
+      "Name":"Everybody's Golf",
+      "Region":"EU",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"23789",
+      "SID":"PCSA00563",
+      "Name":"The Hungry Horde",
+      "Region":"US",
+      "Release Date":"11\/05\/2014"
+   },
+   {
+      "ID":"23789",
+      "SID":"PCSF00501",
+      "Name":"The Hungry Horde",
+      "Region":"EU",
+      "Release Date":"11\/05\/2014"
+   },
+   {
+      "ID":"23790",
+      "SID":"PCSE00478",
+      "Name":"Joe Danger",
+      "Region":"US",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"23790",
+      "SID":"PCSB00475",
+      "Name":"Joe Danger",
+      "Region":"EU",
+      "Release Date":"09\/02\/2014"
+   },
+   {
+      "ID":"23791",
+      "SID":"PCSA00034",
+      "Name":"MotorStorm RC",
+      "Region":"US",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"23791",
+      "SID":"PCSC00014",
+      "Name":"MotorStorm RC",
+      "Region":"JP",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"23791",
+      "SID":"PCSF00046",
+      "Name":"MotorStorm RC",
+      "Region":"EU",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"23792",
+      "SID":"PCSE00553",
+      "Name":"Pix the Cat",
+      "Region":"US",
+      "Release Date":"10\/08\/2014"
+   },
+   {
+      "ID":"23795",
+      "SID":"PCSE00311",
+      "Name":"Proteus",
+      "Region":"US",
+      "Release Date":"10\/29\/2013"
+   },
+   {
+      "ID":"23795",
+      "SID":"PCSB00358",
+      "Name":"Proteus",
+      "Region":"EU",
+      "Release Date":"10\/29\/2013"
+   },
+   {
+      "ID":"23798",
+      "SID":"PCSE00288",
+      "Name":"Spelunky",
+      "Region":"US",
+      "Release Date":"08\/27\/2013"
+   },
+   {
+      "ID":"23798",
+      "SID":"PCSB00359",
+      "Name":"Spelunky",
+      "Region":"EU",
+      "Release Date":"08\/27\/2013"
+   },
+   {
+      "ID":"23803",
+      "SID":"PCSA00158",
+      "Name":"The Unfinished Swan",
+      "Region":"US",
+      "Release Date":"10\/28\/2014"
+   },
+   {
+      "ID":"23803",
+      "SID":"PCSC00085",
+      "Name":"The Unfinished Swan",
+      "Region":"JP",
+      "Release Date":"10\/28\/2014"
+   },
+   {
+      "ID":"23803",
+      "SID":"PCSF00613",
+      "Name":"The Unfinished Swan",
+      "Region":"EU",
+      "Release Date":"10\/28\/2014"
+   },
+   {
+      "ID":"23804",
+      "SID":"PCSE00430",
+      "Name":"SteamWorld Dig",
+      "Region":"US",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"23804",
+      "SID":"PCSG00513",
+      "Name":"SteamWorld Dig",
+      "Region":"JP",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"23804",
+      "SID":"PCSB00542",
+      "Name":"SteamWorld Dig",
+      "Region":"EU",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"23857",
+      "SID":"PCSE00429",
+      "Name":"Tales of Hearts R",
+      "Region":"US",
+      "Release Date":"11\/11\/2014"
+   },
+   {
+      "ID":"23857",
+      "SID":"PCSG00125",
+      "Name":"Tales of Hearts R",
+      "Region":"JP",
+      "Release Date":"11\/11\/2014"
+   },
+   {
+      "ID":"23857",
+      "SID":"PCSB00550",
+      "Name":"Tales of Hearts R",
+      "Region":"EU",
+      "Release Date":"11\/11\/2014"
+   },
+   {
+      "ID":"24294",
+      "SID":"PCSE00504",
+      "Name":"Final Horizon",
+      "Region":"US",
+      "Release Date":"12\/02\/2014"
+   },
+   {
+      "ID":"24294",
+      "SID":"PCSB00523",
+      "Name":"Final Horizon",
+      "Region":"EU",
+      "Release Date":"12\/02\/2014"
+   },
+   {
+      "ID":"24329",
+      "SID":"PCSE00640",
+      "Name":"Shovel Knight",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"24329",
+      "SID":"PCSB00743",
+      "Name":"Shovel Knight",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"24883",
+      "SID":"PCSE00516",
+      "Name":"Criminal Girls: Invite Only",
+      "Region":"US",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"24883",
+      "SID":"PCSG00241",
+      "Name":"Criminal Girls: Invite Only",
+      "Region":"JP",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"24883",
+      "SID":"PCSB00636",
+      "Name":"Criminal Girls: Invite Only",
+      "Region":"EU",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"24886",
+      "SID":"PCSE00568",
+      "Name":"Hyperdevotion Noire Goddess Black Heart",
+      "Region":"US",
+      "Release Date":"02\/24\/2015"
+   },
+   {
+      "ID":"24886",
+      "SID":"PCSG00234",
+      "Name":"Hyperdevotion Noire Goddess Black Heart",
+      "Region":"JP",
+      "Release Date":"02\/24\/2015"
+   },
+   {
+      "ID":"24886",
+      "SID":"PCSB00701",
+      "Name":"Hyperdevotion Noire Goddess Black Heart",
+      "Region":"EU",
+      "Release Date":"02\/24\/2015"
+   },
+   {
+      "ID":"24886",
+      "SID":"PCSH00098",
+      "Name":"Hyperdevotion Noire Goddess Black Heart",
+      "Region":"ASIA",
+      "Release Date":"02\/24\/2015"
+   },
+   {
+      "ID":"24889",
+      "SID":"PCSE00509",
+      "Name":"Tokyo Twilight Ghost Hunters",
+      "Region":"US",
+      "Release Date":"02\/28\/2015"
+   },
+   {
+      "ID":"24889",
+      "SID":"PCSG00293",
+      "Name":"Tokyo Twilight Ghost Hunters",
+      "Region":"JP",
+      "Release Date":"02\/28\/2015"
+   },
+   {
+      "ID":"24889",
+      "SID":"PCSB00655",
+      "Name":"Tokyo Twilight Ghost Hunters",
+      "Region":"EU",
+      "Release Date":"02\/28\/2015"
+   },
+   {
+      "ID":"25074",
+      "SID":"PCSE00588",
+      "Name":"Hyperdimension Neptunia U: Action Unleashed",
+      "Region":"US",
+      "Release Date":"05\/19\/2015"
+   },
+   {
+      "ID":"25074",
+      "SID":"PCSB00710",
+      "Name":"Hyperdimension Neptunia U: Action Unleashed",
+      "Region":"EU",
+      "Release Date":"05\/19\/2015"
+   },
+   {
+      "ID":"25595",
+      "SID":"PCSE00579",
+      "Name":"Operation Abyss: New Tokyo Legacy",
+      "Region":"US",
+      "Release Date":"06\/29\/2015"
+   },
+   {
+      "ID":"25627",
+      "SID":"PCSG00347",
+      "Name":"Atelier Ayesha Plus: The Alchemist of Dusk",
+      "Region":"JP",
+      "Release Date":"01\/13\/2015"
+   },
+   {
+      "ID":"25663",
+      "SID":"PCSE00485",
+      "Name":"Kick & Fennick",
+      "Region":"US",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"25663",
+      "SID":"PCSB00611",
+      "Name":"Kick & Fennick",
+      "Region":"EU",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"25718",
+      "SID":"PCSE00692",
+      "Name":"Danganronpa Another Episode: Ultra Despair Girls",
+      "Region":"US",
+      "Release Date":"09\/01\/2015"
+   },
+   {
+      "ID":"25718",
+      "SID":"PCSB00788",
+      "Name":"Danganronpa Another Episode: Ultra Despair Girls",
+      "Region":"EU",
+      "Release Date":"09\/01\/2015"
+   },
+   {
+      "ID":"25811",
+      "SID":"PCSA00134",
+      "Name":"Helldivers",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"25811",
+      "SID":"PCSF00465",
+      "Name":"Helldivers",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"25945",
+      "SID":"PCSE00828",
+      "Name":"Nuclear Throne",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"25945",
+      "SID":"PCSB00914",
+      "Name":"Nuclear Throne",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"25956",
+      "SID":"PCSE00339",
+      "Name":"Duke Nukem 3D: Megaton Edition",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"25956",
+      "SID":"PCSB00437",
+      "Name":"Duke Nukem 3D: Megaton Edition",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"26234",
+      "SID":"PCSE00673",
+      "Name":"Lost Dimension",
+      "Region":"US",
+      "Release Date":"07\/07\/2015"
+   },
+   {
+      "ID":"26234",
+      "SID":"PCSG00331",
+      "Name":"Lost Dimension",
+      "Region":"JP",
+      "Release Date":"07\/07\/2015"
+   },
+   {
+      "ID":"26234",
+      "SID":"PCSB00814",
+      "Name":"Lost Dimension",
+      "Region":"EU",
+      "Release Date":"07\/07\/2015"
+   },
+   {
+      "ID":"26236",
+      "SID":"PCSE00587",
+      "Name":"LEGO Jurassic World",
+      "Region":"US",
+      "Release Date":"06\/30\/2015"
+   },
+   {
+      "ID":"26236",
+      "SID":"PCSB00703",
+      "Name":"LEGO Jurassic World",
+      "Region":"EU",
+      "Release Date":"06\/30\/2015"
+   },
+   {
+      "ID":"26706",
+      "SID":"PCSE00521",
+      "Name":"Tetris Ultimate",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"26706",
+      "SID":"PCSB00642",
+      "Name":"Tetris Ultimate",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"26735",
+      "SID":"PCSE00349",
+      "Name":"1001 Spikes",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"26735",
+      "SID":"PCSB00684",
+      "Name":"1001 Spikes",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"26997",
+      "SID":"PCSE00597",
+      "Name":"Titan Souls",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"26997",
+      "SID":"PCSB00720",
+      "Name":"Titan Souls",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"27131",
+      "SID":"PCSE00693",
+      "Name":"Dungeon Travelers 2: The Royal Library & The Monster Seal",
+      "Region":"US",
+      "Release Date":"08\/18\/2015"
+   },
+   {
+      "ID":"27131",
+      "SID":"PCSG00407",
+      "Name":"Dungeon Travelers 2: The Royal Library & The Monster Seal",
+      "Region":"JP",
+      "Release Date":"08\/18\/2015"
+   },
+   {
+      "ID":"27131",
+      "SID":"PCSB00813",
+      "Name":"Dungeon Travelers 2: The Royal Library & The Monster Seal",
+      "Region":"EU",
+      "Release Date":"08\/18\/2015"
+   },
+   {
+      "ID":"27458",
+      "SID":"PCSE00651",
+      "Name":"Axiom Verge",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"27458",
+      "SID":"PCSB00779",
+      "Name":"Axiom Verge",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"27619",
+      "SID":"PCSE00513",
+      "Name":"Rollers of the Realm",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"27619",
+      "SID":"PCSG00616",
+      "Name":"Rollers of the Realm",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"27619",
+      "SID":"PCSB00660",
+      "Name":"Rollers of the Realm",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"37477",
+      "SID":"PCSE00577",
+      "Name":"SpongeBob HeroPants",
+      "Region":"US",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"37477",
+      "SID":"PCSB00716",
+      "Name":"SpongeBob HeroPants",
+      "Region":"EU",
+      "Release Date":"02\/03\/2015"
+   },
+   {
+      "ID":"34854",
+      "SID":"PCSE00305",
+      "Name":"Dragon Ball Z: Battle of Z",
+      "Region":"US",
+      "Release Date":"01\/28\/2014"
+   },
+   {
+      "ID":"34854",
+      "SID":"PCSG00213",
+      "Name":"Dragon Ball Z: Battle of Z",
+      "Region":"JP",
+      "Release Date":"01\/28\/2014"
+   },
+   {
+      "ID":"34854",
+      "SID":"PCSB00396",
+      "Name":"Dragon Ball Z: Battle of Z",
+      "Region":"EU",
+      "Release Date":"01\/28\/2014"
+   },
+   {
+      "ID":"29430",
+      "SID":"PCSG00364",
+      "Name":"Persona 4: Dancing All Night",
+      "Region":"JP",
+      "Release Date":"09\/29\/2015"
+   },
+   {
+      "ID":"29430",
+      "SID":"PCSH00211",
+      "Name":"Persona 4: Dancing All Night",
+      "Region":"ASIA",
+      "Release Date":"09\/29\/2015"
+   },
+   {
+      "ID":"29818",
+      "SID":"PCSE00790",
+      "Name":"Bastion",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"29818",
+      "SID":"PCSB00876",
+      "Name":"Bastion",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"30319",
+      "SID":"PCSE00479",
+      "Name":"OlliOlli2: Welcome to Olliwood",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"30319",
+      "SID":"PCSB00590",
+      "Name":"OlliOlli2: Welcome to Olliwood",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"30639",
+      "SID":"PCSG00536",
+      "Name":"Sword Art Online: Lost Song",
+      "Region":"JP",
+      "Release Date":"11\/17\/2015"
+   },
+   {
+      "ID":"30639",
+      "SID":"PCSB00830",
+      "Name":"Sword Art Online: Lost Song",
+      "Region":"EU",
+      "Release Date":"11\/17\/2015"
+   },
+   {
+      "ID":"30641",
+      "SID":"PCSE00644",
+      "Name":"Steins;Gate",
+      "Region":"US",
+      "Release Date":"08\/31\/2015"
+   },
+   {
+      "ID":"30641",
+      "SID":"PCSB00724",
+      "Name":"Steins;Gate",
+      "Region":"EU",
+      "Release Date":"08\/31\/2015"
+   },
+   {
+      "ID":"30642",
+      "SID":"PCSE00762",
+      "Name":"Norn9: Var Commons",
+      "Region":"US",
+      "Release Date":"11\/03\/2015"
+   },
+   {
+      "ID":"30642",
+      "SID":"PCSG00431",
+      "Name":"Norn9: Var Commons",
+      "Region":"JP",
+      "Release Date":"11\/03\/2015"
+   },
+   {
+      "ID":"30642",
+      "SID":"PCSB00847",
+      "Name":"Norn9: Var Commons",
+      "Region":"EU",
+      "Release Date":"11\/03\/2015"
+   },
+   {
+      "ID":"30644",
+      "SID":"PCSE00786",
+      "Name":"The Legend of Heroes: Trails of Cold Steel",
+      "Region":"US",
+      "Release Date":"12\/15\/2015"
+   },
+   {
+      "ID":"30644",
+      "SID":"PCSH00074",
+      "Name":"The Legend of Heroes: Trails of Cold Steel",
+      "Region":"ASIA",
+      "Release Date":"12\/15\/2015"
+   },
+   {
+      "ID":"30835",
+      "SID":"PCSE00468",
+      "Name":"Citizens of Earth",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"30835",
+      "SID":"PCSB00599",
+      "Name":"Citizens of Earth",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"31307",
+      "SID":"PCSB00827",
+      "Name":"Volume",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"31307",
+      "SID":"PCSH00285",
+      "Name":"Volume",
+      "Region":"ASIA",
+      "Release Date":""
+   },
+   {
+      "ID":"32370",
+      "SID":"PCSA00153",
+      "Name":"Murasaki Baby",
+      "Region":"US",
+      "Release Date":"09\/16\/2014"
+   },
+   {
+      "ID":"32370",
+      "SID":"PCSC00084",
+      "Name":"Murasaki Baby",
+      "Region":"JP",
+      "Release Date":"09\/16\/2014"
+   },
+   {
+      "ID":"32370",
+      "SID":"PCSF00435",
+      "Name":"Murasaki Baby",
+      "Region":"EU",
+      "Release Date":"09\/16\/2014"
+   },
+   {
+      "ID":"32479",
+      "SID":"PCSE00248",
+      "Name":"Deathmatch Village",
+      "Region":"US",
+      "Release Date":"09\/02\/2013"
+   },
+   {
+      "ID":"32479",
+      "SID":"PCSB00306",
+      "Name":"Deathmatch Village",
+      "Region":"EU",
+      "Release Date":"09\/02\/2013"
+   },
+   {
+      "ID":"32480",
+      "SID":"PCSA00106",
+      "Name":"Destiny of Spirits",
+      "Region":"US",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"32480",
+      "SID":"PCSF00543",
+      "Name":"Destiny of Spirits",
+      "Region":"EU",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"32480",
+      "SID":"PCSD00061",
+      "Name":"Destiny of Spirits",
+      "Region":"ASIA",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"32690",
+      "SID":"PCSE00647",
+      "Name":"Amnesia: Memories",
+      "Region":"US",
+      "Release Date":"08\/25\/2015"
+   },
+   {
+      "ID":"32690",
+      "SID":"PCSB00740",
+      "Name":"Amnesia: Memories",
+      "Region":"EU",
+      "Release Date":"08\/25\/2015"
+   },
+   {
+      "ID":"33358",
+      "SID":"PCSA00151",
+      "Name":"Dead Nation",
+      "Region":"US",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"33358",
+      "SID":"PCSC00079",
+      "Name":"Dead Nation",
+      "Region":"JP",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"33358",
+      "SID":"PCSF00427",
+      "Name":"Dead Nation",
+      "Region":"EU",
+      "Release Date":"04\/15\/2014"
+   },
+   {
+      "ID":"33890",
+      "SID":"PCSE00542",
+      "Name":"Desert Ashes",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"34013",
+      "SID":"PCSG00350",
+      "Name":"Monster Hunter Frontier G",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"34180",
+      "SID":"PCSE00769",
+      "Name":"Super Meat Boy",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"34180",
+      "SID":"PCSB00881",
+      "Name":"Super Meat Boy",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"34413",
+      "SID":"PCSA00152",
+      "Name":"Soul Sacrifice Delta",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"34413",
+      "SID":"PCSC00049",
+      "Name":"Soul Sacrifice Delta",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"34413",
+      "SID":"PCSF00532",
+      "Name":"Soul Sacrifice Delta",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"34413",
+      "SID":"PCSD00079",
+      "Name":"Soul Sacrifice Delta",
+      "Region":"ASIA",
+      "Release Date":""
+   },
+   {
+      "ID":"34419",
+      "SID":"PCSE00256",
+      "Name":"Kung Fu Rabbit",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"34419",
+      "SID":"PCSG00314",
+      "Name":"Kung Fu Rabbit",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"34419",
+      "SID":"PCSB00331",
+      "Name":"Kung Fu Rabbit",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"34498",
+      "SID":"PCSG00412",
+      "Name":"Gundam Breaker 2",
+      "Region":"JP",
+      "Release Date":"12\/18\/2014"
+   },
+   {
+      "ID":"34675",
+      "SID":"PCSE00710",
+      "Name":"Earth Defense Force 2: Invaders from Planet Space",
+      "Region":"US",
+      "Release Date":"12\/08\/2015"
+   },
+   {
+      "ID":"34675",
+      "SID":"PCSB00884",
+      "Name":"Earth Defense Force 2: Invaders from Planet Space",
+      "Region":"EU",
+      "Release Date":"12\/08\/2015"
+   },
+   {
+      "ID":"34843",
+      "SID":"PCSE00670",
+      "Name":"LEGO Marvel's Avengers",
+      "Region":"US",
+      "Release Date":"01\/26\/2016"
+   },
+   {
+      "ID":"34843",
+      "SID":"PCSG00836",
+      "Name":"LEGO Marvel's Avengers",
+      "Region":"JP",
+      "Release Date":"01\/26\/2016"
+   },
+   {
+      "ID":"34843",
+      "SID":"PCSB00764",
+      "Name":"LEGO Marvel's Avengers",
+      "Region":"EU",
+      "Release Date":"01\/26\/2016"
+   },
+   {
+      "ID":"34963",
+      "SID":"PCSC00088",
+      "Name":"Resogun",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"35053",
+      "SID":"PCSE00781",
+      "Name":"Zero Escape: Zero Time Dilemma",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"35053",
+      "SID":"PCSG00747",
+      "Name":"Zero Escape: Zero Time Dilemma",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"35053",
+      "SID":"PCSB00942",
+      "Name":"Zero Escape: Zero Time Dilemma",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"35287",
+      "SID":"PCSE00700",
+      "Name":"Assassin's Creed Chronicles",
+      "Region":"US",
+      "Release Date":"02\/09\/2016"
+   },
+   {
+      "ID":"35287",
+      "SID":"PCSG00655",
+      "Name":"Assassin's Creed Chronicles",
+      "Region":"JP",
+      "Release Date":"02\/09\/2016"
+   },
+   {
+      "ID":"35287",
+      "SID":"PCSB00792",
+      "Name":"Assassin's Creed Chronicles",
+      "Region":"EU",
+      "Release Date":"02\/09\/2016"
+   },
+   {
+      "ID":"35530",
+      "SID":"PCSE00638",
+      "Name":"One Piece: Pirate Warriors 3",
+      "Region":"US",
+      "Release Date":"08\/25\/2015"
+   },
+   {
+      "ID":"35530",
+      "SID":"PCSG00544",
+      "Name":"One Piece: Pirate Warriors 3",
+      "Region":"JP",
+      "Release Date":"08\/25\/2015"
+   },
+   {
+      "ID":"35530",
+      "SID":"PCSH00145",
+      "Name":"One Piece: Pirate Warriors 3",
+      "Region":"ASIA",
+      "Release Date":"08\/25\/2015"
+   },
+   {
+      "ID":"35723",
+      "SID":"PCSE00787",
+      "Name":"Senran Kagura: Estival Versus",
+      "Region":"US",
+      "Release Date":"03\/15\/2016"
+   },
+   {
+      "ID":"35881",
+      "SID":"PCSG00760",
+      "Name":"Gundam Breaker 3",
+      "Region":"JP",
+      "Release Date":"03\/03\/2016"
+   },
+   {
+      "ID":"35881",
+      "SID":"PCSH00207",
+      "Name":"Gundam Breaker 3",
+      "Region":"ASIA",
+      "Release Date":"03\/03\/2016"
+   },
+   {
+      "ID":"35881",
+      "SID":"PCSH00208",
+      "Name":"Gundam Breaker 3",
+      "Region":"ASIA",
+      "Release Date":"03\/03\/2016"
+   },
+   {
+      "ID":"36675",
+      "SID":"PCSE00639",
+      "Name":"Dengeki Bunko: Fighting Climax",
+      "Region":"US",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"36675",
+      "SID":"PCSG00341",
+      "Name":"Dengeki Bunko: Fighting Climax",
+      "Region":"JP",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"36675",
+      "SID":"PCSB00763",
+      "Name":"Dengeki Bunko: Fighting Climax",
+      "Region":"EU",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"36676",
+      "SID":"PCSE00832",
+      "Name":"MegaTagmension Blanc + Neptune VS Zombies",
+      "Region":"US",
+      "Release Date":"05\/10\/2016"
+   },
+   {
+      "ID":"36676",
+      "SID":"PCSG00578",
+      "Name":"MegaTagmension Blanc + Neptune VS Zombies",
+      "Region":"JP",
+      "Release Date":"05\/10\/2016"
+   },
+   {
+      "ID":"36676",
+      "SID":"PCSB00921",
+      "Name":"MegaTagmension Blanc + Neptune VS Zombies",
+      "Region":"EU",
+      "Release Date":"05\/10\/2016"
+   },
+   {
+      "ID":"36676",
+      "SID":"PCSH00213",
+      "Name":"MegaTagmension Blanc + Neptune VS Zombies",
+      "Region":"ASIA",
+      "Release Date":"05\/10\/2016"
+   },
+   {
+      "ID":"36676",
+      "SID":"PCSH00236",
+      "Name":"MegaTagmension Blanc + Neptune VS Zombies",
+      "Region":"ASIA",
+      "Release Date":"05\/10\/2016"
+   },
+   {
+      "ID":"37268",
+      "SID":"PCSE00612",
+      "Name":"Color Guardians",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"37268",
+      "SID":"PCSG00955",
+      "Name":"Color Guardians",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"37560",
+      "SID":"PCSE00879",
+      "Name":"Grand Kingdom",
+      "Region":"US",
+      "Release Date":"06\/28\/2016"
+   },
+   {
+      "ID":"37560",
+      "SID":"PCSG00474",
+      "Name":"Grand Kingdom",
+      "Region":"JP",
+      "Release Date":"06\/28\/2016"
+   },
+   {
+      "ID":"37560",
+      "SID":"PCSB00959",
+      "Name":"Grand Kingdom",
+      "Region":"EU",
+      "Release Date":"06\/28\/2016"
+   },
+   {
+      "ID":"37643",
+      "SID":"PCSG00524",
+      "Name":"Odin Sphere Leifthrasir",
+      "Region":"JP",
+      "Release Date":"07\/07\/2016"
+   },
+   {
+      "ID":"37643",
+      "SID":"PCSH00218",
+      "Name":"Odin Sphere Leifthrasir",
+      "Region":"ASIA",
+      "Release Date":"07\/07\/2016"
+   },
+   {
+      "ID":"39353",
+      "SID":"PCSA00552",
+      "Name":"Invizimals: The Resistance",
+      "Region":"US",
+      "Release Date":"05\/26\/2015"
+   },
+   {
+      "ID":"39353",
+      "SID":"PCSF00510",
+      "Name":"Invizimals: The Resistance",
+      "Region":"EU",
+      "Release Date":"05\/26\/2015"
+   },
+   {
+      "ID":"39393",
+      "SID":"PCSE00813",
+      "Name":"Trillion: God of Destruction",
+      "Region":"US",
+      "Release Date":"03\/29\/2016"
+   },
+   {
+      "ID":"39393",
+      "SID":"PCSG00515",
+      "Name":"Trillion: God of Destruction",
+      "Region":"JP",
+      "Release Date":"03\/29\/2016"
+   },
+   {
+      "ID":"39393",
+      "SID":"PCSB00904",
+      "Name":"Trillion: God of Destruction",
+      "Region":"EU",
+      "Release Date":"03\/29\/2016"
+   },
+   {
+      "ID":"39707",
+      "SID":"PCSE00420",
+      "Name":"MouseCraft",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"39707",
+      "SID":"PCSB00530",
+      "Name":"MouseCraft",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"39820",
+      "SID":"PCSE00294",
+      "Name":"Angry Birds Star Wars",
+      "Region":"US",
+      "Release Date":"10\/29\/2013"
+   },
+   {
+      "ID":"39820",
+      "SID":"PCSB00397",
+      "Name":"Angry Birds Star Wars",
+      "Region":"EU",
+      "Release Date":"10\/29\/2013"
+   },
+   {
+      "ID":"39821",
+      "SID":"PCSE00918",
+      "Name":"MeiQ: Labyrinth of Death",
+      "Region":"US",
+      "Release Date":"09\/13\/2016"
+   },
+   {
+      "ID":"39821",
+      "SID":"PCSG00606",
+      "Name":"MeiQ: Labyrinth of Death",
+      "Region":"JP",
+      "Release Date":"09\/13\/2016"
+   },
+   {
+      "ID":"39821",
+      "SID":"PCSB00990",
+      "Name":"MeiQ: Labyrinth of Death",
+      "Region":"EU",
+      "Release Date":"09\/13\/2016"
+   },
+   {
+      "ID":"39824",
+      "SID":"PCSG00699",
+      "Name":"Gal*Gun: Double Peace",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"39824",
+      "SID":"PCSB00956",
+      "Name":"Gal*Gun: Double Peace",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"39826",
+      "SID":"PCSE00896",
+      "Name":"The Legend of Heroes: Trails of Cold Steel II",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"39826",
+      "SID":"PCSB01016",
+      "Name":"The Legend of Heroes: Trails of Cold Steel II",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"39827",
+      "SID":"PCSE00916",
+      "Name":"Criminal Girls 2: Party Favors",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"39827",
+      "SID":"PCSB00984",
+      "Name":"Criminal Girls 2: Party Favors",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"39829",
+      "SID":"PCSG00683",
+      "Name":"Hatsune Miku: Project Diva X",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"40000",
+      "SID":"PCSE00623",
+      "Name":"Octodad: Dadliest Catch",
+      "Region":"US",
+      "Release Date":"06\/19\/2016"
+   },
+   {
+      "ID":"40000",
+      "SID":"PCSB00825",
+      "Name":"Octodad: Dadliest Catch",
+      "Region":"EU",
+      "Release Date":"06\/19\/2016"
+   },
+   {
+      "ID":"40001",
+      "SID":"PCSE00694",
+      "Name":"Xeodrifter",
+      "Region":"US",
+      "Release Date":"07\/04\/2016"
+   },
+   {
+      "ID":"40001",
+      "SID":"PCSE00853",
+      "Name":"Xeodrifter",
+      "Region":"US",
+      "Release Date":"07\/04\/2016"
+   },
+   {
+      "ID":"40001",
+      "SID":"PCSB00797",
+      "Name":"Xeodrifter",
+      "Region":"EU",
+      "Release Date":"07\/04\/2016"
+   },
+   {
+      "ID":"40002",
+      "SID":"PCSE00495",
+      "Name":"Futuridium EP Deluxe",
+      "Region":"US",
+      "Release Date":"05\/09\/2016"
+   },
+   {
+      "ID":"40002",
+      "SID":"PCSB00528",
+      "Name":"Futuridium EP Deluxe",
+      "Region":"EU",
+      "Release Date":"05\/09\/2016"
+   },
+   {
+      "ID":"40016",
+      "SID":"PCSE00717",
+      "Name":"Superbeat Xonic",
+      "Region":"US",
+      "Release Date":"10\/22\/2015"
+   },
+   {
+      "ID":"40016",
+      "SID":"PCSB00891",
+      "Name":"Superbeat Xonic",
+      "Region":"EU",
+      "Release Date":"10\/22\/2015"
+   },
+   {
+      "ID":"40032",
+      "SID":"PCSE00768",
+      "Name":"Farming Simulator 16",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"40032",
+      "SID":"PCSB00843",
+      "Name":"Farming Simulator 16",
+      "Region":"EU",
+      "Release Date":""
+   },
+   {
+      "ID":"40157",
+      "SID":"PCSG00076",
+      "Name":"Valhalla Knights 3",
+      "Region":"JP",
+      "Release Date":"10\/05\/2013"
+   },
+   {
+      "ID":"40207",
+      "SID":"PCSB00989",
+      "Name":"Shiren The Wanderer: The Tower of Fortune and the Dice of Fate",
+      "Region":"EU",
+      "Release Date":"07\/26\/2016"
+   },
+   {
+      "ID":"40236",
+      "SID":"PCSG00351",
+      "Name":"Phantasy Star Nova",
+      "Region":"JP",
+      "Release Date":"11\/27\/2014"
+   },
+   {
+      "ID":"40453",
+      "SID":"PCSE00419",
+      "Name":"Farming Simulator 14",
+      "Region":"US",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"40453",
+      "SID":"PCSG00442",
+      "Name":"Farming Simulator 14",
+      "Region":"JP",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"40453",
+      "SID":"PCSB00534",
+      "Name":"Farming Simulator 14",
+      "Region":"EU",
+      "Release Date":"06\/24\/2014"
+   },
+   {
+      "ID":"40980",
+      "SID":"PCSE00843",
+      "Name":"Ray Gigant",
+      "Region":"US",
+      "Release Date":"08\/10\/2016"
+   },
+   {
+      "ID":"40980",
+      "SID":"PCSG00552",
+      "Name":"Ray Gigant",
+      "Region":"JP",
+      "Release Date":"08\/10\/2016"
+   },
+   {
+      "ID":"40980",
+      "SID":"PCSG90187",
+      "Name":"Ray Gigant",
+      "Region":"JP",
+      "Release Date":"08\/10\/2016"
+   },
+   {
+      "ID":"40980",
+      "SID":"PCSB00928",
+      "Name":"Ray Gigant",
+      "Region":"EU",
+      "Release Date":"08\/10\/2016"
+   },
+   {
+      "ID":"41431",
+      "SID":"PCSE00880",
+      "Name":"World of Final Fantasy",
+      "Region":"US",
+      "Release Date":"10\/25\/2016"
+   },
+   {
+      "ID":"41431",
+      "SID":"PCSB00951",
+      "Name":"World of Final Fantasy",
+      "Region":"EU",
+      "Release Date":"10\/25\/2016"
+   },
+   {
+      "ID":"41593",
+      "SID":"PCSG00891",
+      "Name":"Root Letter",
+      "Region":"JP",
+      "Release Date":"11\/10\/2016"
+   },
+   {
+      "ID":"41593",
+      "SID":"PCSB01019",
+      "Name":"Root Letter",
+      "Region":"EU",
+      "Release Date":"11\/10\/2016"
+   },
+   {
+      "ID":"41593",
+      "SID":"PCSH00289",
+      "Name":"Root Letter",
+      "Region":"ASIA",
+      "Release Date":"11\/10\/2016"
+   },
+   {
+      "ID":"41918",
+      "SID":"PCSE00467",
+      "Name":"Toukiden: Kiwami",
+      "Region":"US",
+      "Release Date":"03\/31\/2015"
+   },
+   {
+      "ID":"41918",
+      "SID":"PCSG00379",
+      "Name":"Toukiden: Kiwami",
+      "Region":"JP",
+      "Release Date":"03\/31\/2015"
+   },
+   {
+      "ID":"41918",
+      "SID":"PCSH00103",
+      "Name":"Toukiden: Kiwami",
+      "Region":"ASIA",
+      "Release Date":"03\/31\/2015"
+   },
+   {
+      "ID":"42244",
+      "SID":"PCSG00673",
+      "Name":"Steins;Gate 0",
+      "Region":"JP",
+      "Release Date":"11\/29\/2016"
+   },
+   {
+      "ID":"42390",
+      "SID":"PCSE00708",
+      "Name":"Corpse Party: Blood Drive",
+      "Region":"US",
+      "Release Date":"10\/13\/2015"
+   },
+   {
+      "ID":"42390",
+      "SID":"PCSG00298",
+      "Name":"Corpse Party: Blood Drive",
+      "Region":"JP",
+      "Release Date":"10\/13\/2015"
+   },
+   {
+      "ID":"42390",
+      "SID":"PCSB00822",
+      "Name":"Corpse Party: Blood Drive",
+      "Region":"EU",
+      "Release Date":"10\/13\/2015"
+   },
+   {
+      "ID":"43112",
+      "SID":"PCSG00792",
+      "Name":"Digimon World: Next Order",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"43112",
+      "SID":"PCSH00261",
+      "Name":"Digimon World: Next Order",
+      "Region":"ASIA",
+      "Release Date":""
+   },
+   {
+      "ID":"43154",
+      "SID":"PCSE00501",
+      "Name":"A Virus Named TOM",
+      "Region":"US",
+      "Release Date":"04\/01\/2016"
+   },
+   {
+      "ID":"43154",
+      "SID":"PCSB00955",
+      "Name":"A Virus Named TOM",
+      "Region":"EU",
+      "Release Date":"04\/01\/2016"
+   },
+   {
+      "ID":"25104",
+      "SID":"PCSE00527",
+      "Name":"hToL#NiQ: The Firefly Diary",
+      "Region":"US",
+      "Release Date":"02\/24\/2015"
+   },
+   {
+      "ID":"34674",
+      "SID":"PCSE00826",
+      "Name":"Atelier Escha & Logy Plus: Alchemist of Dusk Sky",
+      "Region":"US",
+      "Release Date":"01\/19\/2016"
+   },
+   {
+      "ID":"9239",
+      "SID":"PCSA00001",
+      "Name":"ModNation Racers: Road Trip",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"40432",
+      "SID":"",
+      "Name":"Kangokutou Mary Skelter",
+      "Region":"",
+      "Release Date":"10\/13\/2016"
+   },
+   {
+      "ID":"13279",
+      "SID":"PCSE00014",
+      "Name":"Dynasty Warriors Next",
+      "Region":"US",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"13280",
+      "SID":"PCSE00084",
+      "Name":"Madden NFL 13",
+      "Region":"US",
+      "Release Date":"08\/28\/2012"
+   },
+   {
+      "ID":"13281",
+      "SID":"PCSB00170",
+      "Name":"FIFA Soccer 13",
+      "Region":"EU",
+      "Release Date":"09\/25\/2012"
+   },
+   {
+      "ID":"13282",
+      "SID":"PCSG00039",
+      "Name":"FIFA Soccer",
+      "Region":"JP",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"12402",
+      "SID":"PCSE00018",
+      "Name":"BlazBlue: Continuum Shift Extend",
+      "Region":"US",
+      "Release Date":"02\/22\/2012"
+   },
+   {
+      "ID":"12408",
+      "SID":"PCSE00022",
+      "Name":"Disgaea 3: Absence of Detention",
+      "Region":"US",
+      "Release Date":"04\/20\/2012"
+   },
+   {
+      "ID":"12463",
+      "SID":"PCSE00004",
+      "Name":"Ultimate Marvel Vs. Capcom 3",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"30643",
+      "SID":"PCSE00763",
+      "Name":"Code: Realize - Guardian of Rebirth",
+      "Region":"US",
+      "Release Date":"10\/20\/2015"
+   },
+   {
+      "ID":"31541",
+      "SID":"PCSA00511",
+      "Name":"MLB 15: The Show",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"32755",
+      "SID":"PCSE00307",
+      "Name":"Pixeljunk Monsters Ultimate HD",
+      "Region":"US",
+      "Release Date":"07\/30\/2013"
+   },
+   {
+      "ID":"32858",
+      "SID":"PCSE00254",
+      "Name":"History: Legends of War",
+      "Region":"US",
+      "Release Date":"07\/07\/2013"
+   },
+   {
+      "ID":"34407",
+      "SID":"PCSE00677",
+      "Name":"BlazBlue: Chrono Phantasma Extend",
+      "Region":"US",
+      "Release Date":"07\/28\/2015"
+   },
+   {
+      "ID":"34997",
+      "SID":"",
+      "Name":"Disney Infinity: 2.0 Edition",
+      "Region":"",
+      "Release Date":"05\/09\/2015"
+   },
+   {
+      "ID":"35052",
+      "SID":"PCSE00755",
+      "Name":"Digimon Story: Cyber Sleuth",
+      "Region":"US",
+      "Release Date":"02\/02\/2016"
+   },
+   {
+      "ID":"35277",
+      "SID":"",
+      "Name":"Mighty No. 9",
+      "Region":"",
+      "Release Date":"06\/21\/2016"
+   },
+   {
+      "ID":"35529",
+      "SID":"",
+      "Name":"Jonah Lomu Rugby Challenge",
+      "Region":"",
+      "Release Date":"07\/06\/2012"
+   },
+   {
+      "ID":"39607",
+      "SID":"PCSE00818",
+      "Name":"Stranger of Sword City: Black Palace",
+      "Region":"US",
+      "Release Date":"04\/26\/2016"
+   },
+   {
+      "ID":"39822",
+      "SID":"PCSA00029",
+      "Name":"Uncharted Golden Abyss",
+      "Region":"US",
+      "Release Date":"12\/17\/2011"
+   },
+   {
+      "ID":"39823",
+      "SID":"PCSE00844",
+      "Name":"Aegis of Earth Protonovus Assault",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"39825",
+      "SID":"PCSG00773",
+      "Name":"Dead or Alive Xtreme 3 Venus",
+      "Region":"JP",
+      "Release Date":""
+   },
+   {
+      "ID":"39828",
+      "SID":"PCSA00002",
+      "Name":"MLB 14: The Show ",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"39988",
+      "SID":"PCSE00314",
+      "Name":"Sorcery Saga: Hot and Spicy, Everything Nicey Limited Edition",
+      "Region":"US",
+      "Release Date":"12\/10\/2013"
+   },
+   {
+      "ID":"39996",
+      "SID":"PCSE00989",
+      "Name":"HtoL#NiQ The Firefly Diary: Limited Edition",
+      "Region":"US",
+      "Release Date":"06\/19\/2014"
+   },
+   {
+      "ID":"39997",
+      "SID":"PCSE00918",
+      "Name":"MeiQ: Labyrinth of Death: Limited Edition",
+      "Region":"US",
+      "Release Date":"09\/13\/2016"
+   },
+   {
+      "ID":"39998",
+      "SID":"PCSE00830",
+      "Name":"Mystery Chronicles: One Way Heroics",
+      "Region":"US",
+      "Release Date":"09\/12\/2016"
+   },
+   {
+      "ID":"39999",
+      "SID":"PCSE00299",
+      "Name":"Dragon Fantasy",
+      "Region":"US",
+      "Release Date":"05\/26\/2016"
+   },
+   {
+      "ID":"40003",
+      "SID":"PCSE00369",
+      "Name":"Oddworld: Abe's Oddysee, New 'n' Tasty!",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"40034",
+      "SID":"PCSE00904",
+      "Name":"Psycho-Pass Mandatory Happiness",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"40036",
+      "SID":"PCSE00904",
+      "Name":"PSYCHO-PASS: Mandatory Happiness: Limited Edition",
+      "Region":"US",
+      "Release Date":"09\/13\/2016"
+   },
+   {
+      "ID":"40037",
+      "SID":"PCSE00818",
+      "Name":"Stranger of Sword City: Limited Edition",
+      "Region":"US",
+      "Release Date":"04\/26\/2016"
+   },
+   {
+      "ID":"40039",
+      "SID":"PCSE00644",
+      "Name":"Steins;Gate Limited Edition",
+      "Region":"US",
+      "Release Date":"01\/19\/2016"
+   },
+   {
+      "ID":"40065",
+      "SID":"PCSE00245",
+      "Name":"Ys: Memories of Celceta Silver Anniversary Edition",
+      "Region":"US",
+      "Release Date":"09\/27\/2012"
+   },
+   {
+      "ID":"40129",
+      "SID":"PCSE00948",
+      "Name":"Valkyrie Drive: Bhikkhuni",
+      "Region":"US",
+      "Release Date":"10\/11\/2016"
+   },
+   {
+      "ID":"40131",
+      "SID":"PCSE00948",
+      "Name":"Valkyrie Drive: Bhikkhuni Liberator's Edition",
+      "Region":"US",
+      "Release Date":"10\/11\/2016"
+   },
+   {
+      "ID":"40156",
+      "SID":"PCSE00787",
+      "Name":"Senran Kagura: Estival Versus Endless Summer Edition",
+      "Region":"US",
+      "Release Date":"03\/15\/2016"
+   },
+   {
+      "ID":"40208",
+      "SID":"PCSE00845",
+      "Name":"Shiren The Wanderer: The Tower of Fortune and the Dice of Fate Eternal Wanderer Edition",
+      "Region":"US",
+      "Release Date":"07\/26\/2016"
+   },
+   {
+      "ID":"40209",
+      "SID":"PCSE00692",
+      "Name":"Danganronpa Another Episode: Ultra Despair Girls Limited Edition",
+      "Region":"US",
+      "Release Date":"09\/01\/2015"
+   },
+   {
+      "ID":"40242",
+      "SID":"PCSB00983",
+      "Name":"Mobile Suit Gundam: Extreme VS-Force",
+      "Region":"EU",
+      "Release Date":"02\/25\/2016"
+   },
+   {
+      "ID":"40337",
+      "SID":"PCSE00883",
+      "Name":"Exist Archive: The Other Side of The Sky",
+      "Region":"US",
+      "Release Date":"10\/18\/2016"
+   },
+   {
+      "ID":"12555",
+      "SID":"PCSE00008",
+      "Name":"Dungeon Hunter: Alliance",
+      "Region":"US",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"12567",
+      "SID":"PCSE00067",
+      "Name":"LEGO The Lord of the Rings",
+      "Region":"US",
+      "Release Date":"11\/13\/2012"
+   },
+   {
+      "ID":"12572",
+      "SID":"PCSA00079",
+      "Name":"Smart as...",
+      "Region":"US",
+      "Release Date":"10\/23\/2012"
+   },
+   {
+      "ID":"12574",
+      "SID":"PCSE00089",
+      "Name":"Need for Speed Most Wanted",
+      "Region":"US",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"12575",
+      "SID":"PCSE00097",
+      "Name":"Call of Duty: Black Ops Declassified",
+      "Region":"US",
+      "Release Date":"11\/13\/2012"
+   },
+   {
+      "ID":"13285",
+      "SID":"PCSE00007",
+      "Name":"Asphalt Injection",
+      "Region":"US",
+      "Release Date":"02\/14\/2012"
+   },
+   {
+      "ID":"13286",
+      "SID":"PCSE00012",
+      "Name":"Supremacy MMA: Unrestricted",
+      "Region":"US",
+      "Release Date":"03\/27\/2012"
+   },
+   {
+      "ID":"13312",
+      "SID":"",
+      "Name":"MLB 13: The Show",
+      "Region":"",
+      "Release Date":"03\/05\/2013"
+   },
+   {
+      "ID":"13319",
+      "SID":"PCSE00010",
+      "Name":"Michael Jackson: The Experience",
+      "Region":"US",
+      "Release Date":"02\/15\/2012"
+   },
+   {
+      "ID":"15716",
+      "SID":"PCSG00416",
+      "Name":"Jikkyou Powerful Pro Yakyuu 2012",
+      "Region":"JP",
+      "Release Date":"07\/14\/2012"
+   },
+   {
+      "ID":"15719",
+      "SID":"PCSG00691",
+      "Name":"Jikkyou Powerful Pro Yakyuu 2012 Ketteiban",
+      "Region":"JP",
+      "Release Date":"12\/13\/2012"
+   },
+   {
+      "ID":"15928",
+      "SID":"PCSE00219",
+      "Name":"MUD: FIM Motocross World Championship",
+      "Region":"US",
+      "Release Date":"02\/26\/2013"
+   },
+   {
+      "ID":"16624",
+      "SID":"PCSE00119",
+      "Name":"Ragnarok Odyssey Mercenary Edition",
+      "Region":"US",
+      "Release Date":"10\/30\/2012"
+   },
+   {
+      "ID":"19295",
+      "SID":"",
+      "Name":"Blast Off",
+      "Region":"",
+      "Release Date":"11\/24\/2009"
+   },
+   {
+      "ID":"19432",
+      "SID":"PCSA00107",
+      "Name":"Killzone Mercenary",
+      "Region":"US",
+      "Release Date":"09\/10\/2013"
+   },
+   {
+      "ID":"19964",
+      "SID":"",
+      "Name":"Rymdkapsel",
+      "Region":"",
+      "Release Date":""
+   },
+   {
+      "ID":"20118",
+      "SID":"PCSE00283",
+      "Name":"Final Fantasy X\/X-2 HD Remaster",
+      "Region":"US",
+      "Release Date":"12\/26\/2013"
+   },
+   {
+      "ID":"20581",
+      "SID":"PCSE00247",
+      "Name":"Luftrausers",
+      "Region":"US",
+      "Release Date":"03\/18\/2014"
+   },
+   {
+      "ID":"20736",
+      "SID":"PCSE00400",
+      "Name":"Hyperdimension Neptunia PP",
+      "Region":"US",
+      "Release Date":"06\/03\/2014"
+   },
+   {
+      "ID":"20874",
+      "SID":"",
+      "Name":"Cytus Lambda",
+      "Region":"",
+      "Release Date":"06\/26\/2013"
+   },
+   {
+      "ID":"21091",
+      "SID":"PCSE00471",
+      "Name":"Senran Kagura: Bon Appetit",
+      "Region":"US",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"31459",
+      "SID":"PCSA00137",
+      "Name":"Invizimals: The Alliance",
+      "Region":"US",
+      "Release Date":"09\/30\/2014"
+   },
+   {
+      "ID":"21424",
+      "SID":"PCSG00346",
+      "Name":"Genkai Totsuki Moero Chronicle",
+      "Region":"JP",
+      "Release Date":"05\/15\/2014"
+   },
+   {
+      "ID":"21425",
+      "SID":"PCSE00208",
+      "Name":"DJ Max Technika Tune",
+      "Region":"US",
+      "Release Date":"12\/07\/2012"
+   },
+   {
+      "ID":"21453",
+      "SID":"PCSE00263",
+      "Name":"Fifa 14",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"21498",
+      "SID":"PCSF00482",
+      "Name":"The Ratchet & Clank Trilogy HD",
+      "Region":"EU",
+      "Release Date":"07\/02\/2014"
+   },
+   {
+      "ID":"21504",
+      "SID":"PCSG00339",
+      "Name":"Girls und Panzer: Senshado, Kiwamemasu!",
+      "Region":"JP",
+      "Release Date":"06\/26\/2014"
+   },
+   {
+      "ID":"22611",
+      "SID":"",
+      "Name":"Road Not Taken",
+      "Region":"",
+      "Release Date":"08\/05\/2014"
+   },
+   {
+      "ID":"22902",
+      "SID":"PCSF00338",
+      "Name":"The Sly Collection",
+      "Region":"EU",
+      "Release Date":"05\/27\/2014"
+   },
+   {
+      "ID":"23314",
+      "SID":"PCSE00491",
+      "Name":"Minecraft: Playstation Vita Edition",
+      "Region":"US",
+      "Release Date":"12\/31\/2014"
+   },
+   {
+      "ID":"23493",
+      "SID":"PCSA00110",
+      "Name":"Epic Mickey 2: The Power Of Two",
+      "Region":"US",
+      "Release Date":"06\/18\/2013"
+   },
+   {
+      "ID":"23872",
+      "SID":"PCSE00404",
+      "Name":"Fez",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"23991",
+      "SID":"PCSE00352",
+      "Name":"The Wolf Among Us",
+      "Region":"US",
+      "Release Date":"11\/04\/2014"
+   },
+   {
+      "ID":"23992",
+      "SID":"PCSE00250",
+      "Name":"LEGO Marvel Super Heroes: Universe in Peril",
+      "Region":"US",
+      "Release Date":"10\/22\/2013"
+   },
+   {
+      "ID":"23994",
+      "SID":"PCSE00442",
+      "Name":"LEGO Batman 3: Beyond Gotham",
+      "Region":"US",
+      "Release Date":"11\/11\/2014"
+   },
+   {
+      "ID":"23995",
+      "SID":"PCSE00556",
+      "Name":"The Walking Dead - Season 2",
+      "Region":"US",
+      "Release Date":"11\/04\/2014"
+   },
+   {
+      "ID":"24293",
+      "SID":"",
+      "Name":"Final Fantasy VII",
+      "Region":"",
+      "Release Date":"06\/02\/2009"
+   },
+   {
+      "ID":"24427",
+      "SID":"PCSE00465",
+      "Name":"Sword Art Online: Hollow Fragment",
+      "Region":"US",
+      "Release Date":"08\/19\/2014"
+   },
+   {
+      "ID":"24884",
+      "SID":"PCSE00443",
+      "Name":"Hyperdimension Neptunia Re;Birth 1",
+      "Region":"US",
+      "Release Date":"08\/26\/2014"
+   },
+   {
+      "ID":"24885",
+      "SID":"PCSE00508",
+      "Name":"Hyperdimension Neptunia Re;Birth 2: Sisters Generation",
+      "Region":"US",
+      "Release Date":"01\/27\/2015"
+   },
+   {
+      "ID":"24888",
+      "SID":"PCSE00384",
+      "Name":"LEGO Ninjago Nindroids",
+      "Region":"US",
+      "Release Date":"07\/29\/2014"
+   },
+   {
+      "ID":"24890",
+      "SID":"PCSE00353",
+      "Name":"LEGO Movie Videogame",
+      "Region":"US",
+      "Release Date":"02\/07\/2014"
+   },
+   {
+      "ID":"24895",
+      "SID":"PCSE00237",
+      "Name":"LEGO Legends of Chima: Laval's Journey",
+      "Region":"US",
+      "Release Date":"06\/25\/2013"
+   },
+   {
+      "ID":"25616",
+      "SID":"PCSE00326",
+      "Name":"Hatsune Miku: Project DIVA F 2nd",
+      "Region":"US",
+      "Release Date":"11\/18\/2014"
+   },
+   {
+      "ID":"25662",
+      "SID":"PCSE00405",
+      "Name":"Dynasty Warriors 8: Xtreme Legends Complete Edition",
+      "Region":"US",
+      "Release Date":"03\/25\/2014"
+   },
+   {
+      "ID":"25808",
+      "SID":"PCSE00919",
+      "Name":"Darkest Dungeon",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"26222",
+      "SID":"PCSE00661",
+      "Name":"Hyperdimension Neptunia Re;Birth 3: V Generation",
+      "Region":"US",
+      "Release Date":"06\/30\/2015"
+   },
+   {
+      "ID":"26235",
+      "SID":"PCSE00627",
+      "Name":"Xblaze Lost: Memories",
+      "Region":"US",
+      "Release Date":"08\/11\/2015"
+   },
+   {
+      "ID":"26981",
+      "SID":"PCSE00260",
+      "Name":"Floating Cloud God Saves the Pilgrims",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"27018",
+      "SID":"PCSE00242",
+      "Name":"WRC 3 World Rally Championship",
+      "Region":"US",
+      "Release Date":""
+   },
+   {
+      "ID":"29306",
+      "SID":"",
+      "Name":"Pier Solar and the Great Architects",
+      "Region":"",
+      "Release Date":""
+   },
+   {
+      "ID":"29429",
+      "SID":"PCSE00764",
+      "Name":"Persona 4: Dancing All Night Disco Fever Edition",
+      "Region":"US",
+      "Release Date":"09\/29\/2015"
+   },
+   {
+      "ID":"30044",
+      "SID":"",
+      "Name":"Gyossait",
+      "Region":"",
+      "Release Date":""
+   },
+   {
+      "ID":"30638",
+      "SID":"PCSE00708",
+      "Name":"Corpse Party Ever After Edition",
+      "Region":"",
+      "Release Date":"10\/13\/2015"
+   }
+]

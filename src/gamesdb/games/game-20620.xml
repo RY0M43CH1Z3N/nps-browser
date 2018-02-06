@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20620</id>
+<GameTitle>God of War Collection</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/05/2014</ReleaseDate>
+<Overview>God of War Collection brings the nonstop action of God of War and God of War II to the PlayStation Vita system for the first time ever. In God of War Collection, experience the brutal world of ancient Greece as the legendary Spartan Kratos seeks revenge on Ares, the God of War, and tries to accomplish what no mortal has ever done: alter the course of Fate itself.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony</Publisher>
+<Developer>Sony</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>12615</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/20620-1.jpg</original>
+<thumb>fanart/thumb/20620-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="1150" height="1477" thumb="boxart/thumb/original/front/20620-1.jpg">boxart/original/front/20620-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

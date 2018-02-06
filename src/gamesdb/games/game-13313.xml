@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13313</id>
+<GameTitle>Ben 10: Galactic Racing</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>BEN 10 Galactic Racing presents the ultimate racing experience! While Ben makes use of his Ultimatrix to transform into his alien forms mid-race, every other character utilizes their unique special abilities, based on powers straight out of the television series, to affect the outcome of each race. All characters can pick up special Omni-Node Power-Ups with varying alien-based abilities, including an Ultimate move that unleashes a super-charged, race-changing boost of speed and power that is themed to that character's abilities. Players will race with or against friends in any of the various game modes. They can also win trophies in each of the Galactic Grand Prix circuits, or they can race their favorite tracks in an attempt to set record-breaking times in Time Trials mode.</Overview>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Publisher>D3Publisher</Publisher>
+<Developer>Monkey Bar Games</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>15309</id><PlatformId>15</PlatformId></Game><Game><id>14075</id><PlatformId>4912</PlatformId></Game><Game><id>15307</id><PlatformId>8</PlatformId></Game><Game><id>15308</id><PlatformId>9</PlatformId></Game><Game><id>13161</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/13313-1.jpg">boxart/original/front/13313-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16677</id>
+<GameTitle>Sound Shapes</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/07/2012</ReleaseDate>
+<Overview>Play, Compose and Share in a unique take on the classic side-scrolling platformer where your actions make the music.
+
+Equal parts instrument and game, Sound Shapes™ gives everyone the ability to make music. Play through a unique campaign that fuses music and artwork into a classic 2D platformer, featuring artwork by Pixeljam, Capy, Superbrothers and more, with music by I Am Robot and Proud, Jim Guthrie and Deadmau5. Create your own unique musical levels with all of the campaign content and share with the world. Sound Shapes creates an ever-changing musical community for everyone to enjoy at home or on the go.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Music</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>Queasy Games</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>16676</id><PlatformId>12</PlatformId></Game><Game><id>20015</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="356" height="450" thumb="boxart/thumb/original/front/16677-1.jpg">boxart/original/front/16677-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

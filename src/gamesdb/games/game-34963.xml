@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34963</id>
+<GameTitle>Resogun</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>SCEI</Publisher>
+<Developer>Housemarque</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>34962</id><PlatformId>12</PlatformId></Game><Game><id>18528</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="800" height="800" thumb="boxart/thumb/original/front/34963-1.jpg">boxart/original/front/34963-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

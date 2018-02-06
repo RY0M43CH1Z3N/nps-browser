@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40039</id>
+<GameTitle>Steins;Gate Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/19/2016</ReleaseDate>
+<Overview>Steins;Gate Limited Edition Includes 2016 calendar with exceptional Steins;Gate artwork. Steins;Gate is the award-winning time travel science-fiction interactive visual novel developed by 5pb. and Nitroplus. A group of teenage scientists discover the ability to alter the past by sending text messages through a modified microwave. Their experiments inevitably spiral out of control as they become entangled in a conspiracy surrounding SERN, the organisation behind supposed failed time travel events, and John Titor, a mysterious internet forum poster claiming to come from a dystopian future. With memorable characters, outstanding art design and a gripping narrative, SteinsGate is a critically-acclaimed visual that can be experienced time and time again.
+
+Limited Edition includes 2016 calendar with exceptional Steins;Gate artwork.</Overview>
+<ESRB>M - Mature</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Publisher>Pqube</Publisher>
+<Developer>5pb</Developer>
+<Images>
+<boxart side="front" width="1193" height="1500" thumb="boxart/thumb/original/front/40039-1.jpg">boxart/original/front/40039-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

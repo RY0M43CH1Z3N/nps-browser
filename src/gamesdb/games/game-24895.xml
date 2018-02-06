@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24895</id>
+<GameTitle>LEGO Legends of Chima: Laval's Journey</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/25/2013</ReleaseDate>
+<Overview>Get ready for an epic adventure as Laval races to unlock the secret of the legendary triple-Chi armour before Cragger can manipulate its awesome power to threaten the balance of Chima itself! Laval and his allies will explore Lion Temple, Eagle Spire, Gorilla Forrest, Rhino Quary, Croc Swamp and more as they harness the power of Chi to leap, swing, fly and fight through 15 levels of intense action! Can Laval discover the truth behind the legend of the triple-Chi before it’s too late?</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Warner,wb</Publisher>
+<Developer>Warner,wb</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>18147</id><PlatformId>4912</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1033" height="1321" thumb="boxart/thumb/original/front/24895-1.png">boxart/original/front/24895-1.png</boxart>
+<clearlogo width="400" height="150">clearlogo/24895.png</clearlogo></Images>
+</Game>
+</Data>

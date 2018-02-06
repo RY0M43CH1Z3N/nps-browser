@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21092</id>
+<GameTitle>Freedom Wars</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/31/2014</ReleaseDate>
+<Overview>Fight Your Way To Freedom! In the not-too-distant future, atmospheric pollution has devastated the earth and resources have become scarce. Harsh new penal communities have formed in order to survive... The communities, known as Panopticons, battle to secure what precious few resources remain.
+
+Born into incarceration, you are forced to fight for your freedom in dangerous missions. Work together with up to 4-player co-op in a frenetic blend of action and strategy as you fight to rescue civilians in possession of valuable rival Panopticon knowledge. Complete your missions, reduce your sentence, earn your freedom.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Publisher>Sony</Publisher>
+<Developer>SCE Japan Studio</Developer>
+<Images>
+<boxart side="front" width="1548" height="1969" thumb="boxart/thumb/original/front/21092-1.jpg">boxart/original/front/21092-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38556</id>
+<GameTitle>Soldner-X 2: Final Prototype</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/29/2016</ReleaseDate>
+<Overview>In Soldner-X 2: Final Prototype, you will return to Gota IV as part of the Soldner-X defense force. Mankind will once more rely on your battle against new mysterious powers. Staged across seven unique action-loaded levels accompanied with an adrenaline pumping soundtrack, Soldner-X 2: Final Prototype combines traditional 2D gameplay with detailed high definition graphics and a taste of fresh innovations</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Limited Run Games</Publisher>
+<Developer>Eastasiasoft</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>16659</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="540" height="600" thumb="boxart/thumb/original/front/38556-1.png">boxart/original/front/38556-1.png</boxart>
+</Images>
+</Game>
+</Data>

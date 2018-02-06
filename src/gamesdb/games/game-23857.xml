@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23857</id>
+<GameTitle>Tales of Hearts R</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Overview>Kor Meteor is a young man living in a small village by the sea who trains with his grandfather in the ways of the sword. Impressed by Kor's growing skill, his grandfather bequeaths to him an unusual weapon known as a Soma. Kor meets a young woman, Kohaku Hearts who is looking for a Soma weapon along with her brother Hisui. During their search, a mysterious witch appears and casts a spell on Kohaku's Spiria, the embodiment of her heart and soul. Kor attempts to lift the spell by connecting to her Spiria but accidentally shatters her Spiria Core, the source of all her emotions. Kor, armed only with the Soma given to him by his grandfather, must now set out on a journey to find a way to make Kohaku's Spiria whole once more.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Bandai Namco Games</Publisher>
+<Developer>7thChord</Developer>
+<Images>
+<boxart side="back" width="640" height="802" thumb="boxart/thumb/original/back/23857-1.jpg">boxart/original/back/23857-1.jpg</boxart>
+<boxart side="front" width="640" height="830" thumb="boxart/thumb/original/front/23857-1.jpg">boxart/original/front/23857-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

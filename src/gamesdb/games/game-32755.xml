@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>32755</id>
+<GameTitle>Pixeljunk Monsters Ultimate HD</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/30/2013</ReleaseDate>
+<Overview>The definitive PixelJunk Monsters experience!
+Tikiman the Forest Defender is in trouble. Hordes of monsters are sweeping through his realm, hoping to chow down on his offspring – and it’s up to you to defend them.
+ 
+By placing weapon towers at strategic points around the landscape, you can destroy the invaders and save the little ones. Collect treasure along the way to build up your arsenal and pay for new towers – countless waves of monsters are out to get the babies, so you need to be prepared to battle!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=DZWW6D7Ri6k</Youtube>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Q-Games, Double Eleven</Developer>
+<Images>
+<boxart side="front" width="1140" height="1477" thumb="boxart/thumb/original/front/32755-1.jpg">boxart/original/front/32755-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

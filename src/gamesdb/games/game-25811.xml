@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25811</id>
+<GameTitle>Helldivers</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Helldivers is a top-down shooter game developed by Arrowhead Game Studios. The game was released for the PlayStation 3, PlayStation 4 and PlayStation Vita with cross-play, on March 3, 2015 in North America and on March 4, 2015 in Europe, respectively.[4] A version for Microsoft Windows was also announced and released via Steam on December 7, 2015. It features couch or online co-op, or a combination of both, for up to four players. Helldivers takes inspiration from military science fiction such as Aliens and Starship Troopers. While solo play is possible, the intent is for two to four players to cooperate on missions to enemy-controlled planets. Almost every weapon or tool accessible to players can hurt their teammates, making discipline and coordination paramount.</Overview>
+<Co-op>No</Co-op>
+<Publisher>SCEI</Publisher>
+<Developer>Arrowhead Game Studios</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>33633</id><PlatformId>1</PlatformId></Game><Game><id>25809</id><PlatformId>12</PlatformId></Game><Game><id>25810</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="529" height="685" thumb="boxart/thumb/original/front/25811-1.jpg">boxart/original/front/25811-1.jpg</boxart>
+<clearlogo width="400" height="200">clearlogo/25811.png</clearlogo></Images>
+</Game>
+</Data>

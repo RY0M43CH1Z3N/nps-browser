@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19154</id>
+<GameTitle>Demon Gaze</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/22/2014</ReleaseDate>
+<Overview>Oz awakens to find himself in Misred—a cursed land at the world's western frontier—with a dark shroud covering certain memories of his past. The land before him contains many labyrinths that hold both treasure and danger in equal volumes. Without knowing where else to go or what else to do, Oz decides to take up arms in order to hunt down artifacts and eke out a living in this world that feels so new to him. One day, he will have to face his past, but until then, he has no choice but to trust those around him, and in his newfound abilities as a “Demon Gazer”...</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>NIS America</Publisher>
+<Developer>Kadokawa Games</Developer>
+<Images>
+<boxart side="front" width="640" height="818" thumb="boxart/thumb/original/front/19154-1.jpg">boxart/original/front/19154-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

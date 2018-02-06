@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14437</id>
+<GameTitle>Phantasy Star Online 2</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/31/2013</ReleaseDate>
+<Overview>The original Phantasy Star Online for Sega Dreamcast was a dream RPG, with classic, hard-as-nails battling amidst your online friends. More than 10 years later we're getting a proper sequel, and we're excited as anything.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>MMO</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=zddvqtj5xSs</Youtube>
+<Publisher>Sega</Publisher>
+<Developer>Sega</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>26130</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="600" height="600" thumb="boxart/thumb/original/front/14437-1.jpg">boxart/original/front/14437-1.jpg</boxart>
+<screenshot>
+<original width="1280" height="720">screenshots/14437-1.jpg</original>
+<thumb>screenshots/thumb/14437-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="651" height="358">screenshots/14437-2.jpg</original>
+<thumb>screenshots/thumb/14437-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="200">clearlogo/14437.png</clearlogo></Images>
+</Game>
+</Data>

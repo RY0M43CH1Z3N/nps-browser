@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39829</id>
+<GameTitle>Hatsune Miku: Project Diva X</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Images>
+<boxart side="front" width="1156" height="1475" thumb="boxart/thumb/original/front/39829-1.jpg">boxart/original/front/39829-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

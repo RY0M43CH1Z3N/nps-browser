@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12567</id>
+<GameTitle>LEGO The Lord of the Rings</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/13/2012</ReleaseDate>
+<Overview>LEGO The Lord of the Rings is based on The Lord of the Rings motion picture trilogy and relives the Fellowship's astonishing adventure across the imaginative world created by J.R.R. Tolkien, but with the added fun, humor and creativity that fans can expect from the LEGO videogame franchise. Featuring dialogue from the films, players will experience the same cinematic thrills and excitement they witnessed in the award-winning film series. Whether longtime fans, or newcomers to the The Lord of the Rings saga, family members of all ages will undoubtedly enjoy the humorous, playful touch that TT Games has imparted upon this epic story.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=5hOVFJRBqEw</Youtube>
+<Publisher>WB Games</Publisher>
+<Developer>Traveller's Tales Ltd.</Developer>
+<Similar><SimilarCount>6</SimilarCount><Game><id>12291</id><PlatformId>15</PlatformId></Game><Game><id>12997</id><PlatformId>4912</PlatformId></Game><Game><id>24316</id><PlatformId>8</PlatformId></Game><Game><id>13739</id><PlatformId>9</PlatformId></Game><Game><id>13101</id><PlatformId>1</PlatformId></Game><Game><id>12568</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12567-1.jpg</original>
+<thumb>fanart/thumb/12567-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12567-2.jpg</original>
+<thumb>fanart/thumb/12567-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="809" thumb="boxart/thumb/original/front/12567-1.jpg">boxart/original/front/12567-1.jpg</boxart>
+<banner width="760" height="140">graphical/12567-g.jpg</banner><banner width="760" height="140">graphical/12567-g2.jpg</banner><clearlogo width="400" height="100">clearlogo/12567.png</clearlogo></Images>
+</Game>
+</Data>

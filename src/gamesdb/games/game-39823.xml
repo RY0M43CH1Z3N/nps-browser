@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39823</id>
+<GameTitle>Aegis of Earth Protonovus Assault</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/39823-1.jpg">boxart/original/front/39823-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

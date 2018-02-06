@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23782</id>
+<GameTitle>Doki-Doki Universe</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/10/2013</ReleaseDate>
+<Overview>Doki-Doki Universe is a video game published and developed by HumaNature Studios for the PlayStation 4, PlayStation 3, and PlayStation Vita. The game is unique because it is essentially a large interactive personality test. The game starts with a robot named QT3 and a talking red balloon accidentally getting left on an asteroid by a human family traveling through space. Roughly forty years later Alien Jeff locates QT3 and informs him that his model is being discontinued for lacking humanity. Alien Jeff has been tasked with determining if QT3, an emotionless and obedient robot, is capable of learning humanity. Alien Jeff then takes QT3 and Balloon to a planet called home.</Overview>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>HumaNature Studios</Publisher>
+<Developer>HumaNature Studios</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>23781</id><PlatformId>12</PlatformId></Game><Game><id>22545</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1024" height="576" thumb="boxart/thumb/original/front/23782-1.jpg">boxart/original/front/23782-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

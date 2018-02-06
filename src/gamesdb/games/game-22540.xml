@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22540</id>
+<GameTitle>J-Stars Victory Vs</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/19/2014</ReleaseDate>
+<Overview>Your favorite Shonen Jump heroes jump off the page and duke it out on your screen in J-Stars Victory VS, a 2v2 brawler that features an insane roster filled with manga &amp; anime stars. J-Stars Victory Vs+ invites fans and gamers to play with their favorite manga/anime characters and progress in the JUMP World through different environments recalling Naruto, Dragon Ball Z, One Piece and other memorable moments for every manga and anime fan.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=rJIlDD7QmII</Youtube>
+<Publisher>Bandai Namco Games</Publisher>
+<Developer>Bandai Namco Games</Developer>
+<Images>
+<boxart side="front" width="500" height="637" thumb="boxart/thumb/original/front/22540-1.jpg">boxart/original/front/22540-1.jpg</boxart>
+<screenshot>
+<original width="600" height="338">screenshots/22540-1.jpg</original>
+<thumb>screenshots/thumb/22540-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16624</id>
+<GameTitle>Ragnarok Odyssey Mercenary Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Overview>Ragnarok Odyssey is an Action Role-Playing game (RPG) for PlayStation Vita, that is set in a unique environment based in Norse mythology. Loosely built upon the world of the South Korean MMORPG Ragnarok Online, Ragnarok Odyssey challenges players to protect their home of Rune Midgard from a rampaging mass of invading giants, set on destruction. To do so they will have to master a challenging battle system full of fluid combos and chain attacks, and enlist the help of friends online. Additional features include: deep character customization, six job classes, and beautiful cutscenes that take advantage of the PS Vita's superior graphics capabilities.
+
+Mercenary Edition Items Included
+
+Ragnarok Odyssey for PlayStation Vita
+CD game soundtrack
+The "Guild of Midgard Mercenary Guide" containing art and strategy tips
+A pack of 10 monster cards</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Publisher>xSeed Games</Publisher>
+<Developer>GameTek</Developer>
+<Images>
+<boxart side="front" width="373" height="473" thumb="boxart/thumb/original/front/16624-1.jpg">boxart/original/front/16624-1.jpg</boxart>
+<screenshot>
+<original width="1500" height="1352">screenshots/16624-1.jpg</original>
+<thumb>screenshots/thumb/16624-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

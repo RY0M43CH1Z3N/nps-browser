@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>27458</id>
+<GameTitle>Axiom Verge</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Developer>Tom Happ</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>27456</id><PlatformId>15</PlatformId></Game><Game><id>27455</id><PlatformId>1</PlatformId></Game><Game><id>27457</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="494" height="522" thumb="boxart/thumb/original/front/27458-1.png">boxart/original/front/27458-1.png</boxart>
+</Images>
+</Game>
+</Data>

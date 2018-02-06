@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40453</id>
+<GameTitle>Farming Simulator 14</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/24/2014</ReleaseDate>
+<Overview>Welcome to the greatest farming simulation ever made! Farming Simulator invites you into the demanding world of a modern day farmer with BRAND NEW content and vehicles. Take on all the challenges of farming life. Breed animals, harvest and sell crops, and advance in your career as you manage your own farm in a huge open world! A brand new American farming environment in addition to the pre-existing European farm Loads of challenges representative of a true farmer's life New animals to breed and crops to grow Large tractors and farming machines faithfully modeled after true farming brands such as Case IH, Deutz-Fahr, Lamborghini, Same, and Horsh. The ability to create your dream farm in an open world full of possibilities.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Construction and Management Simulation</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Focus Home Interactive</Publisher>
+<Developer>Giants Software</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>42697</id><PlatformId>4912</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1000" height="1293" thumb="boxart/thumb/original/front/40453-1.jpg">boxart/original/front/40453-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

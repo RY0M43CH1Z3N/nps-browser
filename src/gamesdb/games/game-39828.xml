@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39828</id>
+<GameTitle>MLB 14: The Show </GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Similar><SimilarCount>1</SimilarCount><Game><id>28587</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1169" height="1489" thumb="boxart/thumb/original/front/39828-1.jpg">boxart/original/front/39828-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

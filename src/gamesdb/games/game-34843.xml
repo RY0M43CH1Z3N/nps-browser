@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34843</id>
+<GameTitle>LEGO Marvel's Avengers</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/26/2016</ReleaseDate>
+<Overview>Avengers Assemble! Experience the first console videogame featuring characters and storylines from the blockbuster film Marvel’s The Avengers and the much anticipated sequel Marvel’s Avengers: Age of Ultron, and more. Play as the most powerful Super Heroes in their quest to save humanity.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Warner Bros. Interactive Entertainment</Publisher>
+<Developer>TT Games</Developer>
+<Similar><SimilarCount>7</SimilarCount><Game><id>34837</id><PlatformId>15</PlatformId></Game><Game><id>34840</id><PlatformId>4920</PlatformId></Game><Game><id>34844</id><PlatformId>4912</PlatformId></Game><Game><id>34842</id><PlatformId>38</PlatformId></Game><Game><id>34838</id><PlatformId>1</PlatformId></Game><Game><id>34841</id><PlatformId>12</PlatformId></Game><Game><id>34839</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1029" height="1320" thumb="boxart/thumb/original/front/34843-1.png">boxart/original/front/34843-1.png</boxart>
+</Images>
+</Game>
+</Data>

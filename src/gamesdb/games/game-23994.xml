@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23994</id>
+<GameTitle>LEGO Batman 3: Beyond Gotham</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Overview>The best-selling LEGO Batman videogame franchise returns in an out-of-this-world, action-packed adventure! In LEGO Batman 3: Beyond Gotham, the Caped Crusader joins forces with the super heroes of the DC Comics universe and blasts off to outer space to stop the evil Brainiac from destroying Earth. Using the power of the Lantern Rings, Brainiac shrinks worlds to add to his twisted collection of miniature cities from across the universe. Now the greatest super heroes and the most cunning villains must unite and journey to different Lantern Worlds to collect the Lantern Rings and stop Brainiac before it's too late.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Traveller's Tales Ltd.</Publisher>
+<Developer>WB Games</Developer>
+<Similar><SimilarCount>7</SimilarCount><Game><id>22680</id><PlatformId>15</PlatformId></Game><Game><id>23926</id><PlatformId>4920</PlatformId></Game><Game><id>23593</id><PlatformId>4912</PlatformId></Game><Game><id>23592</id><PlatformId>38</PlatformId></Game><Game><id>25080</id><PlatformId>1</PlatformId></Game><Game><id>24960</id><PlatformId>12</PlatformId></Game><Game><id>23993</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1032" height="1321" thumb="boxart/thumb/original/front/23994-1.png">boxart/original/front/23994-1.png</boxart>
+<clearlogo width="400" height="200">clearlogo/23994.png</clearlogo></Images>
+</Game>
+</Data>

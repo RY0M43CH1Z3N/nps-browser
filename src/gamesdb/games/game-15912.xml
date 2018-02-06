@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15912</id>
+<GameTitle>Moe Moe Daisensou * Gendaiban++</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/02/2012</ReleaseDate>
+<Genres><genre>Action</genre><genre>Strategy</genre></Genres><Co-op>No</Co-op>
+<Publisher>SystemSoft</Publisher>
+<Developer>SystemSoft</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>15911</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1157" height="1474" thumb="boxart/thumb/original/front/15912-1.jpg">boxart/original/front/15912-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

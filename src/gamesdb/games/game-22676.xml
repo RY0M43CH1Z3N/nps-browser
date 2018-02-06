@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22676</id>
+<GameTitle>Hohokum</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/12/2014</ReleaseDate>
+<Overview>Hohokum is an art video game by British developer Honeyslug in collaboration with artist Richard Hogg and Sony Santa Monica for PlayStation 3, PlayStation 4, and PlayStation Vita. The player controls a snakelike creature to explore 17 whimsical worlds with no set objectives. The developers, who began development in 2008, compared the concept to flying a kite and were inspired by free London museums, Portmeiron, and indigenous cultures. It features a soundtrack by Ghostly International artists and was released on August 12, 2014. The game received "mixed or average reviews", according to video game review score aggregator Metacritic.[2] Critics appreciated the game's presentation, including its art and music, but felt that the gameplay turned to drudgery towards its end and that the objectives were too vague.</Overview>
+<Genres><genre>Adventure</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Du5K_CtwSm8</Youtube>
+<Publisher>Sony</Publisher>
+<Developer>Honeyslug</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>22674</id><PlatformId>12</PlatformId></Game><Game><id>22675</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/22676-1.jpg</original>
+<thumb>fanart/thumb/22676-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="1000" height="1000" thumb="boxart/thumb/original/front/22676-1.jpg">boxart/original/front/22676-1.jpg</boxart>
+<screenshot>
+<original width="1920" height="1080">screenshots/22676-1.jpg</original>
+<thumb>screenshots/thumb/22676-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/22676-2.jpg</original>
+<thumb>screenshots/thumb/22676-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

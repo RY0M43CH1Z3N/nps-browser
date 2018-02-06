@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21562</id>
+<GameTitle>Machinarium</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/26/2013</ReleaseDate>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Amanita Design</Publisher>
+<Developer>Amanita Design</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>35995</id><PlatformId>4916</PlatformId></Game><Game><id>2261</id><PlatformId>9</PlatformId></Game><Game><id>5507</id><PlatformId>1</PlatformId></Game><Game><id>11129</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="405" height="548" thumb="boxart/thumb/original/front/21562-1.jpg">boxart/original/front/21562-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

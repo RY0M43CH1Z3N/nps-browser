@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34675</id>
+<GameTitle>Earth Defense Force 2: Invaders from Planet Space</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/08/2015</ReleaseDate>
+<Overview>Terror in Tokyo! Evil in England! Aliens from another world have spread their tentacles worldwide, and only you, brave soldiers of the Earth Defense Force, can save the day.
+
+Charge into battle as a proud member of the EDF's Infantry, expertly trained in weapons of all kinds. Take control of the battlefield as an Air Raider, with cunning traps, massive bombardments and superior driving skills. Or soar above the battlefield as a Pale Wing, wielding reverse-engineered alien weapons against their villainous makers!
+
+Survive over 70 missions, wield over 500 weapons, join forces with up to three squadmates online, and beat the aliens so hard they'll never even think of coming back!
+
+Now and forever, we are the Earth Defense Force!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=4tlP0MLg8pU</Youtube>
+<Publisher>Xseed</Publisher>
+<Developer>Sandlot</Developer>
+<Images>
+<boxart side="front" width="394" height="500" thumb="boxart/thumb/original/front/34675-1.jpg">boxart/original/front/34675-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

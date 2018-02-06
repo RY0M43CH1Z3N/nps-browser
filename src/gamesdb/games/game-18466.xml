@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>18466</id>
+<GameTitle>Sorcery Saga: The Curse of the Great Curry God</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/10/2013</ReleaseDate>
+<Overview>Sorcery Saga: Curse of the Great Curry God is a curry-licious dungeon crawler RPG for the PlayStation®Vita system! Play as Pupuru, a young, ambitious girl on a quest to obtain ingredients for the legendary curry to save her friend’s restaurant. With the help of the moody creature Kuu and the noncommittal Puni, she’ll have to defeat the host of weird, sometimes appetizing creatures that stand in her way! But beware, once you enter a dungeon, Pupuru will need all her skills to fight fore if she falls, her levels and items obtained will disappear! Get ready for a truly delectable storyline with a side of awesome, challenging gameplay!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Compile Heart</Developer>
+<Images>
+<boxart side="front" width="469" height="599" thumb="boxart/thumb/original/front/18466-1.png">boxart/original/front/18466-1.png</boxart>
+</Images>
+</Game>
+</Data>

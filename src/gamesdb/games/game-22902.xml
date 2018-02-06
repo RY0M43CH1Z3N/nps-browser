@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22902</id>
+<GameTitle>The Sly Collection</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/27/2014</ReleaseDate>
+<Overview>The Sly Collection features three PlayStation®2 action-packed classic hits: Sly Cooper and the Thievius Racconus, Sly 2: Band of Thieves and Sly 3: Honor Among Thieves fully remastered in high definition, and optimized for the PlayStation®Vita system.
+
+The Sly Collection sees the mischievous raccoon and his gang of eccentric friends pull off daring heists in this entertaining platformer adventure. Packed full with mini-games and thrilling missions from across the globe, The Sly Collection masterfully blends stealth, thievery, combat, strategy and exploration into one huge world.
+
+Re-mastered versions of all three Sly Cooper games in High Definition and optimized for the PS Vita system:
+Sly Cooper and the Thievius Raccoonus
+Sly 2: Band of Thieves
+Sly 3: Honor Among Thieves</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Rating>9</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>12816</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="600" height="780" thumb="boxart/thumb/original/front/22902-1.jpg">boxart/original/front/22902-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21149</id>
+<GameTitle>Akiba's Trip: Undead &amp; Undressed</GameTitle>
+<AlternateTitles><title>Akiba's Trip 2</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/05/2014</ReleaseDate>
+<Overview>AKIBA'S TRIP: Undead &amp; Undressed is an open-world action RPG in which players undertake numerous missions in a virtual recreation of Akihabara, Tokyo's popular ”Electric Town” district. The player's goal is to identify vampires called “Synthesizers” with the help of an in-game smartphone app, then engage them in battle to strip their clothes off so their bodies are fully exposed to sunlight. Boasting a unique combat system in which everyday objects become weapons, multiple story routes, a varied cast of characters based on common anime and video game tropes and a narrative dripping with social satire and subtle nods to Japanese pop culture, AKIBA'S TRIP is a present-day supernatural adventure for the gamer in all of us.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=b36twroFbR8</Youtube>
+<Publisher>Xseed Games</Publisher>
+<Developer>Acquire</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>32265</id><PlatformId>1</PlatformId></Game><Game><id>22959</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="817" thumb="boxart/thumb/original/front/21149-1.jpg">boxart/original/front/21149-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

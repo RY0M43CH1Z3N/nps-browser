@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16235</id>
+<GameTitle>Pro Yakyuu Spirits 2012</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/29/2012</ReleaseDate>
+<Overview>Japan</Overview>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>16233</id><PlatformId>12</PlatformId></Game><Game><id>16234</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/16235-1.jpg">boxart/original/front/16235-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

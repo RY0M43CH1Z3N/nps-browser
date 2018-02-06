@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14873</id>
+<GameTitle>Uncharted: Fight for Fortune</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/04/2012</ReleaseDate>
+<Overview>Uncharted: Fight For Fortune is an action-adventure turn-based card game featuring the heroes and villains from the Uncharted universe. The core gameplay in Uncharted: Fight for Fortune involves creating a team of Faction cards featuring heroes, villains, and mercenaries from the Uncharted universe, then using that team to defeat your opponent while defending yourself from their attacks. Each Faction card can be equipped with powerful Resource and valuable Fortune cards, which enhance their stats and give them special abilities. Once you've selected and equipped a card, it’s time to head into battle! During combat, attacks either reduce the health of opposing Faction cards or the health of your opponent. Defeating an opposing Faction card removes it from play, while reducing the health of your opponent to zero wins you the game.
+
+This downloadable game connects up with the hit PlayStation Vita game Uncharted: Golden Abyss for players who want to further expand their card set. Using the 300 artifacts that can be found within Golden Abyss, you can go to battle with other players as well as AI opponents. The game can also be played independently of Golden Abyss, so owning the PS Vita title is not required.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Puzzle</genre><genre>Strategy</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=OK-WEnP0zu0</Youtube>
+<Publisher>Sony</Publisher>
+<Developer>One Loop Games</Developer>
+<Rating>6</Rating><Images>
+<boxart side="front" width="610" height="714" thumb="boxart/thumb/original/front/14873-1.jpg">boxart/original/front/14873-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

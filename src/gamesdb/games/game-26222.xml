@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26222</id>
+<GameTitle>Hyperdimension Neptunia Re;Birth 3: V Generation</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/30/2015</ReleaseDate>
+<Overview>A remake of Hyper dimension Neptunia Victory for the PlayStation 3 computer entertainment system, this new version features more story, more scenarios, and extra heapings of fourth-wall-breaking comedy. It's time to Nep-Nep like it's 1989. Neptune's been sucked into an alternate dimension of Gamindustri. In order for her to escape from this late '80s world, Neptune will have to collect enough shares to open up the path to her own dimension. Sounds easy enough - except a nefarious alliance called the Seven Sages wants to rid Gamindustri of all CPUs, including Neptune. Forging cross-dimensional friendships, will Neptune be able to defeat the Seven Sages, save this alternate dimension and get back to her own, or will she be stuck in the '80s forever?</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Atlus</Publisher>
+<Developer>Idea Factory</Developer>
+<Images>
+<boxart side="front" width="1144" height="1500" thumb="boxart/thumb/original/front/26222-1.jpg">boxart/original/front/26222-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

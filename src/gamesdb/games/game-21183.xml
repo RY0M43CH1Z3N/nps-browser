@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21183</id>
+<GameTitle>Child of Light</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/02/2014</ReleaseDate>
+<Overview>The kingdom of Lemuria is in despair The Black Queen has stolen the Sun, the Moon and the Stars. You play as Aurora, a young princess with a pure heart whose soul is brought to the kingdom of Lemuria. Embark on a quest to recapture the three sources of light, defeat the Black Queen and restore the kingdom of Lemuria.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Adventure</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=W0vH-9htkpI</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Montreal</Developer>
+<Similar><SimilarCount>6</SimilarCount><Game><id>20131</id><PlatformId>15</PlatformId></Game><Game><id>20130</id><PlatformId>4920</PlatformId></Game><Game><id>20129</id><PlatformId>38</PlatformId></Game><Game><id>20132</id><PlatformId>1</PlatformId></Game><Game><id>20128</id><PlatformId>12</PlatformId></Game><Game><id>20127</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/21183-1.jpg</original>
+<thumb>fanart/thumb/21183-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/21183-2.jpg</original>
+<thumb>fanart/thumb/21183-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="300" height="425" thumb="boxart/thumb/original/front/21183-1.jpg">boxart/original/front/21183-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

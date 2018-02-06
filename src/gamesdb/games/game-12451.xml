@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12451</id>
+<GameTitle>Spy Hunter</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/09/2012</ReleaseDate>
+<Overview>Spy Hunter is a 1983 arcade game developed and released by Bally Midway.[1]
+
+The game draws inspiration from the James Bond films and was originally supposed to carry the James Bond license. The object of the game is to drive down roads in the technologically advanced "Interceptor" car and destroy various enemy vehicles with a variety of onboard weapons. Spy Hunter was produced in both sit-down and standard upright versions with the latter being more common.[1] The game's controls consist of a steering wheel in the form of a futuristic aircraft-style yoke with several special-purpose buttons, a two-position stick shift (offering 'low' and 'high' gears), and a pedal used for acceleration.
+
+Spy Hunter was also ported to various home computers and video game systems. The game was followed by a pinball spin-off, a sequel that added two-player split-screen play and a successor series of games bearing the Spy Hunter name.</Overview>
+<Genres><genre>Action</genre><genre>Racing</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Similar><SimilarCount>12</SimilarCount><Game><id>8824</id><PlatformId>23</PlatformId></Game><Game><id>22182</id><PlatformId>22</PlatformId></Game><Game><id>5216</id><PlatformId>26</PlatformId></Game><Game><id>32934</id><PlatformId>31</PlatformId></Game><Game><id>6409</id><PlatformId>40</PlatformId></Game><Game><id>14445</id><PlatformId>37</PlatformId></Game><Game><id>13179</id><PlatformId>4912</PlatformId></Game><Game><id>2106</id><PlatformId>7</PlatformId></Game><Game><id>3702</id><PlatformId>5</PlatformId></Game><Game><id>11463</id><PlatformId>2</PlatformId></Game><Game><id>26166</id><PlatformId>4913</PlatformId></Game><Game><id>9799</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="front" width="230" height="300" thumb="boxart/thumb/original/front/12451-1.jpg">boxart/original/front/12451-1.jpg</boxart>
+<clearlogo width="400" height="99">clearlogo/12451.png</clearlogo></Images>
+</Game>
+</Data>

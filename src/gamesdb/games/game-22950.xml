@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22950</id>
+<GameTitle>Disgaea 4: A Promise Revisited</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/12/2014</ReleaseDate>
+<Overview>Disgaea 4: A Promise Revisited is a port of Disgaea 4: A Promise Unforgotten on the Playstation Vita. It contains all of the downloadable content made available in the original PS3 game and also features newly added game content. However some content was also cut out, such as the old SD sprites and voice acting for certain scenes.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Nippon Ichi</Publisher>
+<Developer>Nippon Ichi</Developer>
+<Images>
+<fanart>
+<original width="1280" height="720">fanart/original/22950-1.jpg</original>
+<thumb>fanart/thumb/22950-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/22950-2.jpg</original>
+<thumb>fanart/thumb/22950-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="818" thumb="boxart/thumb/original/front/22950-1.jpg">boxart/original/front/22950-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

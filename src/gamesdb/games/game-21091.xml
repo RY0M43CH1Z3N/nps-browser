@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21091</id>
+<GameTitle>Senran Kagura: Bon Appetit</GameTitle>
+<AlternateTitles><title>Dekamori Senran Kagura</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/31/2014</ReleaseDate>
+<Genres><genre>Action</genre><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Xseed Games</Publisher>
+<Developer>Meteorise</Developer>
+<Images>
+<boxart side="front" width="554" height="313" thumb="boxart/thumb/original/front/21091-1.jpg">boxart/original/front/21091-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

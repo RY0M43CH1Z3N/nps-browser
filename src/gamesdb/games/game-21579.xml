@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21579</id>
+<GameTitle>Rogue Legacy</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/29/2014</ReleaseDate>
+<Genres><genre>Action</genre><genre>Platform</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Cellar Door Games</Publisher>
+<Developer>Cellar Door Games</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>17325</id><PlatformId>1</PlatformId></Game><Game><id>22274</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="480" height="660" thumb="boxart/thumb/original/front/21579-1.png">boxart/original/front/21579-1.png</boxart>
+</Images>
+</Game>
+</Data>

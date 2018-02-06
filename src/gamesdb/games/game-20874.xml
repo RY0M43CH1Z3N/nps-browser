@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20874</id>
+<GameTitle>Cytus Lambda</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/26/2013</ReleaseDate>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Rayark Inc.</Publisher>
+<Developer>Rayark Inc.</Developer>
+<Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/20874-1.jpg">boxart/original/front/20874-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

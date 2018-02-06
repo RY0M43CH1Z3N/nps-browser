@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21339</id>
+<GameTitle>Arcana Heart 3: LOVEMAX!!!!!</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/29/2014</ReleaseDate>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Arc System Works</Publisher>
+<Developer>Examu</Developer>
+<Rating>6</Rating><Images>
+<boxart side="front" width="640" height="814" thumb="boxart/thumb/original/front/21339-1.jpg">boxart/original/front/21339-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

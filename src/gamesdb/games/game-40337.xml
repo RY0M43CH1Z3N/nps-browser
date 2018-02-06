@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40337</id>
+<GameTitle>Exist Archive: The Other Side of The Sky</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/18/2016</ReleaseDate>
+<Overview>Aksys Games, tri-Ace and Spike Chunsoft proudly announce that Exist Archive: The Other Side of the Sky will release 10/18/2016 physically and digitally in North America for the PS4™ system and PlayStation®Vita handheld entertainment system! tri-Ace, architects of the JRPG series Star Ocean and Valkyrie Profile celebrate 20 years of RPG mastery with Exist Archive: The Other Side of the Sky! Prepare for an expansive RPG adventure that plunges the player into a mysterious realm beyond imagination! Brandish godlike powers in intense combo based battles with unspeakable horrors and vicious bosses! Traverse sprawling 2D dungeons as you scour the realm for loot, monsters and answers to the mysterious Underworld.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=6lBuxCt_NzA</Youtube>
+<Publisher>Aksys Games</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>41848</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/40337-1.jpg">boxart/original/front/40337-1.jpg</boxart>
+<banner width="760" height="140">graphical/40337-g.jpg</banner><screenshot>
+<original width="1500" height="844">screenshots/40337-1.jpg</original>
+<thumb>screenshots/thumb/40337-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/40337-2.jpg</original>
+<thumb>screenshots/thumb/40337-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="228">clearlogo/40337.png</clearlogo></Images>
+</Game>
+</Data>

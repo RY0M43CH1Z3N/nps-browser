@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19432</id>
+<GameTitle>Killzone Mercenary</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/10/2013</ReleaseDate>
+<Overview>If you thought the battle lines were clear, you’ve not seen the whole story. Killzone™ Mercenary for the PlayStation®Vita system—winner of IGN’s Best PS Vita Game of E3 2013—throws players into a deadly firefight as part of a ruthless Mercenary faction, one taking on paid contracts from not only the dangerous ISA but the vicious Helghast as well. In Killzone™ Mercenary, there is no good. There is no evil. There is only the mission... and the money.  War is Our Business.
+
+Key Features:
+
+• Full Campaign Mode: Play through 9 massive single-player missions, each with additional challenges and special objectives.
+
+• Breathtaking Graphics: Built on the same Killzone engine used on PlayStation 3 system, Killzone Mercenary has stunning visuals and the smooth gameplay shows off the PS Vita system like no other game.
+
+• Robust Multiplayer: Intense combat for up to 8 players keeps the competition fierce.
+
+• Customize Across Modes: Customize your Merc’s loadout in Campaign and Multiplayer modes with armor, weapons and more. Customizations to your Merc apply to both modes!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=VOV_rVrnezE</Youtube>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Guerrilla Cambridge</Developer>
+<Rating>6.8</Rating><Images>
+<boxart side="front" width="1158" height="1478" thumb="boxart/thumb/original/front/19432-1.jpg">boxart/original/front/19432-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/19432-1.jpg</original>
+<thumb>screenshots/thumb/19432-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-2.jpg</original>
+<thumb>screenshots/thumb/19432-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-3.jpg</original>
+<thumb>screenshots/thumb/19432-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-4.jpg</original>
+<thumb>screenshots/thumb/19432-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-5.jpg</original>
+<thumb>screenshots/thumb/19432-5.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-6.jpg</original>
+<thumb>screenshots/thumb/19432-6.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-7.jpg</original>
+<thumb>screenshots/thumb/19432-7.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/19432-8.jpg</original>
+<thumb>screenshots/thumb/19432-8.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

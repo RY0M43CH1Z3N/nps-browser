@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13320</id>
+<GameTitle>Reality Fighters</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/13/2012</ReleaseDate>
+<Overview>Put yourself in the battle with Reality Fighters™! Use the PlayStation®Vita front and back cameras to scan your face or your friends' faces to create your own personalized fighters with unique visual style. Choose from several distinct (and crazy) fighting styles such as Wrestling, Muay Thai and even Ballet. Compliment your characters with over 400 costume pieces and 40 weapon types. Record original battle cries and victory slogans with the PlayStation®Vita microphone. With augmented reality technology, the world is literally your arena as the stages you brawl in are determined by the environment around you.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=AIDNJViTf4Q</Youtube>
+<Publisher>SCEA</Publisher>
+<Developer>Novarama</Developer>
+<Images>
+<boxart side="front" width="640" height="820" thumb="boxart/thumb/original/front/13320-1.jpg">boxart/original/front/13320-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/13320-1.jpg</original>
+<thumb>screenshots/thumb/13320-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/13320-2.jpg</original>
+<thumb>screenshots/thumb/13320-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

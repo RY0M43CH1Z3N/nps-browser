@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39820</id>
+<GameTitle>Angry Birds Star Wars</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/29/2013</ReleaseDate>
+<Overview>Join an epic adventure with the Angry Birds in the legendary Star Wars universe, re-mastered for gaming systems! Use the Force, wield your Lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star! Can you become a Jedi Master and restore freedom to the galaxy?</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=jIpjeQMh8N0</Youtube>
+<Publisher>Activision</Publisher>
+<Developer>Exient Entertainment</Developer>
+<Similar><SimilarCount>9</SimilarCount><Game><id>18093</id><PlatformId>4916</PlatformId></Game><Game><id>17636</id><PlatformId>4915</PlatformId></Game><Game><id>22559</id><PlatformId>15</PlatformId></Game><Game><id>18237</id><PlatformId>4920</PlatformId></Game><Game><id>18033</id><PlatformId>4912</PlatformId></Game><Game><id>18186</id><PlatformId>9</PlatformId></Game><Game><id>40306</id><PlatformId>38</PlatformId></Game><Game><id>36262</id><PlatformId>12</PlatformId></Game><Game><id>29005</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="600" height="765" thumb="boxart/thumb/original/front/39820-1.jpg">boxart/original/front/39820-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

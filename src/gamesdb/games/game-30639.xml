@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30639</id>
+<GameTitle>Sword Art Online: Lost Song</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/17/2015</ReleaseDate>
+<Overview>Journey into the world of ALfheim Online for the very first time! Join Kirito as he ventures online to explore Start Alfheim, a brand-new area of ALfheim Online, the floating is comprised of continents led by The Floating City of Ryne. This original storyline includes new and returning characters and exclusive environments in the ultimate Virtual Reality universe! Sword Art Online: Lost Song features all-new Aerial Battles and plenty of customization features. Link Start into the Sword Art Online world and join your favorite dual-wielding player, Kirito, on the greatest adventure yet!</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Bandai Namco Games America Inc.</Publisher>
+<Developer>Bandai Namco Games America Inc.</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>32892</id><PlatformId>12</PlatformId></Game><Game><id>30640</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/30639-1.jpg">boxart/original/front/30639-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

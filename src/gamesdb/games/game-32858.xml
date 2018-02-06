@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>32858</id>
+<GameTitle>History: Legends of War</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/07/2013</ReleaseDate>
+<Overview>In this epic turn-based strategy game you will follow the paths of General Patton during WWII, leading your troops to battle while traversing Western Europe's devastated land. Gain prestige points and use them to enhance your army, acquiring advanced weapons and gear. Play through four different types of missions: Attack, Defense, Infiltration, and Sabotage. From the French beaches to Belgium, you will have to prove your worth as a member of Patton's Third Army, and fight for victory!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Ba5f9ShWZu0</Youtube>
+<Publisher>Maximum Family Games</Publisher>
+<Developer>Enigma</Developer>
+<Images>
+<boxart side="front" width="640" height="817" thumb="boxart/thumb/original/front/32858-1.jpg">boxart/original/front/32858-1.jpg</boxart>
+<screenshot>
+<original width="1920" height="1080">screenshots/32858-1.jpg</original>
+<thumb>screenshots/thumb/32858-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

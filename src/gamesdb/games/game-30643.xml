@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30643</id>
+<GameTitle>Code: Realize - Guardian of Rebirth</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/20/2015</ReleaseDate>
+<Overview>Aksys Games and Idea Factory (creators of the Hakuoki series) proudly present Code: Realize ~Guardian of Rebirth~, an adventure/visual novel game that sweeps you off to times long past. A visionary reimagining of Victorian era London melds with steampunk motifs to create a world unlike any seen before. Play as a lonesome youth whose poisonous touch renders swift death unto would be companions. Unravel the secrets of her past with the aid of five unlikely heroes! Code: Realize ~Guardian of Rebirth~ is exclusive only for PS Vita and will release Fall 2015.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Aksys Games, Inc.</Publisher>
+<Developer>Idea Factory</Developer>
+<Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/30643-1.jpg">boxart/original/front/30643-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

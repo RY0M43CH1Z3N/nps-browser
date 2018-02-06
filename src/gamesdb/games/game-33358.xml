@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>33358</id>
+<GameTitle>Dead Nation</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/15/2014</ReleaseDate>
+<Overview>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead.
+
+You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain! It’s time to start the fight back.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=MWjs43Hs82s</Youtube>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>House Marque, Climax Studios</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>18886</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="348" height="404" thumb="boxart/thumb/original/front/33358-1.jpg">boxart/original/front/33358-1.jpg</boxart>
+<screenshot>
+<original width="768" height="432">screenshots/33358-1.jpg</original>
+<thumb>screenshots/thumb/33358-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="266">clearlogo/33358.png</clearlogo></Images>
+</Game>
+</Data>

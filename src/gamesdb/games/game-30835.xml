@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30835</id>
+<GameTitle>Citizens of Earth</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Citizens of Earth is a role-playing video game developed by Eden Industries and published by Atlus for Microsoft Windows, PlayStation 4, PlayStation Vita, Wii U, and the Nintendo 3DS.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>ATLUS</Publisher>
+<Developer>Eden Industries</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>30836</id><PlatformId>4912</PlatformId></Game><Game><id>30833</id><PlatformId>38</PlatformId></Game><Game><id>30832</id><PlatformId>1</PlatformId></Game><Game><id>30834</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="520" height="520" thumb="boxart/thumb/original/front/30835-1.jpg">boxart/original/front/30835-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16780</id>
+<GameTitle>Guacamelee!</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/09/2013</ReleaseDate>
+<Overview>Drinkbox Studios (developers of Mutant Blobs Attack) bring this non-linear platformer and action game to Sony's Playstation Vita and Playstation Network download service exclusively.
+
+Guacamelee! is a Metroid-vania style action-platformer set in a magical Mexican inspired world.
+
+The game draws its inspiration from traditional Mexican culture and folklore, and features many interesting and unique characters. Guacamelee builds upon the classic open-world Metroid-vania style of games, by adding a strong melee combat component, a new dimension switching mechanic, and cooperative same-screen multiplayer for the entire story. The game also blurs the boundaries between combat and platforming by making many of the moves useful and necessary for both of these.
+
+The game features a down on his luck Mexican named Juan Aguacate, who sets out to save the world when El Presidente’s Daughter is kidnapped by an Evil Charro Skeleton. The story takes place in and around a small village in Mexico, and has the player travelling through alternate dimensions: “The World of the Living” and “The World of the Dead” on his quest to rescue the girl he loves.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=4g_9tUz0Xa4</Youtube>
+<Publisher>Drinkbox Studios</Publisher>
+<Developer>Drinkbox Studios</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>16779</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="629" height="640" thumb="boxart/thumb/original/front/16780-1.jpg">boxart/original/front/16780-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/16780-1.jpg</original>
+<thumb>screenshots/thumb/16780-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/16780-2.jpg</original>
+<thumb>screenshots/thumb/16780-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/16780-3.jpg</original>
+<thumb>screenshots/thumb/16780-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

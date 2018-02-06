@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24888</id>
+<GameTitle>LEGO Ninjago Nindroids</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/29/2014</ReleaseDate>
+<Overview>The highly popular LEGO Ninjago videogame franchise is back with high-kicking action and adventure! LEGO Ninjago: Nindroids comes to the Nintendo 3DS and PlayStation Vita this summer. Based on the first five new episodes of the animated TV series, "LEGO Ninjago Rebooted,” players will battle and defend the New Ninjago City where the Ninjas face a technological threat by the evil Overlord and his robotic army of Nindroids. Using swift combo attacks, unique fighting moves, special weapons and new vehicles, the Ninjas must fight with all their might to save Ninjago.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=eDQuAKJZ_g8</Youtube>
+<Publisher>Warner,wb</Publisher>
+<Developer>Warner,wb</Developer>
+<Images>
+<boxart side="front" width="990" height="1257" thumb="boxart/thumb/original/front/24888-1.jpg">boxart/original/front/24888-1.jpg</boxart>
+<clearlogo width="400" height="150">clearlogo/24888.png</clearlogo></Images>
+</Game>
+</Data>

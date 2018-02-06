@@ -1,0 +1,54 @@
+{
+  "Data": {
+    "baseImgUrl": "http://thegamesdb.net/banners/",
+    "Platform": {
+      "id": "PSVITA",
+      "Platform": "Sony Playstation Vita",
+      "console": "http://www.youtube.com/watch?v=39.png",
+      "overview": "The PlayStation Vita is a handheld game console manufactured and marketed by Sony Computer Entertainment. It is the successor to the PlayStation Portable as part of the PlayStation brand of gaming devices. The handheld includes two analog sticks, a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, and supports Bluetooth, Wi-Fi and optional 3G.",
+      "developer": "Sony",
+      "manufacturer": "Sony",
+      "cpu": "4 core ARM Cortex-A9 MPCore",
+      "memory": "512 MB RAM, 128 MB VRAM",
+      "graphics": "4 core SGX543MP4+",
+      "display": "5-inch OLED multi-touch capacitive touchscreen, 24-bit color, 960 × 544 qHD @ 220 ppi",
+      "media": "Cartridge",
+      "maxcontrollers": "1",
+      "Youtube": "http://www.youtube.com/watch?v=VHJXqc5LocY",
+      "Rating": "6.1667",
+      "Images": {
+        "fanart": [
+          {
+            "original": {
+              "-width": "1920",
+              "-height": "1080",
+              "#text": "platform/fanart/39-1.jpg"
+            },
+            "thumb": "platform/fanart/thumb/39-1.jpg"
+          },
+          {
+            "original": {
+              "-width": "1920",
+              "-height": "1080",
+              "#text": "platform/fanart/39-2.jpg"
+            },
+            "thumb": "platform/fanart/thumb/39-2.jpg"
+          }
+        ],
+        "boxart": {
+          "-side": "back",
+          "-width": "1280",
+          "-height": "720",
+          "#text": "platform/boxart/39-1.jpg"
+        },
+        "banner": {
+          "-width": "760",
+          "-height": "140",
+          "#text": "platform/banners/39-1.jpg"
+        },
+        "consoleart": "platform/consoleart/39.png",
+        "controllerart": "platform/controllerart/39.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21561</id>
+<GameTitle>Thomas Was Alone</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/23/2013</ReleaseDate>
+<Overview>Thomas Was Alone is an indie puzzle platformer video game created by Mike Bithell, originally released as a Flash-based browser game in October 2010. The game was expanded and released to Microsoft Windows and OS X systems in July 2012. PlayStation 3 and PlayStation Vita versions with new content were released in April 2013, while a Linux version was released as part of the game's inclusion in a Humble Bundle in May 2013. The game was released for iPad devices in May 2014, and for other iOS devices and Android devices in July 2014. The game was also released on Xbox One, PlayStation 4 and Wii U in November 2014.[1]
+
+In the game, the player controls one or more simple polygon shapes representing several out-of-control artificial intelligence entities, working with the shapes to get each to their individual end points on each level. Each shape is characterized with a unique name and personality, including the eponymous Thomas, which are conveyed to the player through the use of a narrator, voiced by Danny Wallace and whose performance earned the game a BAFTA Games Award.</Overview>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Curve Studios</Publisher>
+<Developer>Mike Bithell</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>17131</id><PlatformId>1</PlatformId></Game><Game><id>23822</id><PlatformId>12</PlatformId></Game><Game><id>40806</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="752" height="1028" thumb="boxart/thumb/original/front/21561-1.jpg">boxart/original/front/21561-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21578</id>
+<GameTitle>Deception IV: Blood Ties</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/25/2014</ReleaseDate>
+<Overview>DECEPTION IV: BLOOD TIES follows the story of Laegrinna, an animated fragment of an imprisoned Devil's soul, as she battles her enemies by mischievously luring them into strategically placed traps. From rolling boulders and spiked walls to spring boards, iron maidens, human cannons, falling bathtubs and banana peels, the player can choose from a multitude of dramatic, sadistic, and comical traps in order to finish off an enemy.
+
+However, simply setting traps is not enough, as they need to be activated in turn. Timing also plays an important role, as an untimely activation could result in Laegrinna falling into her own trap or allowing her rivals to catch her. Depending on the manner in which an enemy is killed or captured, the Devil's three servants - Veruza, Caelea and Lilia (each representing a different aspect of cruelty: Sadistic Torment, Elaborate Death and Humiliating Demise) - reward points and upgraded traps.</Overview>
+<Genres><genre>Action</genre><genre>Puzzle</genre><genre>Role-Playing</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Koei Tecmo Games</Publisher>
+<Developer>Koei Tecmo Games</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>20707</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/21578-1.jpg">boxart/original/front/21578-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

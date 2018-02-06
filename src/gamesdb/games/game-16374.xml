@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16374</id>
+<GameTitle>Rocketbirds: Hardboiled Chicken</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/12/2013</ReleaseDate>
+<Overview>Annihilate an evil penguin regime in Rocketbirds: Hardboiled Chicken, a cinematic platform adventure game offering full solo and co-op campaigns updated and expanded to use the PS Vita system features. Set out on a mission to assassinate the totalitarian penguin leader as Hardboiled Chicken. Solve Puzzles and destroy enemies with a slew of weapons and illuminate the secrets to his past while uncovering the real enemies of Albatropolis. Master fowl play in the co-op campaign as a pair of Budgie commandos on a mission to save the general’s daughter. Many lives will be destroyed, countless penguins will die!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Ratloop</Publisher>
+<Developer>Ratloop</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>15627</id><PlatformId>1</PlatformId></Game><Game><id>16373</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="750" height="380" thumb="boxart/thumb/original/front/16374-1.jpg">boxart/original/front/16374-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

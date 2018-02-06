@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16553</id>
+<GameTitle>Sine Mora</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/20/2012</ReleaseDate>
+<Overview>SINE MORA is a horizontal shoot'em up that provides a unique take on challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, SINE MORA is a gorgeous shmup that offers a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre. With many ways to manipulate time, SINE MORA features over 60 weapon combinations to complete each beatifully-crafted stage that form fits to the player's skills with scaling difficulty. Soundtrack composed by Akira Yamaoka and featuring boss designs by Mahiro Maeda.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=DaO1djQMhF4</Youtube>
+<Publisher>Digital Reality Publishing</Publisher>
+<Developer>Digital Reality</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>16554</id><PlatformId>15</PlatformId></Game><Game><id>15147</id><PlatformId>1</PlatformId></Game><Game><id>16555</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="302" height="167" thumb="boxart/thumb/original/front/16553-1.jpg">boxart/original/front/16553-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40037</id>
+<GameTitle>Stranger of Sword City: Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/26/2016</ReleaseDate>
+<Overview>From the dungeon crawling geniuses behind Demon Gaze, this new title takes a decidedly more Western approach to the traditional dungeon crawler and infuses the game with dark fantasy themes, new gameplay elements, and the ability to compete with fellow players through a leaderboard system. At its core it's a game about death and fighting against vanishing forever. You will discover new meaning in the choices you make to survive against all odds. You will define yourself by the lives of those you leave behind, by the people you align yourself with, and the experiences you have on each new venture into the dark labyrinths that threaten to trap you. Your flight crashes after passing through a mysterious portal. As the sole survivor, you awaken to an unfamiliar land lit by stars you've never seen. This land is Escario, the city of swords. Quickly marked as the Chosen One, the Stranger of Sword City, you must defend this place, and choose your allegiances carefully as you scour the land for a way home.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Experience Inc.</Publisher>
+<Developer>Experience Inc.</Developer>
+<Images>
+<boxart side="front" width="313" height="231" thumb="boxart/thumb/original/front/40037-1.jpg">boxart/original/front/40037-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

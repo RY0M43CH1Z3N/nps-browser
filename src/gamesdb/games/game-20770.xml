@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20770</id>
+<GameTitle>LIMBO</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/21/2010</ReleaseDate>
+<Genres><genre>Platform</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Playdead</Publisher>
+<Developer>Double Eleven</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>41416</id><PlatformId>4916</PlatformId></Game><Game><id>15761</id><PlatformId>37</PlatformId></Game><Game><id>15760</id><PlatformId>15</PlatformId></Game><Game><id>5950</id><PlatformId>1</PlatformId></Game><Game><id>13364</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="219" height="263" thumb="boxart/thumb/original/front/20770-1.jpg">boxart/original/front/20770-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

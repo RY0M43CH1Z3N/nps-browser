@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40002</id>
+<GameTitle>Futuridium EP Deluxe</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>05/09/2016</ReleaseDate>
+<Overview>Futuridium EP Deluxe is a psychedelic retro inspired shoot’em up with a modern twist, that blends together frantic action, puzzle elements, a vibrant low poly aesthetic and an heart pumping electronic soundtrack. As a lone starship pilot lost in a dimensional loop just before a big space battle, with a limited and constantly depleting energy tank, your only hope is to fly as fast as possible over enormous space dreadnoughts, destroying their defenses and the cyan power cubes to get some energy back.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Limited Run Games</Publisher>
+<Developer>MixedBag Sri</Developer>
+<Images>
+<boxart side="front" width="275" height="331" thumb="boxart/thumb/original/front/40002-1.jpg">boxart/original/front/40002-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

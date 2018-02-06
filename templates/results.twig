@@ -1,0 +1,72 @@
+{% extends "base.twig" %}
+
+{% block title %}Page {{ page }}{% endblock %}
+{% block head %}
+    {{ parent() }}
+{% endblock %}
+{% block content %}
+ {% for game in games %}
+ <div class="card">
+  <div class="card-body">
+    <h5 class="card-title">{{ game['Title ID'] }} - {{ game['Name'] }}</h5>
+    <div class="row">
+          <div class="row">
+            <div class="col-md-4">
+              {% if game['Boxarts'] is iterable %}
+                {% for boxart in game['Boxarts'] %}
+                  <img width="150px" src="http://thegamesdb.net/banners/{{ boxart }}"/>
+                {% endfor %}
+              {% else %}
+                  <img width="150px" src="http://thegamesdb.net/banners/{{ game['Boxarts'] }}"/>
+              {% endif %}
+            </div>
+            <div class="col-md-8">
+              <div class="row">
+                <div class="col-md-10">
+                  <div class="row">
+                    <div class="col-md-3">Region: {{ game['Region'] }}</div>
+                    <div class="col-md-5">File Size:
+                      {% if game['File Size'] matches '/^\\d+$/' %}
+                      {{ (game['File Size'] / 1073741824)|round(2, 'floor')}}
+                      {% endif %} GB</div>
+                    <div class="col-md-4">Rating:{{ game['Rating'] }}</div>
+                  </div>
+                </div>
+                <div class="col-md-2"><a href="{{ game['PKG direct link'] }}"><button type="button" class="btn btn-success">Download</button></a></div>
+              </div>
+              <div class="row">
+              <div class="col">{{ game['Overview'] }}</div>
+              </div>
+              <div class="row">
+                <div class="col">Genres:
+                  {% set Genres = game['Genres'] %}
+                  {% for key, genre in Genres %}
+                      {% if Genres.genre is iterable %}
+                          {% for genre in genre %}
+                              {{ genre }},
+                          {% endfor %}
+                      {% else %}
+                          {{ genre }}
+                      {% endif %}
+                  {% endfor %}
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-4">Release Date: {{ game['Release Date'] }}</div>
+                <div class="col-md-4">ESRB: {{ game['ESRB'] }}</div>
+                <div class="col-md-4">Players: {{ game['Players'] }}</div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">Publisher: {{ game['Publisher'] }}</div>
+                <div class="col-md-6">Developer: {{ game['Developer'] }}</div>
+              </div>
+              <div class="row">
+                <div class="col">SHA256: {{ game['SHA256'] }}</div>
+              </div>
+            </div>
+          </div>
+    </div>
+  </div>
+</div>
+    {% endfor %}
+{% endblock %}

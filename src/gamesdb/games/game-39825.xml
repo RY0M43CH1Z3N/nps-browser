@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39825</id>
+<GameTitle>Dead or Alive Xtreme 3 Venus</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Images>
+<boxart side="front" width="598" height="598" thumb="boxart/thumb/original/front/39825-1.jpg">boxart/original/front/39825-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

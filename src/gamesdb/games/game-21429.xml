@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21429</id>
+<GameTitle>Monster Monpiece</GameTitle>
+<AlternateTitles><title>Genkai Tokki Monster Monpiece</title></AlternateTitles><PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/27/2014</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Strategy</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Idea Factory</Publisher>
+<Developer>Compile Heart</Developer>
+<Images>
+<boxart side="front" width="393" height="500" thumb="boxart/thumb/original/front/21429-1.jpg">boxart/original/front/21429-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

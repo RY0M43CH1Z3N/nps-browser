@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39824</id>
+<GameTitle>Gal*Gun: Double Peace</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>1</SimilarCount><Game><id>39383</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="379" height="500" thumb="boxart/thumb/original/front/39824-1.jpg">boxart/original/front/39824-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

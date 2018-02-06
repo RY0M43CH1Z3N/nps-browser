@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21088</id>
+<GameTitle>BlazBlue: Chrono Phantasma</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/24/2014</ReleaseDate>
+<Overview>BlazBlue: Chrono Phantasma, released in Japan as BlazBlue: Chronophantasma (ブレイブルー クロノファンタズマ BureiBurū Kuronofantazuma?), is a 2-D fighting game developed by Arc System Works. It is the third game of the Blazblue series, set after the events of BlazBlue: Continuum Shift. The game was originally to be released first as an arcade game in the fourth quarter of 2012,[3] which was later pushed forward to November 2012.[4] A PlayStation 3 version of the game was released in Japan on October 24, 2013,[5] while it was released in the United States on March 25, 2014. Due to limited hardware and disc space the game was not released on the Xbox 360.[6] An updated version of the game titled BlazBlue: Chrono Phantasma Extend (dubbed as BlazBlue: Chrono Phantasma 2.0 in the Arcade version) was originally released for Arcades in October 2014, and for the PlayStation 3, PlayStation Vita, PlayStation 4, and Xbox One in April 2015.[7] It was released on June 30, 2015 in North America,[8] with the European region version releasing on October 23rd, 2015.[9]</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Arc System Works</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>20706</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="815" thumb="boxart/thumb/original/front/21088-1.jpg">boxart/original/front/21088-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

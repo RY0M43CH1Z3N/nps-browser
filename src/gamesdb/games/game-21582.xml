@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21582</id>
+<GameTitle>Golden Time: Vivid Memories</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/27/2014</ReleaseDate>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Kadokawa Shoten</Publisher>
+<Developer>ASCII Media Works</Developer>
+<Images>
+<boxart side="front" width="491" height="640" thumb="boxart/thumb/original/front/21582-1.jpg">boxart/original/front/21582-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

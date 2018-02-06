@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12446</id>
+<GameTitle>Silent Hill: Book of Memories</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/16/2012</ReleaseDate>
+<Overview>Book of Memories is an all-new game in the Silent Hill series, with a unique premise and storyline. The story begins with a strange book that is received, inside that book is your entire life story to this point, everything that’s ever happened to you; all of your memories. You discover that by altering what’s written… you can actually change the past. You can write your own ideal history.
+
+A departure for the series, with a focus on co-operative multiplayer action rather than traditional Psychological Horror. Players can work together as they explore several different Otherworlds, solving puzzles and defeating creatures to advance through the Nightmares and uncover the truth behind the Book of Memories. Scare rooms, limited resources, and dark atmosphere all return—but in a gameplay package specifically designed to take advantage of the PlayStation®Vita handheld entertainment system.
+
+Book of Memories is a macabre celebration of the best that Silent Hill has to offer. Players will encounter items and Creatures culled from over a decade of Silent Hill lore, including a special someone who walks softly and carries a gigantic knife.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>Konami Digital Entertainment</Publisher>
+<Developer>WayForward Technologies</Developer>
+<Images>
+<boxart side="front" width="233" height="300" thumb="boxart/thumb/original/front/12446-1.jpg">boxart/original/front/12446-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

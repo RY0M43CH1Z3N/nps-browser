@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26235</id>
+<GameTitle>Xblaze Lost: Memories</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/11/2015</ReleaseDate>
+<Overview>Play as the enigmatic pink haired protagonist as she navigates through a weird and wondrous alternate reality with the help of the mysterious Nobody in order to save her sister, who disappeared into this unknown world! While there she is tasked with finding "Memory Fragments", crystallized memories that not only serve as keys that will help her move on and find her sister, but also uncover the identity and story of the person those memories belong to!</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games, Inc.</Publisher>
+<Developer>Aksys Games, Inc.</Developer>
+<Images>
+<boxart side="front" width="1159" height="1478" thumb="boxart/thumb/original/front/26235-1.jpg">boxart/original/front/26235-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

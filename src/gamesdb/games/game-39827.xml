@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39827</id>
+<GameTitle>Criminal Girls 2: Party Favors</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Images>
+<boxart side="front" width="1159" height="1485" thumb="boxart/thumb/original/front/39827-1.jpg">boxart/original/front/39827-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

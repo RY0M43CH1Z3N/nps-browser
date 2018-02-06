@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17275</id>
+<GameTitle>Ys: Memories of Celceta</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/26/2013</ReleaseDate>
+<Overview>A bustling town deep in the frontier at the foot of an endless sea of trees... It is into this wild and untamed setting that a young man collapses, memories gone and only his name to guide him.
+
+Bereft of his past, Adol Cristin wanders the town of Casnan searching for clues to his identity. Joined by an information dealer who claims to have known him, the young adventurer helps rescue doomed miners from a collapse; an act which attracts the attention of the Romun Army general in town. Impressed with their skills, the pair is enlisted to explore the Great Forest and map the vast expanses of Celceta – a task which many have attempted in the past, but from which none have ever returned alive.
+
+Alone in this strange and uncharted frontier, Adol must brave the perilous sea of trees as he struggles to regain his memories and decide whom he can trust, and who is simply attempting to take advantage of his memory loss in order to deceive him...</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>XSEED</Publisher>
+<Developer>Falcom</Developer>
+<Images>
+<boxart side="front" width="233" height="298" thumb="boxart/thumb/original/front/17275-1.png">boxart/original/front/17275-1.png</boxart>
+</Images>
+</Game>
+</Data>

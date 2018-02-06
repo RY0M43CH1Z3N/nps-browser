@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24294</id>
+<GameTitle>Final Horizon</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/02/2014</ReleaseDate>
+<Overview>Final Horizon is a real-time strategy game by Eiconic Games.</Overview>
+<Genres><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>Eiconic Games</Developer>
+<Images>
+<boxart side="front" width="960" height="544" thumb="boxart/thumb/original/front/24294-1.jpg">boxart/original/front/24294-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

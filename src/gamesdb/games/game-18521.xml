@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>18521</id>
+<GameTitle>Tearaway</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/22/2013</ReleaseDate>
+<Overview>Explore a spectacular world held entirely in your hands.
+
+Embark on a unique adventure from the creative minds behind LittleBigPlanet™ with your new friend, the adventurous IOTA or the intrepid ATOI — a papercraft messenger from another dimension with a unique message to deliver — to you!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=UwPAxuVOkQs</Youtube>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>Media Molecule</Developer>
+<Rating>7</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/18521-1.jpg</original>
+<thumb>fanart/thumb/18521-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/18521-2.jpg</original>
+<thumb>fanart/thumb/18521-2.jpg</thumb>
+</fanart>
+<boxart side="front" width="400" height="510" thumb="boxart/thumb/original/front/18521-1.jpg">boxart/original/front/18521-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/18521-1.jpg</original>
+<thumb>screenshots/thumb/18521-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/18521-2.jpg</original>
+<thumb>screenshots/thumb/18521-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/18521-3.jpg</original>
+<thumb>screenshots/thumb/18521-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/18521-4.jpg</original>
+<thumb>screenshots/thumb/18521-4.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="156">clearlogo/18521.png</clearlogo></Images>
+</Game>
+</Data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34413</id>
+<GameTitle>Soul Sacrifice Delta</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Developer>SCE Japan Studio</Developer>
+<Images>
+<boxart side="front" width="199" height="253" thumb="boxart/thumb/original/front/34413-1.jpg">boxart/original/front/34413-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

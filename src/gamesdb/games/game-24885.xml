@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24885</id>
+<GameTitle>Hyperdimension Neptunia Re;Birth 2: Sisters Generation</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/27/2015</ReleaseDate>
+<Overview>Based on Hyper dimension Neptunia mk2 for PlayStation 3, ReBirth 2 offers a new story, a revamped battle system, newly voiced characters, and new playable characters. In 20XX Gamindustri faces a dire crisis. Shops are boarded up, creators are overworked and starving, and death looms. But the CPUs refuse to let this be game over for their world. Gamindustri had severed its ties to the chaotic Lawless Realm long ago. Ever since the advent of the Arfoire Syndicate of International Crime morality has all but vanished. Thus did Gamindustri fall into complete and utter disarray. Those who tire of living in this corrupt world are sent to wander the Gamindustri Graveyard, forever lost.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=YNaSZ_71U1k</Youtube>
+<Publisher>Idea Factory International</Publisher>
+<Developer>Idea Factory</Developer>
+<Images>
+<boxart side="front" width="1153" height="1493" thumb="boxart/thumb/original/front/24885-1.jpg">boxart/original/front/24885-1.jpg</boxart>
+<screenshot>
+<original width="500" height="283">screenshots/24885-1.jpg</original>
+<thumb>screenshots/thumb/24885-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="500" height="283">screenshots/24885-2.jpg</original>
+<thumb>screenshots/thumb/24885-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

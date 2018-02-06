@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Platform>
+	<id>39</id>
+	<Platform>Sony Playstation Vita</Platform>
+	<console>http://www.youtube.com/watch?v=39.png</console>
+	<overview>The PlayStation Vita is a handheld game console manufactured and marketed by Sony Computer Entertainment. It is the successor to the PlayStation Portable as part of the PlayStation brand of gaming devices.
+
+The handheld includes two analog sticks, a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, and supports Bluetooth, Wi-Fi and optional 3G.</overview>
+	<developer>Sony</developer>
+	<manufacturer>Sony</manufacturer>
+	<cpu>4 core ARM Cortex-A9 MPCore</cpu>
+	<memory>512 MB RAM, 128 MB VRAM</memory>
+	<graphics>4 core SGX543MP4+</graphics>
+	<display>5-inch OLED multi-touch capacitive touchscreen, 24-bit color, 960 × 544 qHD @ 220 ppi</display>
+	<media>Cartridge</media>
+	<maxcontrollers>1</maxcontrollers>
+	<Youtube>http://www.youtube.com/watch?v=VHJXqc5LocY</Youtube>
+	<Rating>6.1667</Rating>
+	<Images>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/39-1.jpg</original>
+			<thumb>platform/fanart/thumb/39-1.jpg</thumb>
+		</fanart>
+		<fanart>
+			<original width="1920" height="1080">platform/fanart/39-2.jpg</original>
+			<thumb>platform/fanart/thumb/39-2.jpg</thumb>
+		</fanart>
+		<boxart side="back" width="1280" height="720">platform/boxart/39-1.jpg</boxart>
+		<banner width="760" height="140">platform/banners/39-1.jpg</banner>		<consoleart>platform/consoleart/39.png</consoleart>
+		<controllerart>platform/controllerart/39.png</controllerart>
+	</Images>
+</Platform>
+</Data>

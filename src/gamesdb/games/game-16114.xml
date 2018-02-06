@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16114</id>
+<GameTitle>Oddworld: Munch's Oddysee HD</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/31/2014</ReleaseDate>
+<Overview>It's up to you to help guide Munch in efforts to rescue fellow test creatures. These critters will be forever loyal to Munch and in turn enable his escape . Once free, Munch teams up with Abe and together they are guided by the wisdom of the Almighty Raisin. They are informed as to how to accomplish their goals, but in order to do so, they must work together. For Munch, his dream is to bring back his species from the brink of extinction. For Abe, it is to rescue his Mudokon buddies.
+
+Release date scheduled for sometime in 2014.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Oddworld Inhabitants Inc</Publisher>
+<Developer>Just Add Water</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>10394</id><PlatformId>1</PlatformId></Game><Game><id>16113</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="512" thumb="boxart/thumb/original/front/16114-1.jpg">boxart/original/front/16114-1.jpg</boxart>
+<clearlogo width="400" height="300">clearlogo/16114.png</clearlogo></Images>
+</Game>
+</Data>

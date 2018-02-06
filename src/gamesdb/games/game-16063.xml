@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16063</id>
+<GameTitle>Oddworld: Stranger's Wrath HD</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/18/2012</ReleaseDate>
+<Overview>In the dusty, undeveloped wastelands of Western Mudos, cantankerous townsfolk find their settlements besieged by belligerent outlaws. Along comes Stranger, a tall, dark and enigmatic bounty hunter with a mission to capture troublemakers and scoundrels and return them to civilized townships for incarceration.
+
+But Stranger is keeping a secret and needs expensive surgery to survive. In his quest to earn enough Moolah, Stranger reluctantly accepts the ultimate bounty from the owner of the Mongo River and suddenly his adventure takes a very different turn.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Oddworld Inhabitants Inc</Publisher>
+<Developer>Just Add Water</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>27794</id><PlatformId>1</PlatformId></Game><Game><id>15028</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1024" height="768" thumb="boxart/thumb/original/front/16063-1.jpg">boxart/original/front/16063-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/16063-1.jpg</original>
+<thumb>screenshots/thumb/16063-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/16063-2.jpg</original>
+<thumb>screenshots/thumb/16063-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="300">clearlogo/16063.png</clearlogo></Images>
+</Game>
+</Data>

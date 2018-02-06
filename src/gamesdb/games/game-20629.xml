@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20629</id>
+<GameTitle>The Walking Dead: The Complete First Season</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/20/2013</ReleaseDate>
+<Overview>Summary: The Walking Dead is an award-winning vision of Robert Kirkman's global hit comic book series. Experience the true horror and emotional impact of being a survivor of the undead apocalypse in a zombie game unlike any other. You will meet people and experience events that will impact the story of Deputy Sheriff Rick Grimes, and you will be forced to make decisions that are not only tough, but that will have a direct effect on the story that you experience. The undead are everywhere, but they're not your only problem. Starvation, betrayal, heartbreak and more will challenge you as you attempt to survive in the world of The Walking Dead.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=http://m.youtube.com/</Youtube>
+<Publisher>Sony</Publisher>
+<Developer>TellTale Games</Developer>
+<Rating>7</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>24139</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="342" height="419" thumb="boxart/thumb/original/front/20629-1.jpg">boxart/original/front/20629-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

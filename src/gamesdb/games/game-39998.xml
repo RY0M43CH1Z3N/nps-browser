@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39998</id>
+<GameTitle>Mystery Chronicles: One Way Heroics</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/12/2016</ReleaseDate>
+<Overview>Play your way through the different maps generated with every play through, constantly on the move away from the calamity of light, the Shine Raid, to your left and on your final battle with the Fallen Angel Alma. There's no turning back, once this thrilling one-way adventure begins!</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=LubDxTcd9UU</Youtube>
+<Publisher>Limited Run Games</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Rating>5</Rating><Images>
+<boxart side="front" width="528" height="627" thumb="boxart/thumb/original/front/39998-1.jpg">boxart/original/front/39998-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

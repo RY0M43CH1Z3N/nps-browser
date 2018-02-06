@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12550</id>
+<GameTitle>Zero Escape: Virtue's Last Reward</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/22/2012</ReleaseDate>
+<Overview>Zero Escape: Virtue's Last Reward is a suspense-driven visual novel/puzzle game and spiritual sequel to the hit, 999. Zero has kidnapped nine people and placed them in a warehouse to play the deadly Nonary Game. These seemingly nine strangers have bracelets that will kill them if they don’t play the game correctly. However, how can they trust each other, and do some have ulterior motives? Play as Sigma and decide who to trust and who to betray in this plot twisting visual novel! Who is Zero, why has Sigma been brought here and who exactly are the others? With fully voiced dual language support, mind-bending puzzles and more, solve the mystery that is Zero!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Chunsoft</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>12993</id><PlatformId>4912</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1154" height="1500" thumb="boxart/thumb/original/front/12550-1.jpg">boxart/original/front/12550-1.jpg</boxart>
+<screenshot>
+<original width="576" height="324">screenshots/12550-1.jpg</original>
+<thumb>screenshots/thumb/12550-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

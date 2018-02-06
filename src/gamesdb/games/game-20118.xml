@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20118</id>
+<GameTitle>Final Fantasy X/X-2 HD Remaster</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/26/2013</ReleaseDate>
+<Overview>Final Fantasy X | X-2 HD Remaster, is a high-definition remaster of the role-playing video games Final Fantasy X and Final Fantasy X-2, originally developed and published by Square (now Square Enix) on the PlayStation 2 in 2001 and 2003 respectively. It also features story content previously only found in the International versions, and a new audio drama set a year after the events of X-2. The Chinese studio Virtuos handled large parts of its development, while Square Enix assisted the process and published the collection. It was released for PlayStation 3 and PlayStation Vita in Japan in December 2013 and in North America and Europe in March 2014.
+
+The collection saw graphical and musical revisions and is based on the international versions of both games, making certain special features missing in the original releases accessible to non-Japanese players for the first time. The collection sold favorably in Japan, and has received positive reviews in western territories. Many praised the graphical upgrade and the chance to play through the games on the new platforms. The collection did receive criticism for a few minor upgrade faults, a lower quality in X-2 and some of the collection's added content.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Square Enix</Publisher>
+<Developer>Square Enix</Developer>
+<Rating>6.5</Rating><Images>
+<boxart side="front" width="550" height="700" thumb="boxart/thumb/original/front/20118-1.jpg">boxart/original/front/20118-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20736</id>
+<GameTitle>Hyperdimension Neptunia PP</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/03/2014</ReleaseDate>
+<Overview>You take on the role of the main character, who happens to fall into Gamindustri and is immediately hired by one of the four CPUs-Neptune, Noire, Blanc, and Vert-to be their producer and manage their idol careers. Get your training wheels on, ladies, because a new producer is in town and the fate of Gamindustri hangs in the balance! Will you be able to properly raise these CPUs into idols, or will their citizens be stolen away from them by the popular idol group MOB-48!? Teach these girls to sing, dance, and properly promote themselves to the general populace thanks in part to your expertise in training video game idols back on Earth. As the girls' popularity rises, they will be able to join one another in singing duets, or maybe even come together for a full ensemble!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Life Simulation</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Koei</Publisher>
+<Developer>Tecmo</Developer>
+<Images>
+<boxart side="front" width="1156" height="1476" thumb="boxart/thumb/original/front/20736-1.jpg">boxart/original/front/20736-1.jpg</boxart>
+<screenshot>
+<original width="500" height="283">screenshots/20736-1.jpg</original>
+<thumb>screenshots/thumb/20736-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

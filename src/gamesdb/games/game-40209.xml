@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40209</id>
+<GameTitle>Danganronpa Another Episode: Ultra Despair Girls Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/01/2015</ReleaseDate>
+<Overview>Komaru Naegi is a normal girl, the kind you can find anywhere. She was taken from her family and imprisoned in an apartment during The Tragedy. Even after a year and a half, she has not managed to escape. Komaru has almost completely abandoned hope and has grown to accept her imprisoned life. But one morning, she was forced to learn an even deeper despair when someone suddenly broke down her front door. But it wasn't a hero or a savior...
+
+It was a Monokuma.
+
+After escaping from the merciless Monokuma, Komaru is surprised to see the outside world, a world she hasn't seen in one and a half years. It has become a world of despair, where children controlling Monokumas ruthlessly hunt down adults. Her only hope of survival is the Hacking Gun, given to her by a mysterious stranger, and a girl by the name of Toko Fukawa.
+
+Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra Despair Girls Soundtrack CD, Kurokuma Eyepatch, Kurokuma Tie.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=aEVxS__Kjkk</Youtube>
+<Publisher>NIS America</Publisher>
+<Developer>Spike Chunsoft</Developer>
+<Images>
+<boxart side="front" width="439" height="712" thumb="boxart/thumb/original/front/40209-1.jpg">boxart/original/front/40209-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

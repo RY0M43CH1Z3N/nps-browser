@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12444</id>
+<GameTitle>Shinobido 2: Revenge of Zen</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/21/2012</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Stealth</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Namco Bandai Games</Publisher>
+<Developer>Acquire</Developer>
+<Images>
+<boxart side="front" width="236" height="300" thumb="boxart/thumb/original/front/12444-1.jpg">boxart/original/front/12444-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

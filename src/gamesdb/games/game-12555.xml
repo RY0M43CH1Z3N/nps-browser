@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12555</id>
+<GameTitle>Dungeon Hunter: Alliance</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/14/2012</ReleaseDate>
+<Overview>Dungeon Hunter: Alliance is a hack and slash action role-playing video game developed and publishd by Gameloft in 2011. The game is a sequel to the 2009 iPhone game Dungeon Hunter, with the addition of a multiplayer mode and support for the PlayStation Move controller.[1]</Overview>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>15465</id><PlatformId>37</PlatformId></Game><Game><id>15464</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="470" height="600" thumb="boxart/thumb/original/front/12555-1.jpg">boxart/original/front/12555-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12556</id>
+<GameTitle>Super Monkey Ball: Banana Splitz</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/23/2012</ReleaseDate>
+<Overview>Super Monkey Ball: Banana Splitz; known as Super Monkey Ball: Tokumori Asobita! (スーパーモンキーボール 特盛あそビ～タ！?) in Japan, is a video game released exclusively for the PlayStation Vita by Sega. The game is the tenth release in the Super Monkey Ball series.</Overview>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="618" height="781" thumb="boxart/thumb/original/front/12556-1.jpg">boxart/original/front/12556-1.jpg</boxart>
+<screenshot>
+<original width="298" height="169">screenshots/12556-1.jpg</original>
+<thumb>screenshots/thumb/12556-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

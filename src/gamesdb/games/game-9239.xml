@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>9239</id>
+<GameTitle>ModNation Racers: Road Trip</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>Welcome to the never-ending season of ModNation kart racing, where creativity rules on and off the track. Get on the starting grid of nearly 500,000 tracks available online or just race in our competitive circuit and compete with new dual analog stick racing and three new weapon classes. And with the new touch controls, you can create a new track in seconds and share it with the rest of the world. Buckle up for an endless ride!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Racing</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>SCEA</Publisher>
+<Developer>SCEA</Developer>
+<Rating>6</Rating><Images>
+<boxart side="back" width="1156" height="1472" thumb="boxart/thumb/original/back/9239-1.jpg">boxart/original/back/9239-1.jpg</boxart>
+<boxart side="front" width="1162" height="1472" thumb="boxart/thumb/original/front/9239-1.jpg">boxart/original/front/9239-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

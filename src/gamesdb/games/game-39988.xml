@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39988</id>
+<GameTitle>Sorcery Saga: Hot and Spicy, Everything Nicey Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/10/2013</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Compile Heart</Developer>
+<Rating>7</Rating><Images>
+<boxart side="back" width="1500" height="1159" thumb="boxart/thumb/original/back/39988-1.jpg">boxart/original/back/39988-1.jpg</boxart>
+<boxart side="front" width="215" height="215" thumb="boxart/thumb/original/front/39988-1.jpg">boxart/original/front/39988-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

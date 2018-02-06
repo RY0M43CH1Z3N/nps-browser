@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25627</id>
+<GameTitle>Atelier Ayesha Plus: The Alchemist of Dusk</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/13/2015</ReleaseDate>
+<Overview>Atelier Ayesha Plus: The Alchemist of Dusk tells the stpru of Ayesha Altugle, who after the death of her grandfather and the disappearance of her younger sister Nio, lives alone blending healing cures to sell in her workshop. When she sees a vision of Nio appearing near her empty grave, Ayesha, convinced she is still alive begins her search to save her. The enhanced PlayStation Vita version brings new features including dual audio, bosses from Atelier Escha &amp; Logy: Alchemists of the Dusk Sky, new costumes, a hard mode and the Album missions which unlock exclusive costumes and gameplay features and the ability to change party members at any time. Additionally, almost all content from the original PlayStation 3 version can be carried over.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tecmo Koei</Publisher>
+<Developer>Gust</Developer>
+<Images>
+<boxart side="back" width="1160" height="1467" thumb="boxart/thumb/original/back/25627-1.jpg">boxart/original/back/25627-1.jpg</boxart>
+<boxart side="front" width="1160" height="1497" thumb="boxart/thumb/original/front/25627-1.jpg">boxart/original/front/25627-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

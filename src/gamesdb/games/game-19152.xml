@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19152</id>
+<GameTitle>Toukiden: The Age of Demons</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/11/2014</ReleaseDate>
+<Overview>An expansive fantasy world influenced by historical and traditional Japanese elements. This new franchise casts players in the role of the demon-fighting warrior, known as a Slayer. Starting from the Utakata Village headquarters where they will accept quests, players will venture out to battle monstrous and deadly Oni (demons) before they destroy all of humanity. Players can select party members from a supporting cast of characters, or join together with up to three other players through ad-hoc mode.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Publisher>Tecmo Koei</Publisher>
+<Developer>Omega Force</Developer>
+<Images>
+<boxart side="front" width="256" height="325" thumb="boxart/thumb/original/front/19152-1.jpg">boxart/original/front/19152-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

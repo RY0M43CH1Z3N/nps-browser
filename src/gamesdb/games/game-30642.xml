@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30642</id>
+<GameTitle>Norn9: Var Commons</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/03/2015</ReleaseDate>
+<Overview>While on a school field trip, child prodigy Sorata Suzuhara wanders off after hearing a mysterious song and blacks out. When he comes to, he finds himself in unfamiliar place, and soon encounters a girl who informs him that he’s currently in turn of the century Japan! In order to help him get home, Sorata follows her to a ship that she’s waiting for but when it appears it is not a wooden sailing ship, but a round aircraft that flies using technology that is beyond Sorata’s imagination. Even stranger, he discovers that the other 12 passengers – 3 young women and 9 men – are all supposedly espers with special powers, and are on some kind of journey at the behest of a multinational entity only known as The World. What is the purpose of their journey? What is their destination? Who is The World? Before Sorata can even begin to take stock of his situation, the ship is attacked, and the mystery surrounding the ship only deepens. Delve into the story of the ship and its occupants through the point of views of each of the three girls, and unravel the mysteries trapped within.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Idea Factory</Developer>
+<Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/30642-1.jpg">boxart/original/front/30642-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

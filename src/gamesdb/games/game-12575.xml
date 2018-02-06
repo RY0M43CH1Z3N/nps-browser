@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12575</id>
+<GameTitle>Call of Duty: Black Ops Declassified</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/13/2012</ReleaseDate>
+<Overview>Before the future could be won, history had to be written. Exposing that story exclusively on PlayStation Vita, Call of Duty: Black Ops Declassified explores original fiction in the Call of Duty Black Ops universe with an all-new campaign of Special Ops missions. Optimized for gamers on-the-go, Call of Duty Black Ops: Declassified delivers the most intense handheld Call of Duty experience to date, including both Special Ops Story mode and Multiplayer combat tailored for the PS Vita.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Shooter</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=XCRvGDqBKHI</Youtube>
+<Publisher>Activision</Publisher>
+<Developer>Nihilistic</Developer>
+<Rating>3</Rating><Images>
+<boxart side="front" width="640" height="814" thumb="boxart/thumb/original/front/12575-1.jpg">boxart/original/front/12575-1.jpg</boxart>
+<screenshot>
+<original width="930" height="521">screenshots/12575-1.jpg</original>
+<thumb>screenshots/thumb/12575-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="929" height="518">screenshots/12575-2.jpg</original>
+<thumb>screenshots/thumb/12575-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="930" height="523">screenshots/12575-3.jpg</original>
+<thumb>screenshots/thumb/12575-3.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11746</id>
+<GameTitle>Ragnarok Odyssey</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Overview>Ragnarok Odyssey is set in an original world based on Norse mythology where a battle is being waged between humans and giants after the fall of the gods had previously separated the races. Players create their characters from over 20,000 possible combinations based on customizable physical features, then select one of six specialized job classes. The game's real-time battles are fast and furious as players can fling enemies skyward, follow them into the air for gravity-defying strikes, then finish off the combo by smacking them clear across the stage. Gameplay is driven forward by story-advancing and optional quests, and up to four players can fight together in online co-op mode.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Co-op>Yes</Co-op>
+<Publisher>Xseed Games</Publisher>
+<Developer>Game Arts</Developer>
+<Images>
+<boxart side="front" width="392" height="500" thumb="boxart/thumb/original/front/11746-2.jpg">boxart/original/front/11746-2.jpg</boxart>
+</Images>
+</Game>
+</Data>

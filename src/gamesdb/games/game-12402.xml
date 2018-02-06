@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12402</id>
+<GameTitle>BlazBlue: Continuum Shift Extend</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>BlazBlue: Continuum Shift EXTEND makes a grand return with the devious all new playable character Relius Clover, new story scenarios, new gameplay modes, and competitively balanced action!
+
+BlazBlue: Continuum Shift EXTEND Key Features
+
+   - Enhanced Story Mode: Relive and rediscover the events that took place in BlazBlue: Calamity Trigger or venture forth into one of four all new story scenarios!
+   - New and Revised Game Modes to Explore: Take on the strongest of foes in Unlimited Mars Mode, dungeoneer your way to the bottom of Abyss Mode, or refine your skills in the improved Challenge Mode!
+   - Fully Revised Combat System: All characters new and old have been thoroughly rebalanced and armed with all new strategies and combos to take your game to the top!
+   - Improved Online Multiplayer: Battle it out in BlazBlue’s acclaimed online mode with all new online multiplayer features, such as online team battles!</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Aksys Games</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>13978</id><PlatformId>15</PlatformId></Game><Game><id>13979</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1160" height="1478" thumb="boxart/thumb/original/front/12402-1.jpg">boxart/original/front/12402-1.jpg</boxart>
+<clearlogo width="400" height="300">clearlogo/12402.png</clearlogo></Images>
+</Game>
+</Data>

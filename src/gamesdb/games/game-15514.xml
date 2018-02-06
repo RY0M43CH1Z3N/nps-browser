@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15514</id>
+<GameTitle>Ninja Gaiden Sigma 2 Plus</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/26/2013</ReleaseDate>
+<Overview>Ninja Gaiden Σ2 gets updated with amazing graphics, brutal violence, and all-new gameplay challenges!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tecmo</Publisher>
+<Developer>Team Ninja</Developer>
+<Rating>7.5</Rating><Images>
+<boxart side="front" width="659" height="814" thumb="boxart/thumb/original/front/15514-1.jpg">boxart/original/front/15514-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

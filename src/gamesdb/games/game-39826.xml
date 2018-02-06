@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39826</id>
+<GameTitle>The Legend of Heroes: Trails of Cold Steel II</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Similar><SimilarCount>1</SimilarCount><Game><id>39401</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1167" height="1487" thumb="boxart/thumb/original/front/39826-1.jpg">boxart/original/front/39826-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

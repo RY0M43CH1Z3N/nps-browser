@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13319</id>
+<GameTitle>Michael Jackson: The Experience</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>Become the King of Pop on PlayStation Vita in this adaptation of the hit dance game. Rather than sing or dance to Michael Jackson's chart-topping songs, you will instead use your fingers to draw shapes on the handheld's multi-touch pads to the beat of the music. You'll even be able to "lean" into moves by using the system's built-in motion sensor.
+
+Locales from 15 of Michael Jackson's music videos are included, each serving as the backdrop for each performance. As you advance from "Thriller" and "Smooth Criminal" to "Remember the Time" and "Beat It," your rhythm skills will unlock new outfits, special effects, power-up gloves, and other items to customize the "experience."</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Music</genre><genre>Puzzle</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft</Developer>
+<Rating>7</Rating><Similar><SimilarCount>6</SimilarCount><Game><id>13478</id><PlatformId>15</PlatformId></Game><Game><id>15090</id><PlatformId>4912</PlatformId></Game><Game><id>15091</id><PlatformId>8</PlatformId></Game><Game><id>5174</id><PlatformId>9</PlatformId></Game><Game><id>13479</id><PlatformId>12</PlatformId></Game><Game><id>15092</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/13319-1.jpg</original>
+<thumb>fanart/thumb/13319-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="820" thumb="boxart/thumb/original/front/13319-1.jpg">boxart/original/front/13319-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30044</id>
+<GameTitle>Gyossait</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Images>
+<boxart side="front" width="960" height="1320" thumb="boxart/thumb/original/front/30044-1.png">boxart/original/front/30044-1.png</boxart>
+</Images>
+</Game>
+</Data>

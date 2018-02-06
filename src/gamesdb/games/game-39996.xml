@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39996</id>
+<GameTitle>HtoL#NiQ The Firefly Diary: Limited Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/19/2014</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Nippon Ichi Software</Publisher>
+<Developer>Nippon Ichi Software</Developer>
+<Images>
+<boxart side="front" width="438" height="500" thumb="boxart/thumb/original/front/39996-1.jpg">boxart/original/front/39996-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

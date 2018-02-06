@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13315</id>
+<GameTitle>Virtua Tennis 4: World Tour Edition</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/14/2012</ReleaseDate>
+<Overview>Virtua Tennis 4 (Sega Professional Tennis: Power Smash 4 in Japan) is the third sequel to Sega's tennis game franchise, Virtua Tennis. It was released on PlayStation 3, Xbox 360, Microsoft Windows, Wii and PlayStation Vita. Virtua Tennis 4 is also being produced for a four player stick based arcade.[1]</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sega</Publisher>
+<Developer>Sega</Developer>
+<Images>
+<boxart side="front" width="640" height="819" thumb="boxart/thumb/original/front/13315-1.jpg">boxart/original/front/13315-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

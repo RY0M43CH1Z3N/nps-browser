@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22944</id>
+<GameTitle>CounterSpy</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/20/2014</ReleaseDate>
+<Overview>CounterSpy is a side-scrolling stealth video game developed by Dynamighty.[2] It was published by Sony Computer Entertainment as a cross-buy and cross-save title for the PlayStation 3, PlayStation 4, and PlayStation Vita.[3] An Android and iOS release is planned for an unknown date.
+
+The games received a mixture of average and positive reviews. It was mostly praised for the art and soundtrack of the game.</Overview>
+<Genres><genre>Stealth</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sony</Publisher>
+<Developer>Dynamighty</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>22942</id><PlatformId>12</PlatformId></Game><Game><id>22943</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="324" height="500" thumb="boxart/thumb/original/front/22944-1.jpg">boxart/original/front/22944-1.jpg</boxart>
+<screenshot>
+<original width="1920" height="1080">screenshots/22944-1.jpg</original>
+<thumb>screenshots/thumb/22944-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/22944-2.jpg</original>
+<thumb>screenshots/thumb/22944-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

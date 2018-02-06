@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13312</id>
+<GameTitle>MLB 13: The Show</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/05/2013</ReleaseDate>
+<Overview>MLB 13 The Show allows you to experience the MLB like never before. Its jaw-dropping realism doesn't just capture every detail and mechanic of the sport; it captures the raw emotion of Major League Baseball. Improvements to Diamond Dynasty, Franchise and Road To The Show modes make MLB 13 The Show the most realistic baseball game ever, while the addition of all-new game modes expand gameplay options even further. If it can happen in baseball, you can experience it in The Show. Whether it's the moment you're called up to the majors, a sacrifice fly to left field, or crushing a walk-off homer to win it all, every big, emotional moment in baseball can be yours. And The Show delivers it with such realism, it's like it really happened.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment</Publisher>
+<Developer>SCE Studios San Diego</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>15111</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="836" thumb="boxart/thumb/original/front/13312-1.jpg">boxart/original/front/13312-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

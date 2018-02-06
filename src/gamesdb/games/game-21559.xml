@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21559</id>
+<GameTitle>Velocity Ultra</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/12/2013</ReleaseDate>
+<Overview>Velocity is a shoot 'em up video game developed by FuturLab for the PlayStation 3, PlayStation Portable, and PlayStation Vita as a PlayStation mini. The developers signed with Sony to create new titles for the PlayStation Vita.[3] A sequel titled Velocity 2X was released on September 2, 2014 for PlayStation 4 and PlayStation Vita, and on August 19, 2015 for Steam and Xbox One.</Overview>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Curve Studios</Publisher>
+<Developer>FuturLab</Developer>
+<Images>
+<boxart side="front" width="1600" height="810" thumb="boxart/thumb/original/front/21559-1.jpg">boxart/original/front/21559-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23185</id>
+<GameTitle>Terraria</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/17/2013</ReleaseDate>
+<Overview>Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. The world is your canvas and the ground itself is your paint.
+Grab your tools and go! You can do many things in Terraria: make weapons and fight off a variety of enemies in numerous biomes, dig deep underground to find accessories, money, and other useful things, gather wood, stone, ores, and other resources to create everything you need to make the world your own and defend it. Build a house, a fort, even a castle, and people will move in to live there and perhaps even sell you different wares to assist you on your journey. But beware, there are even more challenges awaiting you... Are you up to the task?
+
+from: http://www.terraria.org/</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Strategy</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=w7uOhFTrrq0</Youtube>
+<Publisher>505 Games</Publisher>
+<Developer>505 Games</Developer>
+<Similar><SimilarCount>8</SimilarCount><Game><id>25960</id><PlatformId>4916</PlatformId></Game><Game><id>22803</id><PlatformId>15</PlatformId></Game><Game><id>31111</id><PlatformId>4920</PlatformId></Game><Game><id>34540</id><PlatformId>4912</PlatformId></Game><Game><id>42189</id><PlatformId>38</PlatformId></Game><Game><id>2642</id><PlatformId>1</PlatformId></Game><Game><id>23948</id><PlatformId>12</PlatformId></Game><Game><id>24893</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/23185-1.jpg</original>
+<thumb>fanart/thumb/23185-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/23185-2.jpg</original>
+<thumb>fanart/thumb/23185-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/23185-3.jpg</original>
+<thumb>fanart/thumb/23185-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/23185-4.jpg</original>
+<thumb>fanart/thumb/23185-4.jpg</thumb>
+</fanart>
+<boxart side="front" width="1155" height="1478" thumb="boxart/thumb/original/front/23185-1.jpg">boxart/original/front/23185-1.jpg</boxart>
+<banner width="760" height="140">graphical/23185-g.png</banner></Images>
+</Game>
+</Data>

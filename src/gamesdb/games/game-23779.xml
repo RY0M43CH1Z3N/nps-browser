@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23779</id>
+<GameTitle>The Binding of Isaac: Rebirth</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/04/2014</ReleaseDate>
+<Overview>The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Horror</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Nicalis</Publisher>
+<Developer>Nicalis</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>37280</id><PlatformId>4920</PlatformId></Game><Game><id>25701</id><PlatformId>1</PlatformId></Game><Game><id>23778</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="620" height="300" thumb="boxart/thumb/original/front/23779-1.jpg">boxart/original/front/23779-1.jpg</boxart>
+<clearlogo width="400" height="100">clearlogo/23779.png</clearlogo></Images>
+</Game>
+</Data>

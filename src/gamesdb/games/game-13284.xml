@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13284</id>
+<GameTitle>Ridge Racer</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>03/13/2012</ReleaseDate>
+<Overview>BEAUTY &amp; HIGH SPEED DRIFTING AROUND THE WORLD! The high-octane racing franchise drifts onto the PlayStation®Vita System delivering stunning graphics and heart-pounding action that players can truly feel. Ridge Racer® features high-speed action, high-performance racing machines, and all-new gameplay additions creating an edge-of-your-seat experience only possible on the PlayStation®Vita System. Racing fans can also take the action online and tear up the track against players from around the globe using the PlayStation®Vita System "near" and Wi-Fi functionality and race against other players' ghosts anywhere at any time.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Namco Bandai</Publisher>
+<Developer>Cellius Inc.</Developer>
+<Rating>10</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>11796</id><PlatformId>10</PlatformId></Game><Game><id>7112</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="322" height="410" thumb="boxart/thumb/original/front/13284-1.jpg">boxart/original/front/13284-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

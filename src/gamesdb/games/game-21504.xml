@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21504</id>
+<GameTitle>Girls und Panzer: Senshado, Kiwamemasu!</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/26/2014</ReleaseDate>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Bandai Namco Games</Publisher>
+<Developer>Bandai Namco Games</Developer>
+<Images>
+<boxart side="front" width="629" height="800" thumb="boxart/thumb/original/front/21504-1.jpg">boxart/original/front/21504-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

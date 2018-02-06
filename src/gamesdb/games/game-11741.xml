@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11741</id>
+<GameTitle>Escape Plan</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/21/2012</ReleaseDate>
+<Overview>Escape Plan™ takes advantage of the PlayStation®Vita system's multi-touch display, rear touch panel, swipe interfaces and motion sensor, putting the fate of the hapless heroes in the palm of your hand. Players can swipe, squeeze, poke and slap Lil and Laarg to manipulate the characters and interact with the diverse environments. Only you can help them survive each deadly room before their captor and nemesis, Bakuki, recycles them and turns them into his minions... or sheep.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=c10vfQtNzjI</Youtube>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>Fun Bits Interactive</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>23618</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1157" height="1477" thumb="boxart/thumb/original/front/11741-1.jpg">boxart/original/front/11741-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

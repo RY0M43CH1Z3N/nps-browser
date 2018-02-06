@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>16502</id>
+<GameTitle>Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/31/2013</ReleaseDate>
+<Overview>Japan</Overview>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>3</SimilarCount><Game><id>16500</id><PlatformId>1</PlatformId></Game><Game><id>16499</id><PlatformId>12</PlatformId></Game><Game><id>16501</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="501" height="640" thumb="boxart/thumb/original/front/16502-1.jpg">boxart/original/front/16502-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15642</id>
+<GameTitle>Gundam Breaker</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/31/2013</ReleaseDate>
+<Overview>The popularity of the Japanese anime metaseries Mobile Suit Gundam since its release in 1979 has resulted in a spread of merchandise across various forms, with video games among them.
+
+This is a list of video games that are set in the franchise's various timelines, and are segregated by the console systems they were released for.</Overview>
+<Co-op>No</Co-op>
+<Rating>6</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>15641</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="280" height="356" thumb="boxart/thumb/original/front/15642-1.jpg">boxart/original/front/15642-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

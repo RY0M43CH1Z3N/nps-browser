@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15659</id>
+<GameTitle>Hatsune Miku: Project DIVA f</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/30/2012</ReleaseDate>
+<Overview>To be released in North America and Europe in Early 2014.</Overview>
+<Genres><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SEGA</Publisher>
+<Developer>Crypton Future Media</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>15658</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="638" height="813" thumb="boxart/thumb/original/front/15659-1.jpg">boxart/original/front/15659-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

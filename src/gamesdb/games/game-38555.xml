@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38555</id>
+<GameTitle>Saturday Morning RPG</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>36389</id><PlatformId>1</PlatformId></Game><Game><id>41352</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="540" height="600" thumb="boxart/thumb/original/front/38555-1.png">boxart/original/front/38555-1.png</boxart>
+</Images>
+</Game>
+</Data>

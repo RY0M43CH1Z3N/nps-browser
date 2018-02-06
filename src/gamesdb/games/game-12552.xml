@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12552</id>
+<GameTitle>Army Corps of Hell</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>Army Corps of Hell is an action-strategy video game developed by Entersphere and released by Square Enix for the PlayStation Vita.[1]</Overview>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="1160" height="1477" thumb="boxart/thumb/original/front/12552-1.jpg">boxart/original/front/12552-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

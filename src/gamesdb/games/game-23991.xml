@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23991</id>
+<GameTitle>The Wolf Among Us</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/04/2014</ReleaseDate>
+<Overview>The Wolf Among Us is a five episode series from the creators of the 2012 Game of the Year: The Walking Dead. Fairytale characters are being murdered in this hard-boiled, violent and mature thriller based on the award-winning Fables comic book series (DC Comics/Vertigo) by Bill Willingham. As Bigby Wolf - THE big bad wolf - you will discover that a brutal, bloody murder is just a taste of things to come in a game series where your every decision can have enormous consequences.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=QIgx0vPPDtA</Youtube>
+<Publisher>Telltale Games</Publisher>
+<Developer>Telltale Games</Developer>
+<Rating>9</Rating><Similar><SimilarCount>5</SimilarCount><Game><id>23438</id><PlatformId>15</PlatformId></Game><Game><id>40007</id><PlatformId>4920</PlatformId></Game><Game><id>18257</id><PlatformId>1</PlatformId></Game><Game><id>32373</id><PlatformId>12</PlatformId></Game><Game><id>24141</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1174" height="1500" thumb="boxart/thumb/original/front/23991-1.png">boxart/original/front/23991-1.png</boxart>
+</Images>
+</Game>
+</Data>

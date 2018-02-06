@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26706</id>
+<GameTitle>Tetris Ultimate</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Puzzle</genre></Genres><Co-op>No</Co-op>
+<Developer>Ubisoft</Developer>
+<Similar><SimilarCount>4</SimilarCount><Game><id>26704</id><PlatformId>4920</PlatformId></Game><Game><id>26707</id><PlatformId>4912</PlatformId></Game><Game><id>26705</id><PlatformId>1</PlatformId></Game><Game><id>26703</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="683" height="1024" thumb="boxart/thumb/original/front/26706-1.jpg">boxart/original/front/26706-1.jpg</boxart>
+<clearlogo width="400" height="300">clearlogo/26706.png</clearlogo></Images>
+</Game>
+</Data>

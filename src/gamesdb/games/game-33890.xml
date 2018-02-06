@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>33890</id>
+<GameTitle>Desert Ashes</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Desert Ashes is a turn based strategy game with online multiplayer and single player campaigns which also boasts an innovative menu system allowing players to enjoy multiple games at once.</Overview>
+<Genres><genre>Strategy</genre></Genres><Co-op>No</Co-op>
+<Publisher>Nine Tales Digital</Publisher>
+<Developer>Luc Bernard</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>33891</id><PlatformId>1</PlatformId></Game><Game><id>33892</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="465" height="640" thumb="boxart/thumb/original/front/33890-1.jpg">boxart/original/front/33890-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

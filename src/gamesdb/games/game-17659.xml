@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17659</id>
+<GameTitle>Divekick</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>08/20/2013</ReleaseDate>
+<Overview>Divekick is the world’s first-ever two-button fighting game! It has earned notoriety in the press and fighting game community by not using a stick, yet still retaining the strategic gameplay and spacing techniques employed by professional fighting game players. Now anyone can experience the thrill of fighting games without memorizing complex combos and finger-contorting button presses.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=nys92Vllk4o</Youtube>
+<Publisher>Iron Galaxy Studios</Publisher>
+<Developer>Iron Galaxy Studios</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>17658</id><PlatformId>1</PlatformId></Game><Game><id>17657</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="475" height="541" thumb="boxart/thumb/original/front/17659-1.png">boxart/original/front/17659-1.png</boxart>
+<screenshot>
+<original width="960" height="540">screenshots/17659-1.jpg</original>
+<thumb>screenshots/thumb/17659-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="540">screenshots/17659-2.jpg</original>
+<thumb>screenshots/thumb/17659-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="540">screenshots/17659-3.jpg</original>
+<thumb>screenshots/thumb/17659-3.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="200">clearlogo/17659.png</clearlogo></Images>
+</Game>
+</Data>

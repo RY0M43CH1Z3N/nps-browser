@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35277</id>
+<GameTitle>Mighty No. 9</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/21/2016</ReleaseDate>
+<Overview>Mighty No. 9 is focused on 2D platforming, with a blend of 2D and 3D artwork and animation. Players control a robot named Beck, who is able to run, jump, and shoot projectiles at enemies he encounters. Furthermore, the player will be able to acquire both weapons and abilities from enemies they defeat. The game will feature an intro level followed by the eight main stages, which are freely chosen in any order by the player. At the end of each stage, Beck must face one of the other eight "Mighty" units in a boss battle. A final set of stages are unlocked at the end of the game, leading up to the final showdown. An additional level starring Beck's partner, Call, is also available at some point.
+
+In addition to jumping and shooting, Beck's main ability is a dash, which can be used to move quickly and cross large gaps. Upon weakening enemies by shooting them, Beck can dash through them in order to absorb a substance known as Xel (pronounced "Cel"). Absorbing Xel from enemies will grant Beck temporary enhancements, such as increased power or speed. By defeating bosses, Beck can obtain new transformation forms, giving him new abilities such as magnetic limbs. Conversely, Call can't absorb Xel but can dash further than Beck and can use a shield that reflects projectiles and jetboots that slow her fall.</Overview>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=YngbHOz--oc</Youtube>
+<Publisher>Deep Silver</Publisher>
+<Developer>Abstraction Games</Developer>
+<Similar><SimilarCount>8</SimilarCount><Game><id>35281</id><PlatformId>15</PlatformId></Game><Game><id>35275</id><PlatformId>4920</PlatformId></Game><Game><id>35278</id><PlatformId>4912</PlatformId></Game><Game><id>35279</id><PlatformId>38</PlatformId></Game><Game><id>35282</id><PlatformId>1</PlatformId></Game><Game><id>34834</id><PlatformId>1</PlatformId></Game><Game><id>35280</id><PlatformId>12</PlatformId></Game><Game><id>35161</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="403" height="452" thumb="boxart/thumb/original/front/35277-1.jpg">boxart/original/front/35277-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>13282</id>
+<GameTitle>FIFA Soccer</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/14/2012</ReleaseDate>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Sports</genre></Genres><Co-op>No</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>Electronic Arts</Developer>
+<Images>
+<boxart side="front" width="389" height="500" thumb="boxart/thumb/original/front/13282-1.jpg">boxart/original/front/13282-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

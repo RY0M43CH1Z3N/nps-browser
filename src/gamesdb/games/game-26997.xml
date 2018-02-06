@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26997</id>
+<GameTitle>Titan Souls</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Titan Souls is a 2015 action-adventure video game developed by UK-based indie studio Acid Nerve and published by Devolver Digital. It was released on April 14, 2015.</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Publisher>Devolver Digital</Publisher>
+<Developer>Acid Nerve</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>23894</id><PlatformId>1</PlatformId></Game><Game><id>26998</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1920" height="1079" thumb="boxart/thumb/original/front/26997-1.jpg">boxart/original/front/26997-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

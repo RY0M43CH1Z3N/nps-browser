@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23790</id>
+<GameTitle>Joe Danger</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/02/2014</ReleaseDate>
+<Overview>You are Joe Danger, the world's most determined stuntman. You live to thrill the crowd and break World Records. Take on your friends or race against your rivals – the reckless Team Nasty. You laugh in the face of danger, and it laughs back, as you bounce from boulder to boulder, on fire, towards that pile of mousetraps. Freeze the game at any point and edit your level however you want it. Once you are finished, share the joy.
+
+This PlayStation Vita release of Joe Danger features 84 levels, including the Director’s Cut and Laboratory stages from the Special Edition, and 25 characters to play with. Vivid, super-smooth 60FPS graphics pop off the screen, while online leaderboards and ghost race trials give players hours of competitive play.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Hello Games</Publisher>
+<Developer>Hello Games</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>15723</id><PlatformId>4915</PlatformId></Game><Game><id>17698</id><PlatformId>1</PlatformId></Game><Game><id>15722</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="460" height="215" thumb="boxart/thumb/original/front/23790-1.jpg">boxart/original/front/23790-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40016</id>
+<GameTitle>Superbeat Xonic</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/22/2015</ReleaseDate>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Music</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Developer>Nurijoy</Developer>
+<Images>
+<boxart side="front" width="279" height="358" thumb="boxart/thumb/original/front/40016-1.jpg">boxart/original/front/40016-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

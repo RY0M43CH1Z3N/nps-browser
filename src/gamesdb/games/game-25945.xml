@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25945</id>
+<GameTitle>Nuclear Throne</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Developer>Vlambeer</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>25946</id><PlatformId>1</PlatformId></Game><Game><id>25947</id><PlatformId>12</PlatformId></Game><Game><id>25944</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1024" height="576" thumb="boxart/thumb/original/front/25945-1.jpg">boxart/original/front/25945-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

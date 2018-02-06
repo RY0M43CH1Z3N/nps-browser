@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>27018</id>
+<GameTitle>WRC 3 World Rally Championship</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>WRC 3: FIA World Rally Championship (also known as WRC 3, WRC 3: FIA World Rally Championship 3, 2012 FIA World Rally Championship) is the official racing video game of the 2012 World Rally Championship season. It was developed by Milestone S.r.l.. WRC 3 was released in Europe on 12 October 2012.[3]</Overview>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Developer>Milestone S.r.l</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>27017</id><PlatformId>15</PlatformId></Game><Game><id>27016</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="360" height="457" thumb="boxart/thumb/original/front/27018-1.jpg">boxart/original/front/27018-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

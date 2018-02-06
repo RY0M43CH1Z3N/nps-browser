@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34013</id>
+<GameTitle>Monster Hunter Frontier G</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Genres><genre>MMO</genre><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Developer>Capcom</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>34009</id><PlatformId>15</PlatformId></Game><Game><id>34010</id><PlatformId>38</PlatformId></Game><Game><id>34011</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1353" height="1722" thumb="boxart/thumb/original/front/34013-1.jpg">boxart/original/front/34013-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

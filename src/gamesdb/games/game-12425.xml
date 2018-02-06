@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12425</id>
+<GameTitle>Lumines: Electronic Symphony</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>The king of music-puzzle games returns with its first, all-new installment in over 5 years. Lumines™ Electronic Symphony marks the return of Q Entertainment's landmark puzzle series, bringing together addictive block-dropping puzzle action, an all-new 3D graphics engine, and some of the most significant names in electronic music history.</Overview>
+<Genres><genre>Music</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Ubisoft</Publisher>
+<Developer>Q Entertainment</Developer>
+<Images>
+<boxart side="front" width="233" height="300" thumb="boxart/thumb/original/front/12425-1.jpg">boxart/original/front/12425-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

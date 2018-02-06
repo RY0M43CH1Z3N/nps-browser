@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22641</id>
+<GameTitle>Atelier Rorona Plus: The Alchemist of Arland</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>07/22/2014</ReleaseDate>
+<Overview>The popular alchemic RPG franchise from Gust carries on the tradition of the Atelier series, using alchemy as the main focal point. Atelier Rorona Plus focuses on the exploits of Rorolina Frixell, one the most beloved characters of the Arland trilogy (Atelier Meruru/ Totori/ Rorona), a young girl who is assigned to complete alchemy tasks over 3 years in order to keep her alchemy workshop and not be banished from the kingdom of Arland.
+
+Players can craft new items and also battle enemies using the power of alchemy. As all games in the Atelier series, this title is set against a stunning anime-like background with beautiful 3D graphics and is characterised by an elaborate crafting and synthesis system.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tecmo Koei Games</Publisher>
+<Developer>Gust</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>21961</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="814" thumb="boxart/thumb/original/front/22641-1.jpg">boxart/original/front/22641-1.jpg</boxart>
+<clearlogo width="400" height="232">clearlogo/22641.png</clearlogo></Images>
+</Game>
+</Data>

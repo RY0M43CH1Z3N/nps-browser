@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12429</id>
+<GameTitle>Ninja Gaiden Sigma Plus</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/22/2012</ReleaseDate>
+<Overview>One of the highest-rated action games is back and better than ever. Experience a new way to play Ninja Gaiden Sigma with motion &amp; touch controls, tons of content, and new challenges to test even the toughest ninja.
+
+For centuries, the Dragon Ninjas have protected the world and kept safe the most powerful weapons. But now, a powerful evil arises who will test the might of the ninjas. Take Dragon Sword in hand as the young Ryu Hayabusa, and journey to the farthest reaches of the world and beyond to cut down the malevolent Fiends!</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Tecmo Koei</Publisher>
+<Developer>Team Ninja</Developer>
+<Images>
+<boxart side="front" width="233" height="300" thumb="boxart/thumb/original/front/12429-1.jpg">boxart/original/front/12429-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

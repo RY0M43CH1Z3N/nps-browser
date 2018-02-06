@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>29818</id>
+<GameTitle>Bastion</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Co-op>No</Co-op>
+<Publisher>Warner Bros. Interactive Entertainment</Publisher>
+<Developer>Supergiant Games</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>10937</id><PlatformId>15</PlatformId></Game><Game><id>6234</id><PlatformId>1</PlatformId></Game><Game><id>29817</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="584" height="697" thumb="boxart/thumb/original/front/29818-1.png">boxart/original/front/29818-1.png</boxart>
+</Images>
+</Game>
+</Data>

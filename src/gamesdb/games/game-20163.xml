@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>20163</id>
+<GameTitle>LEGO The Hobbit</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>04/08/2014</ReleaseDate>
+<Overview>From the makers of the immensely popular LEGO The Lord of the Rings, comes LEGO The Hobbit, inspired by the first two films in The Hobbit Trilogy: The Hobbit: An Unexpected Journey and the upcoming The Hobbit: Desolation of Smaug, productions of New Line Cinema and Metro-Goldwyn-Mayer Pictures (MGM) as well as the collection of LEGO The Hobbit constructions sets. The interactive game of LEGO The Hobbit allows gamers to play along their favorite scenes from the films and follows the Hobbit Bilbo Baggins as he is recruited by the Wizard Gandalf to aid Thorin Oakenshield and his Company of Dwarves. Bilbo leaves the comforts of the Shire on a journey through Middle-earth to help the Dwarves reclaim their lost Kingdom of Erebor within the Lonely Mountain. Along the way, he is introduced to ravenous Trolls, dangerous Orcs and, of course, Gollum and his precious Ring. Players will utilize and combine the Dwarves' unique abilities - often with hilarious results - to solve the most diverse Quests of any LEGO videogame to date.</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Warner,wb</Publisher>
+<Developer>Traveller's Tales</Developer>
+<Similar><SimilarCount>7</SimilarCount><Game><id>22681</id><PlatformId>15</PlatformId></Game><Game><id>23925</id><PlatformId>4920</PlatformId></Game><Game><id>23622</id><PlatformId>4912</PlatformId></Game><Game><id>33560</id><PlatformId>38</PlatformId></Game><Game><id>19568</id><PlatformId>1</PlatformId></Game><Game><id>20162</id><PlatformId>12</PlatformId></Game><Game><id>23244</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/20163-1.jpg</original>
+<thumb>fanart/thumb/20163-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="995" height="1247" thumb="boxart/thumb/original/front/20163-1.jpg">boxart/original/front/20163-1.jpg</boxart>
+<clearlogo width="400" height="120">clearlogo/20163.png</clearlogo></Images>
+</Game>
+</Data>

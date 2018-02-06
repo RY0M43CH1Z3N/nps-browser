@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17274</id>
+<GameTitle>Rayman Legends</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/03/2013</ReleaseDate>
+<Overview>Rayman Legends is a 2D Platformer game, developed by Ubisoft Montpellier and published by Ubisoft, which was released in 2013.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=yMIKs1PKrEM</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Montpellier</Developer>
+<Similar><SimilarCount>6</SimilarCount><Game><id>16306</id><PlatformId>15</PlatformId></Game><Game><id>22711</id><PlatformId>4920</PlatformId></Game><Game><id>12237</id><PlatformId>38</PlatformId></Game><Game><id>17630</id><PlatformId>1</PlatformId></Game><Game><id>16305</id><PlatformId>12</PlatformId></Game><Game><id>19529</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/17274-1.jpg</original>
+<thumb>fanart/thumb/17274-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="640" height="821" thumb="boxart/thumb/original/front/17274-1.jpg">boxart/original/front/17274-1.jpg</boxart>
+<screenshot>
+<original width="1920" height="1080">screenshots/17274-1.jpg</original>
+<thumb>screenshots/thumb/17274-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17274-2.jpg</original>
+<thumb>screenshots/thumb/17274-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17274-3.jpg</original>
+<thumb>screenshots/thumb/17274-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/17274-4.jpg</original>
+<thumb>screenshots/thumb/17274-4.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="300">clearlogo/17274.png</clearlogo></Images>
+</Game>
+</Data>

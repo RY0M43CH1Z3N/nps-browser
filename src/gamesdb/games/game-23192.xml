@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23192</id>
+<GameTitle>Velocity 2X</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/02/2014</ReleaseDate>
+<Overview>Weaving together two classic game formats into one seamless experience, Velocity 2X features platforming action alongside the award-winning top-down shoot ‘em-up gameplay</Overview>
+<Genres><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=RGsrGmIWxV0</Youtube>
+<Publisher>Futurlab</Publisher>
+<Developer>Futurlab</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>35206</id><PlatformId>1</PlatformId></Game><Game><id>23193</id><PlatformId>12</PlatformId></Game><Game><id>23191</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1280" height="720">fanart/original/23192-1.jpg</original>
+<thumb>fanart/thumb/23192-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/23192-2.jpg</original>
+<thumb>fanart/thumb/23192-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/23192-3.jpg</original>
+<thumb>fanart/thumb/23192-3.jpg</thumb>
+</fanart>
+<boxart side="front" width="166" height="232" thumb="boxart/thumb/original/front/23192-1.jpg">boxart/original/front/23192-1.jpg</boxart>
+<banner width="760" height="140">graphical/23192-g.jpg</banner></Images>
+</Game>
+</Data>

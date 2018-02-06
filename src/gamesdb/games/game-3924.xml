@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3924</id>
+<GameTitle>Wipeout 2048</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/13/2012</ReleaseDate>
+<Overview>The single player campaign progresses through the first three years of the A.G.R.C. (Anti-Gravity Racing Championships): 2048, 2049, and 2050. All events have pass and elite pass targets. Unless the elite pass criteria is met unknowingly, it will only be displayed after a player passes an event. If the player fails to complete an event multiple times in a row, the event can be skipped. Skipping an event will allow the player to move on to the next available event; a player can return to a skipped event at any time in order to try it again.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=ddMh70ERkWY</Youtube>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>Studio Liverpool</Developer>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/3924-1.jpg</original>
+<thumb>fanart/thumb/3924-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/3924-2.jpg</original>
+<thumb>fanart/thumb/3924-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/3924-3.jpg</original>
+<thumb>fanart/thumb/3924-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/3924-4.jpg</original>
+<thumb>fanart/thumb/3924-4.jpg</thumb>
+</fanart>
+<boxart side="front" width="1171" height="1500" thumb="boxart/thumb/original/front/3924-1.jpg">boxart/original/front/3924-1.jpg</boxart>
+<screenshot>
+<original width="960" height="544">screenshots/3924-1.jpg</original>
+<thumb>screenshots/thumb/3924-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="960" height="544">screenshots/3924-2.jpg</original>
+<thumb>screenshots/thumb/3924-2.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

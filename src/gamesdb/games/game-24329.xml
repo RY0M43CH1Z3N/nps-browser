@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>24329</id>
+<GameTitle>Shovel Knight</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Shovel Knight is a 2014 action platformer video game developed and published by independent developer Yacht Club Games for the Nintendo 3DS, Wii U, PS4, PS Vita and personal computer platforms. The game was released worldwide on June 26, 2014. Shovel Knight was directed by former WayForward Technologies member Sean Velasco, and includes music composed by Jake Kaufman and Manami Matsumae.
+
+Prior to the game, adventurers Shovel Knight and Shield Knight fought alongside one another, journeying across the world and seeking treasure. However, when the two explore the Tower of Fate, the two fall to the dark magic power of a cursed amulet. When Shovel Knight reawakens, the Tower has been sealed and Shield Knight is nowhere to be seen. Grieving for his beloved, Shovel Knight gives up adventuring and secludes himself. However, during his absence, the Enchantress rises to power, spreading evil across the land. Upon hearing that the Enchantress has unsealed the Tower of Fate, Shovel Knight takes up his shovel again and ventures towards it, hoping to find and rescue Shield Knight. In order to do so, Shovel Knight must fight the eight members of "The Order of No Quarter," who have been dispatched by the Enchantress to impede him.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Yacht Club Games</Publisher>
+<Developer>Yacht Club Games</Developer>
+<Similar><SimilarCount>5</SimilarCount><Game><id>37620</id><PlatformId>4920</PlatformId></Game><Game><id>22516</id><PlatformId>4912</PlatformId></Game><Game><id>21331</id><PlatformId>38</PlatformId></Game><Game><id>21178</id><PlatformId>1</PlatformId></Game><Game><id>24328</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1280" height="720" thumb="boxart/thumb/original/front/24329-1.jpg">boxart/original/front/24329-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

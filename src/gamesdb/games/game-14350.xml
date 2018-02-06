@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14350</id>
+<GameTitle>Earth Defense Force 2017 Portable</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>01/08/2013</ReleaseDate>
+<Overview>The Earth Defense Force is all that stands man between thousands of gigantic bugs, aliens, and the end of the world in a realistic urban sprawl that is doomed for total destruction. Earth Defense Force 2017 Portable is a completely remastered version of the original arcade action shooter classic E.D.F. 2017, featuring seven new levels and the fan favorite Pale Wing that lets players soar high over buildings in her jet pack and cause destruction from above. For the first time, save the world with your friends in online multiplayer for up to four players and players can play in co-op and versus mode. Get ready to battle against the very best from outer space in Earth Defense Force 2017 Portable and take out the never ending onslaught of insects infesting our planet!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=VqQ2JOGn8xM</Youtube>
+<Publisher>D3 Publisher</Publisher>
+<Developer>Sandlot (JP)</Developer>
+<Rating>6.5</Rating><Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/14350-1.jpg">boxart/original/front/14350-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12243</id>
+<GameTitle>PlayStation All-Stars Battle Royale</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>11/20/2012</ReleaseDate>
+<Overview>PlayStation® All-Stars Battle Royale™ is free-for-all brawler showcasing the best and brightest of PlayStation's characters and worlds. From Kratos to Sly Cooper, Sweet Tooth to Parappa the Rapper, Sony characters from all over the gaming spectrum are brought together in a fighting adventure that's both easy to play, and hard to master. Take the battle online for competitive multiplayer action, or go head to head with a group of friends on the couch and prove once and for all who's really the best!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Fighting</genre></Genres><Players>4+</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>Superbot Entertainment</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>12241</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12243-1.jpg</original>
+<thumb>fanart/thumb/12243-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="1152" height="1478" thumb="boxart/thumb/original/front/12243-1.jpg">boxart/original/front/12243-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

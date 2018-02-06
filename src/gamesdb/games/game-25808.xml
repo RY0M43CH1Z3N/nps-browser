@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25808</id>
+<GameTitle>Darkest Dungeon</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Darkest Dungeon is a roguelike, dungeon crawler video game created by indie game developer Red Hook Studios. The game, presently in Early Access for personal computers, is expected to have a full release in January 19, 2016 for Microsoft Windows, OS X, and Linux computers, with a release for PlayStation 4, and PlayStation Vita consoles a few months later.
+
+Darkest Dungeon has the player manage a roster of heroes to explore dungeons below a gothic mansion the player has inherited. Played out in a mix of real-time movement and turn-based combat, a core feature of Darkest Dungeon is the stress level of each hero that increases with further exploration and combat; a character sustaining a high stress level may gain afflictions that will hamper, or possibly enhance, their performance as an explorer. This concept was drawn into the game by the developed based on film characters that suffer from the traumas of combat stress such as from Aliens or Band of Brothers.</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Developer>Red Hook Studios</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>25806</id><PlatformId>1</PlatformId></Game><Game><id>25807</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="460" height="215" thumb="boxart/thumb/original/front/25808-1.jpg">boxart/original/front/25808-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

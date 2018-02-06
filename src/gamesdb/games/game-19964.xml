@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19964</id>
+<GameTitle>Rymdkapsel</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Rymdkapsel is a 2013 minimalist real-time strategy video game by indie developer Grapefrukt, the studio of Martin Jonasson. Players build a space station using tetromino pieces while managing resources and minions, defending against attacks, and extending the base towards four monoliths at the edges of the level. The game was built over a year and a half and was inspired by the base-building aspects of the Command &amp; Conquer series. It was Jonasson's first full game as an indie developer. Rymdkapsel was released on May 7, 2013 for PlayStation Mobile, and was later ported to iOS, Android, Microsoft Windows, OS X, and Linux. Reviewers gave the game generally favorable reviews, where they appreciated its simplicity and challenge, but not its brevity and slow start.</Overview>
+<Co-op>No</Co-op>
+<Images>
+<boxart side="front" width="660" height="371" thumb="boxart/thumb/original/front/19964-1.jpg">boxart/original/front/19964-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

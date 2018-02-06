@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40157</id>
+<GameTitle>Valhalla Knights 3</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/05/2013</ReleaseDate>
+<Overview>Valhalla Knights 3 marks the return of the gritty action RPG series, now taking full advantage of the powerful PS Vita hardware to provide intense real-time battle and smooth seven-on-seven party-based combat. After creating a main character and field-worthy party members from one of seven races such as human, elf and beast with a myriad of customizable physical traits, each character is assigned a job class from the twenty available such as fighter, mage and priest. As battles are won each customized character earns various loot from the countless items, weapons and armor available, as well as skill points towards unlocking job-specific skills. Powerful pre-existing warriors can also be persuaded to join your battle party by showering them with gifts and creating a strong personal bond.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=AGV7TIg6TEc</Youtube>
+<Publisher>Marvelous!</Publisher>
+<Developer>Marvelous!</Developer>
+<Images>
+<boxart side="front" width="819" height="1036" thumb="boxart/thumb/original/front/40157-1.jpg">boxart/original/front/40157-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

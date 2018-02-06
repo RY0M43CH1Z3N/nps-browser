@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23792</id>
+<GameTitle>Pix the Cat</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/08/2014</ReleaseDate>
+<Overview>Pix the Cat is an intense, fast-paced action game. Perfect your skills to rescue ducklings by the millions from the Grid of Infinity. Increase your Combo Level until you reach Fever Time to score Massive Points! Challenge your friends locally and online ghosts to become the Baddest Cat in town and in the world! Discover various solo and multiplayer game modes throughout your adventure to master the art of Pix the Cat!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Pasta Games</Publisher>
+<Developer>Pasta Games</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>29559</id><PlatformId>1</PlatformId></Game><Game><id>23793</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="720" height="720" thumb="boxart/thumb/original/front/23792-1.jpg">boxart/original/front/23792-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

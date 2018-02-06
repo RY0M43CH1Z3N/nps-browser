@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>26236</id>
+<GameTitle>LEGO Jurassic World</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/30/2015</ReleaseDate>
+<Overview>Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the highly anticipated Jurassic World, LEGO Jurassic World is the first videogame where players will be able to relive and experience all four Jurassic films. Reimagined in LEGO form and told in TT Games' signature classic LEGO humor, the thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.</Overview>
+<ESRB>RP - Rating Pending</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=bPpFdyEioGs</Youtube>
+<Publisher>Warner Home Video Games</Publisher>
+<Developer>Warner Home Video Games</Developer>
+<Similar><SimilarCount>6</SimilarCount><Game><id>41765</id><PlatformId>4920</PlatformId></Game><Game><id>34543</id><PlatformId>4912</PlatformId></Game><Game><id>29073</id><PlatformId>38</PlatformId></Game><Game><id>29179</id><PlatformId>1</PlatformId></Game><Game><id>32604</id><PlatformId>12</PlatformId></Game><Game><id>26237</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="995" height="1247" thumb="boxart/thumb/original/front/26236-1.jpg">boxart/original/front/26236-1.jpg</boxart>
+<clearlogo width="400" height="150">clearlogo/26236.png</clearlogo></Images>
+</Game>
+</Data>

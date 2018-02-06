@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21558</id>
+<GameTitle>TxK</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/11/2014</ReleaseDate>
+<Genres><genre>Action</genre><genre>Shooter</genre></Genres><Co-op>No</Co-op>
+<Publisher>Llamasoft</Publisher>
+<Developer>Llamasoft</Developer>
+<Images>
+<boxart side="front" width="480" height="600" thumb="boxart/thumb/original/front/21558-1.png">boxart/original/front/21558-1.png</boxart>
+</Images>
+</Game>
+</Data>

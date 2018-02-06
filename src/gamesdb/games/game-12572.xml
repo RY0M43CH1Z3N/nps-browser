@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12572</id>
+<GameTitle>Smart as...</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/23/2012</ReleaseDate>
+<Overview>The new generation of brain training.
+
+Experience a brilliant brain workout in 15 unique challenges using the innovative features of PS Vita.
+Test your analytical skills in Roller Blocks, develop your mathematical prowess in Number Pinch and improve your powers of recollection with Memory Belt.
+Make new friends and take on the world via Player to Player challenges.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Puzzle</genre><genre>Strategy</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SCEA</Publisher>
+<Developer>XDEV</Developer>
+<Images>
+<boxart side="front" width="640" height="816" thumb="boxart/thumb/original/front/12572-1.jpg">boxart/original/front/12572-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

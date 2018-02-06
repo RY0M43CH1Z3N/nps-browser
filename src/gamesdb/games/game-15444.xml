@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>15444</id>
+<GameTitle>Doctor Who: The Eternity Clock</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>10/09/2012</ReleaseDate>
+<Overview>Doctor Who: The Eternity Clock is a video game released on 23 May 2012 based upon the BBC television programme Doctor Who. It was intended to be the first of a series,[6] but it was announced in 2013 that the sequels have been put on hold.[7]</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Co-op>No</Co-op>
+<Similar><SimilarCount>2</SimilarCount><Game><id>15445</id><PlatformId>1</PlatformId></Game><Game><id>15443</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1280" height="1498" thumb="boxart/thumb/original/front/15444-1.jpg">boxart/original/front/15444-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

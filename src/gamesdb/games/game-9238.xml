@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>9238</id>
+<GameTitle>Little Deviants</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/15/2012</ReleaseDate>
+<Overview>Join the Little Deviants in a series of madcap adventures that allow you to have fun discovering and experimenting with the new PS Vita System functions - including rear touch, front touch, six-axis motion senors, front and rear cameras and microphone.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Players>4+</Players><Co-op>No</Co-op>
+<Publisher>Sony Computer Entertainment America</Publisher>
+<Developer>BigBig Studios</Developer>
+<Images>
+<boxart side="back" width="1156" height="1472" thumb="boxart/thumb/original/back/9238-1.jpg">boxart/original/back/9238-1.jpg</boxart>
+<boxart side="front" width="1162" height="1472" thumb="boxart/thumb/original/front/9238-1.jpg">boxart/original/front/9238-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

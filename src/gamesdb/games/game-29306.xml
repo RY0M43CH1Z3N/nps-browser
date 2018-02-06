@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>29306</id>
+<GameTitle>Pier Solar and the Great Architects</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Overview>Pier Solar and the Great Architects is a homebrew role-playing video game developed and published by WaterMelon for the Sega Megadrive. The game was released worldwide on December 20, 2010.[2] The game optionally utilizes the Sega CD expansion device to enhance its audio capabilities.[3]</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Developer>Watermelon</Developer>
+<Similar><SimilarCount>7</SimilarCount><Game><id>29301</id><PlatformId>15</PlatformId></Game><Game><id>29302</id><PlatformId>4920</PlatformId></Game><Game><id>29305</id><PlatformId>38</PlatformId></Game><Game><id>29300</id><PlatformId>1</PlatformId></Game><Game><id>20347</id><PlatformId>36</PlatformId></Game><Game><id>29303</id><PlatformId>12</PlatformId></Game><Game><id>29304</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="600" height="600" thumb="boxart/thumb/original/front/29306-1.jpg">boxart/original/front/29306-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

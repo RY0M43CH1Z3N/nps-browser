@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34498</id>
+<GameTitle>Gundam Breaker 2</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>12/18/2014</ReleaseDate>
+<Players>4+</Players><Co-op>No</Co-op>
+<Rating>10</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>34499</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="500" height="633" thumb="boxart/thumb/original/front/34498-1.jpg">boxart/original/front/34498-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

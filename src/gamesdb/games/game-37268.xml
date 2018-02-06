@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>37268</id>
+<GameTitle>Color Guardians</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<Similar><SimilarCount>1</SimilarCount><Game><id>32608</id><PlatformId>1</PlatformId></Game></Similar><Images>
+</Images>
+</Game>
+</Data>

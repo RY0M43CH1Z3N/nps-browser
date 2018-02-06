@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21580</id>
+<GameTitle>XBLAZE Code: Embryo</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>06/24/2014</ReleaseDate>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Arc System Works</Publisher>
+<Developer>Arc System Works</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>22614</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="640" height="818" thumb="boxart/thumb/original/front/21580-1.jpg">boxart/original/front/21580-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

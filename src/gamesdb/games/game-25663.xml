@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>25663</id>
+<GameTitle>Kick &amp; Fennick</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>02/03/2015</ReleaseDate>
+<Overview>Kick &amp; Fennick is a smooth and easygoing platform adventure about Kick, a little boy with a very big gun, and a small flying robot named Fennick.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Green Hill BV</Publisher>
+<Developer>Abstraction Games</Developer>
+<Rating>6</Rating><Images>
+<boxart side="front" width="375" height="569" thumb="boxart/thumb/original/front/25663-1.jpg">boxart/original/front/25663-1.jpg</boxart>
+</Images>
+</Game>
+</Data>
