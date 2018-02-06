@@ -14,5 +14,5 @@ NoPayStation Browser for PSVITA
 
 ## Screens
 
-![alt text](https://github.com/anup756/NoPayStationBrowser/blob/master/src/img.png)
+![alt text](https://github.com/anup756/nps-browser/blob/master/src/img.png)
 
