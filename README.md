@@ -12,7 +12,3 @@ NoPayStation Browser for PSVITA
 
 ## TODO: App uses Bootstrap 4 and it is upto you to make the UI look good :)
 
-## Screens
-
-![alt text](https://github.com/anup756/nps-browser/blob/master/src/img.png)
-
